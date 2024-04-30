@@ -1,0 +1,97 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6269,
+                "timestamp": 60182462,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Hello Casters!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4ac68d70d3080f7c71152e3fd1c566f6911af497",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ACy+UBQL6yJ1DuO0e7NPOu25gRv76XM5hF6S6b3XW+L5i1oIMXQm4BDyeZCr4D/rd5TWM6Ne6IWdJhQJdr9rAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x2692516a09c8421c2a13f9fe7b694cba505fb3f76ff6788323ba888ce6f8b16b"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6269,
+                "timestamp": 60236016,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6187,
+                        "hash": "0xa4f8edd8cdc0d679f200d64fed195a6a8be7aed8"
+                    },
+                    "text": "GM",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa3bc70dd40998e46aee6f1b2198cd7072cc3931f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "gLlroD9Aqc9Y6k1xJedrORQy53Ipt70QMATucOP4+RZcSMMzXJ/um+TpUwylUIBd0SkIAABPP9RhmIjjfy2XDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x2692516a09c8421c2a13f9fe7b694cba505fb3f76ff6788323ba888ce6f8b16b"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6269,
+                "timestamp": 60236042,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1655,
+                        "hash": "0xda69dfd171f655b53f9f91751f74dce8d8494bd6"
+                    },
+                    "text": "GM, ser! Thanks :)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x93e1782466c2548b8f7d21de71c870c255e80127",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3cME+zjX6qlYD9mKyfOFPVoxf/TlQJeVbUDmiDRuY7BGNmdjlirh9fGsrpZpxUW8YANf0g58jmAYlx2YM5keDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x2692516a09c8421c2a13f9fe7b694cba505fb3f76ff6788323ba888ce6f8b16b"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6269,
+                "timestamp": 102155697,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6575,
+                        "hash": "0xdf06ad338461036c3badaae174b20f9f384ec946"
+                    },
+                    "text": "We really need standardisation of RPC methods for ERC4337. Seems fragmented based on bundler providers.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbd331ba0ace9ec9d175b9f19efa871dfd2b98423",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/NPt+3OJMfkwTG21GPLJ+umeyga+7KbpYuj1iboZ2DwHWUxYylG5sAGA8Bf/8ga3JO732RFblqmGBAluQuzGCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x2692516a09c8421c2a13f9fe7b694cba505fb3f76ff6788323ba888ce6f8b16b"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,240 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 52688547,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 134,
+                        "hash": "0xe9d75a2612a91ace3e27568bbd930299fd4843ef"
+                    },
+                    "text": "I am definitely hooked - came in with a lot of expectations, none were fulfilled, but still hooked because of the story :)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xcd799d231a7162dd3de455f878c0180e75421c73",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XDcYQcF8npCy3F31i1EEWejXoQ8G7uVvRqnYQlmr66VN5TqD7TYOqHPthPqG2/GJlB/DjhrUOohHxxmFSuZeCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 54923996,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "you know you have grown up when you realize the difference between building side projects and a business",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa990d40596f7a925d222c77d52db0f32123c1ae8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rj1jyiL/dSB+9mvsLGFOeWU4tOY7KTaeRou5PJDfwE4DSRoof6QwS0O4EKsnEU1wTRjOcjP+pDZ06mQTy5ONBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 1617,
+                "timestamp": 74231879,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "uVba/9kJUivy9CrLeYHqdfOeWmU="
+                }
+            },
+            "hash": "0xb9b9f7c0a9d9b36042d8e6ea17efb489436903fa",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wkuqSmROV0XHelyj9YHoluTh7hUkpSB1nwqghAalHN5ZSieibxsugPqbpeaqiJSVtSA9zaMTxQThhLxjO1+uBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74231948,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Introducing embedding.store — Hosted Embedding Marketplace 💈\n\nWe’re building a single destination to discover, evaluate, and access relevant embeddings. Move from large expensive models to leaner open-source models without reducing accuracy.\n\nComment 👋 for early access",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/qZyOebX.gif"
+                        },
+                        {
+                            "url": "http://embedding.store"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe4ca32c17ec322ab9f7a04664c85eadef12e381f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zAkWSLX8ypfIN8hfHF18qEGYTAVm1wJu5W4eoBjexOreve82LL/znKmFN9uMa60hVwLo8yKiShmuTByTWPNlAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74231974,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1617,
+                        "hash": "0xe4ca32c17ec322ab9f7a04664c85eadef12e381f"
+                    },
+                    "text": "Here’s how it works\n\n1. Choose your base model\n2. Connect to a range of embeddings\n3. Retrieve context in your go-to framework\n\nWe'll handle all the infra for finding, indexing, and provisioning high-quality embeddings 🏗",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0e342d41f1e0eb71e52672868e09eb922741756a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "KN+vMCbr+cdkATyukLu15SrETZxUjmLh5zms58W4Is+kyToXRYfRA3WTCYezpHOI2jujvo7wqC4BIrgT5MxZDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74231991,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1617,
+                        "hash": "0x0e342d41f1e0eb71e52672868e09eb922741756a"
+                    },
+                    "text": "GPT-4 cost and latency is staggering as you scale, and its often not worth it. You don’t need a sledgehammer to crack a nut. \n\nMost use cases are served with a smaller model that has access to the right context. We are making this access seamless",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x176ff0371a06cc2d2635435a88a557e40b8da37f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kGMceFWpHSCd7DPDHtIdsIhE7KTRh8oLuOe9O7CIZJE2fK/nuMO5SdtVJUMe9y+qdFT+dZwM2+Ze6gQ38cSwCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74232012,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1617,
+                        "hash": "0x176ff0371a06cc2d2635435a88a557e40b8da37f"
+                    },
+                    "text": "We are starting with sports, marketing, and financial datasets. Request the data you need here.\n\nhttps://airtable.com/shrjC8o7B5VBMZ1xe",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://airtable.com/shrjC8o7B5VBMZ1xe"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x13fdd6afae61cf99e511881651e6f27e2ecb1cb5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BcGvjh9ahHKOXtfwJtGsEEGpzKiMw5dDqldEGLCyr93aTQ+C4aZojLYTekMSrxmiXH9/X12HkWAa6dqpREtKCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74301590,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2100,
+                        "hash": "0xf5ec7d01d4a769b6f1d957464ba0d5ab31e4f7e0"
+                    },
+                    "text": "yes absolutely! what kind of embeddings are you looking for?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc23e9512f0b116e84b6f57a18d6693bed7696044",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "TQcdYQsHRvPzjVqJM2GN/8YV3tjLgj5xUFsZDN26PvX7k1v4/umk1nx8Qr9BsYDue5CwaKc/+S0Wg3w6jDReBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74301716,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4286,
+                        "hash": "0xb2b183c5be4c94030e0b95ae216eeb8eaf2a2604"
+                    },
+                    "text": "starting with data and embeddings; but will expand into similarity search as well. are you currently using faiss? what are the types of embeddings you are using?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc3cd304f90ce874907ca7850a91e563782c6a31c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5qjtsiiJ7bEZjUyyYU/g+fpYGJ2ruZnAkdp4twaQWmhxqhsDPt+RWhGMRIqUXbbX6cuW4KlIH/l7W9q2u2oMDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1617,
+                "timestamp": 74318440,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4286,
+                        "hash": "0x111ba215b7696baaf66c1a90d0e81db974a1ea6d"
+                    },
+                    "text": "yup, thats correct! there is already a lot of chaos when building with llms -- better to abstract whatever you can",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf2a6bc542049758bb00ebc9dae88ef4f98fc1e9c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "uKE8WXDWEL4ltTQ1RXHKzz/MG9q8sIIytbGkeGPqLn9GvVFSWAzREIZGQd7l0EpjVzTn6d9UixIv505d4HKaCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa49bae9954dc7b3e3c37a3166fe7535881d0ddc171a078963dc5bd594538ff13"
+        }
+    ],
+    "nextPageToken": ""
+}

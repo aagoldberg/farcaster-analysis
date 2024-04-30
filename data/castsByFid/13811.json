@@ -1,0 +1,53 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13811,
+                "timestamp": 77137698,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "We are building a remittance service on top of Solana blockchain: https://key.app\n\nThe trickiest thing about money transfers over the blockchain is off-ramp as your friends and families do not want have USDC or USDT. They want money on their bank account.\n\nWhich off-ramps are best outside the EU, UK and Switzerland?",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://key.app"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x2ec1816283cdc36d2a042431e07735534ffd3e76",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "RbLjEmWRjOFCOV7/1LQB4rljEgaDCLqNO4+GYUeM5S6xN8oaunczYZKOqGPlA7S/XPvv+2DsUHEc3PIkqucMAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8f2590a6ce2d9d6e832d64012a5e6959452ce0cbf724ba0d43e79e022b2f4421"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13811,
+                "timestamp": 77137825,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13811,
+                        "hash": "0x2ec1816283cdc36d2a042431e07735534ffd3e76"
+                    },
+                    "text": "“Best” means the following:\n- API instead of WebViews\n- Best exchange rate crypto to fiat\n- Support stablecoins on Solana as we build on Solana\n- Great KYC experience that is fully compliant",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x062f9a1e19a6b60707f648038ca15031014070be",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3EVsrJn2B7MbhU1sF+9KHm6UBpp90QQECsR8BBpLYycchNkD9GT8QLyzSNLNfWvPvAIwRHDsjq4pViy6Q69zAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8f2590a6ce2d9d6e832d64012a5e6959452ce0cbf724ba0d43e79e022b2f4421"
+        }
+    ],
+    "nextPageToken": ""
+}

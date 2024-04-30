@@ -1,0 +1,61 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3175,
+                "timestamp": 56230429,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 681,
+                        "hash": "0xd5997dc87b12c7a8c0b6f35a7e87a19783bef55e"
+                    },
+                    "text": "🤝",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8e174983e004f071b67733164053df6003b3ddd1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Q8bK1D/Zlys+Ul9CIJrXulEzSF85LSKXQUJUbD66kmOCewv5C+Tchshrqz+Wd69hSehKAifOc+g44+xRQSXDCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xf34c3fb0df626afcbde71d00ac17f25283435a08789fff4ac81ae25a2539c0f5"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 3175,
+                "timestamp": 75570596,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "U65OmUGJeGpZBPtS+O6Qoc4WG5Q="
+                }
+            },
+            "hash": "0x06cbd868e4eefd27f1d0cb665fef09150527b84f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qjxfc1fTazOm4bs9WmvfYgKLTTG4QqczeH/aeJQHdcmF9OW8V30aKiyIDppMyGlr6aTYgpTlMp+w3aNgylOmAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xf34c3fb0df626afcbde71d00ac17f25283435a08789fff4ac81ae25a2539c0f5"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 3175,
+                "timestamp": 90444731,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "b+Qb71K0R/l6c7IeK6zjHLAziUU="
+                }
+            },
+            "hash": "0x251c57e033d21a88c5fe56f8e532922ab839b806",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Rw84Aaa/exJ35pjdcx0AOBoWAhyOKl/xrxcMibLEJN5fSioNgko7q8rN9moRVG0zqP+7M1h5QXkQT59Lo+rbCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xf34c3fb0df626afcbde71d00ac17f25283435a08789fff4ac81ae25a2539c0f5"
+        }
+    ],
+    "nextPageToken": ""
+}

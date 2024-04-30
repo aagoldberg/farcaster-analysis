@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 23010,
+                "timestamp": 87700130,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "taik"
+                }
+            },
+            "hash": "0xbab3d4bb2745747a8245dd917d511e61daafc717",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fZHyMtf5HazrXwl4KBRiJ1Dc7B2CkUvQqBTmofK5rE4XKhMT9b0OXvCW+35pA/E6RH12mdG75OGW6g47FKlAAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xb0c062218b0170d53581f7222cdfe9989cf3f9a93d22f7fc8d57b202e528941f"
+        }
+    ],
+    "nextPageToken": ""
+}

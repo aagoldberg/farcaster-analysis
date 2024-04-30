@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10748,
+                "timestamp": 100567419,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 99,
+                        "hash": "0x29a7b4ab54bdaef1fabda352b1fcec2dd2f48a09"
+                    },
+                    "text": "Now i'm lawyer wif hoodie #based",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5e2e9ee41407dd3abb5eef2fa4443c3637b2f6e4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "oRVSGMUYszBPh+hwRudErJfKlHrRPiTnMTErM+hS+GJwIX3khUOVxw8v4nU+mDab19F2heiZlWaIqpF0DiVeDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5feb8f2501d9636b59587efee63f8d5a9a5fe27418d1bed88ef7739f00b6622a"
+        }
+    ],
+    "nextPageToken": ""
+}

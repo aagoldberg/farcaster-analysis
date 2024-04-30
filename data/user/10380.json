@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 10380,
+                "timestamp": 69404980,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_DISPLAY",
+                    "value": "Oscar Lozano"
+                }
+            },
+            "hash": "0xa66a1a0d21eb487ff4ee425dddd472dbef490d58",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GQnUAIp3dBUzjVUHxO7omYnkUX43i9Lbp8VjdA414Rz4o99W3HYhHxTdhbZ93KftRXI7V/8Ma3ud5N1DX4C8AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x86138ea0f8cb98ef63fb67f9a5becedacb17ea43fc00d3d6fd567e0999c238fd"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 10380,
+                "timestamp": 69404980,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "oscar"
+                }
+            },
+            "hash": "0xeb85117e828fd6198f761c8317cd4f97236294fb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VG2eS59YSkLxr8IpnKwX3jSmiE4W8eUP1swjJYVXYYrXdNireAANDYrPhGIA0GCFOCquMf3CsiR8+T40UOY8DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x86138ea0f8cb98ef63fb67f9a5becedacb17ea43fc00d3d6fd567e0999c238fd"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 10380,
+                "timestamp": 97370447,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_PFP",
+                    "value": "https://i.imgur.com/iClv4FR.jpg"
+                }
+            },
+            "hash": "0x0cda8035c8cc6913ea87ad16019a3bae841eb680",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iFKTJMTQVwcK5CeEf2/yx2ifxpJitoElFEaR7wUnjk9rAZmS1NXop6f4+uF/rdGtGOK+yNypXGwhxIuME8nEAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x86138ea0f8cb98ef63fb67f9a5becedacb17ea43fc00d3d6fd567e0999c238fd"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 10380,
+                "timestamp": 97370487,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_BIO",
+                    "value": "Design @ Gnosis • prev at Avara, Shopify"
+                }
+            },
+            "hash": "0x1c34b9578d2edf505c5b475e6cd8afc09162e59c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "QxgYNGj8QqNdRS4y/6JUTXgjtjjSFqChgiaNkDlhD3RAqP89S+68WpopwkQoUgouXOY/vlOitBKGX968/IOVAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x86138ea0f8cb98ef63fb67f9a5becedacb17ea43fc00d3d6fd567e0999c238fd"
+        }
+    ],
+    "nextPageToken": ""
+}

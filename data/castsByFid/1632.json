@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1632,
+                "timestamp": 68227644,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 9595,
+                        "hash": "0x47bb42fffc655228e31fc63cbec41c92637748a9"
+                    },
+                    "text": "2",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x115a4d12ed2cd9d6705e5c52e79691859688f83c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Cqezwd9Fi1ZG8cbwWX/nlULDYKvodk3bBVYHuLBS4Mc3tFegtjqbDVoYiAxxsBKaOl1a4AYR5KPVvgjtNr7FAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x97c55cc3de1e04a3855a16b2f38b9a5a8c1ac220c852a5e417792babdd914a71"
+        }
+    ],
+    "nextPageToken": ""
+}

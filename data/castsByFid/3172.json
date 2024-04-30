@@ -1,0 +1,333 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56144945,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "any mobile wallet devs on here? multi-transaction dapp flows on mobile kinda suck right now, wondering if anyone has explored allowing dapps to batch send transactions to a wallet",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe9b3cd106e4defe24986d361678e44d6a2ebae9a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IeyKQFbKLSRkeIM9C7THY+an3Er9Vn1DnfCIxls5eJScP5ZfJaio7Vf5PqLp8d/0MN+kj6WX2jbjnesIrljcDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56145281,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3172,
+                        "hash": "0xe9b3cd106e4defe24986d361678e44d6a2ebae9a"
+                    },
+                    "text": "simple ex: buying an nft with an erc-20 requires an approval transaction first then the purchase. more complex example could involve swapping tokens for the desired payment currency or bridging to another network.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd017fbb9a94e4da67413bc3f0f279af3b9bcd355",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BjWDGcf3Hc4IUjl9JuQhXucElKL4tigI/dAfZvX77S13fyeydY2nG9+91tUWC7dq6KbjsqjSqnlg0SmjElkjDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56148234,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1229,
+                        "hash": "0xe49f6222d1686e21b39873f37b6e9b81945f4fcd"
+                    },
+                    "text": "oh this is actually a great reason to integrate. currently we only support WalletConnect V1 in our apps.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6a32d036b637aea4ed794c21dbbecf0ac7c2a500",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fJuESwMuc+3ViI3r96et4YG/e/0FNPC+MbxyEevNv6SSm5lZXLa8K6EJDPHOUJt7r7Pdp7gZT7FZmEOjf6VmAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56148454,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3172,
+                        "hash": "0x6a32d036b637aea4ed794c21dbbecf0ac7c2a500"
+                    },
+                    "text": "though tbh, from the user/dapp perspective integrating each wallet one by one is really painful. it'd be great if we could build on open protocols. recognize that WalletConnect has its issues, but it does have adoption amongst the major wallets (minus Coinbase :( )",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7a0ff6c51c702bd638dfa459e7779eb1321c3002",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "K3bidCj6t+Zbw3rRvR76NMfSsS/bapgjHNCQadBVOYzmWx3/XEVpJ0QIojTXjETKLjXY87p4W8cPiiQjVYH1BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56148830,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1229,
+                        "hash": "0x2aa43e5b231f7bc6a4a4e2ed2dd6d60fb07d7ace"
+                    },
+                    "text": "ohh, that's great!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe486ec94bfc3d3bdc83bf7e783be3983829a381f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "F/9IEt4vrQUtUy+49bSj/fNP7i5MWtlO8+eMBYKJYzyK+SszZpx/rsudwWrNqZcQO7IWwg/TGHNGvXH2vN/tAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56149065,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1229,
+                        "hash": "0xbb66b6581d6005b9d42c305586de650efa6de691"
+                    },
+                    "text": "yup, pinged ya in the channel",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0a1fb464d1e81288354051186eea6703b5b0e8b9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "S+mQIbEXk5df8n17tAojgyC/K++Sni9LX87RaSQhO74B8wSwIYDw69RaqtcLY25JfJJznJupbAKJv/RaRFY/Cw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56211821,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        3
+                    ],
+                    "text": " what are the FC client apps built with? are they open source?",
+                    "mentionsPositions": [
+                        0
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8b8dde9959a692b8f79a1f96c7a2698de67b93c6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "FjMOhpTIQ3LT/gbqE3+EnrzH5TSdf3YQfj3G5lnLehedcSDDNIzfpD5Kk5puHUVuz2sgxt9wPhnTrgY6+9LbDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56220895,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1401,
+                        "hash": "0x3c15ce02d6795d130c3533ee262bb7c7f867d8eb"
+                    },
+                    "text": "definitely take-home, but i would always leave the choice open to respect time.\n\nat square we actually did both. if a candidate elected to do a take-home, their onsite interviews would consist of two follow-up projects built on top of their take home.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfd48d0922bc82f0ff940d12f80d10323295ad3f7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "LD6qWBbcKdP4wPOHXGkI4XTmsFGjPMIMEH7hIE2wkcjhX0hJGf4xnMK5dNgjLJM2PIvOnvnh+oh2ApeuEA5XAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56224170,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 426,
+                        "hash": "0xf1387c9a520c25f54e262eeaa8384993abe189b9"
+                    },
+                    "text": "Tried it out at work on our Android project - unfortunately Smart Mode doesn't seem to index our dependencies correctly at the moment. Have big hopes though! At my previous job, we used Jetbrains Projector to run IntelliJ in the cloud.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x744d51684a78a941e6bdfd275c9d0ebd8db990ab",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fGIDde2aI/vKviyL3dN1s5Qr8Vh+coqVkC6nx0pnKwl2MB5Gu/vsXLXHqVI9AGi1UZ3oeGHxAI42avxwdCC0CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56226164,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 859,
+                        "hash": "0x0232833f51a5688d93342c085e6469301e129ec5"
+                    },
+                    "text": "my fav is still the 2003 clone wars micro-series (even though it's not canon anymore)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9d5e3131784d70c467d7f5c742f99d2c6f32d3ff",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ARBiCbEGMqrErj+S9xOiDFTyS50RGEhtjCPUfccYK2JNGXUvWhRGA3GmnJV3l22CtZje59wEgyRWUpffzaYbDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 56774548,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x24de31976d35aacf8338af5199e3a98888d0453a"
+                    },
+                    "text": "ooo interesting side project idea 👀",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6bc0b4191f4b3b710cf0d4327ed7674212e20e04",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kUpWK9D1W0Nl7eSoCUKpA1RPdXL31Lf193tY542iHktd0JyR6XE9TQMxm94Y9pmXHmLeg4GUKDGrE1Z/Q9C6DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 57195558,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "i'm convinced that nobody at doordash ever uses the pickup mode because the only information the restaurant ever wants to see is my name and that somehow is the only piece of information missing from the in-app order confirmation.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe6708280ec7c28f352266d1729f77cad5ee49c20",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7tW3WX8qfD1aa9KwgHGOn1mCUMkg0lOJ/+9Hu1pstRO30gHR0HCUE9AJ6CRzGgbpDEer/L1hk1ZAGbj3LhgoDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 57253728,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3887,
+                        "hash": "0x496774dd1f451258b8e18c8a56cfe6c17effc687"
+                    },
+                    "text": "lets get a 20% time (or even 10% time) policy at work :^)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2150ada8c3eb22d623864c55d27684af4bda89ef",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JjNGKLX4rGtzzS+8TZDmHzCgL82gTQ5C6uQVgqV0AuCdIP7kBrbiF/X2jjwVXiuXIByExu666neEXCk7B+HWBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3172,
+                "timestamp": 57277786,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 124,
+                        "hash": "0x3d8df848e301e577643e7b6427929b9948ae2f07"
+                    },
+                    "text": "some of my favs: y-3, ambush, off-white, a-cold-wall",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x86da6942014360fa34542367c9da558f2d0c2c11",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "w1IkvLobRrp0vgaWzeIP7SIaqhMaNSeb/Ny6KTuNWcE/SZSBlsSPSmtQw5AmosNGCl++q167astXgYj9bdyIDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd22a0f8a82626fe05ed7b06542654821f3084dbbfaaf3579a278ab1b5b76c6d9"
+        }
+    ],
+    "nextPageToken": ""
+}

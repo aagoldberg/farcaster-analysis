@@ -1,0 +1,79 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7776,
+                "timestamp": 90366265,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://farcaster.group/product",
+                    "text": "Hey guys, we are in closed beta at www.buildoor.xyz \n\nWould love to get some feedback on what we have built, please let me know if anyone needs access :) \n\nIt is a no-code tool that helps you create user journeys via prompts and tooltips and takes only 2 lines of code to integrate 😎",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "http://www.buildoor.xyz"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x6cd6f32fa4bbcee860256fc1b4911a0478086eb3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "MyL0iphs+fCV78ScBnftJ6y7e1AZVyM/f/dZVffuk8ndzCmCiBzZ0l8FZXTd8zcuDzw8peBncUIkUl8il/c7Ag==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x95d7c2ce750033779400c131f11aee183640cc3badce6729027ee6e49e086c84"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7776,
+                "timestamp": 91374381,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5650,
+                        "hash": "0xf03abb78f9a0c9080693a7e250a5463c7a6bec32"
+                    },
+                    "text": "maybe North Korea is just ‘proof of stealth’ in action. They’ve been mining sustainability all this time while we’ve been looking for LEDs from space.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x57554578d37f78d0982fec70cb38a5a43eb76755",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "y5G2is3y+beFDnliF67MmbMpl9R6uMr+TlTDpQhPvODgkGLnKCZxKBk/P3eAzUVPz+RSA/jHL5hzcmk5MfrJBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x95d7c2ce750033779400c131f11aee183640cc3badce6729027ee6e49e086c84"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7776,
+                "timestamp": 91738333,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0xec0ba367a6edf483a252c3b093f012b9b1da8b3f",
+                    "text": "Selfi toast Sandwich…Anyone? \n\nFun fact: this place stays open till 4am.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/3jVB6Bx.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x37e21f120f2dd609cef10ba33bf75407f4ab7468",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "UNg7UMXbr1FlTTtileEBMroStPe+Qu3hGFaGFTscvZuU8AFi0vfJOoTj/1jFtKT/YZkMj7dSHzZxd6PteynuCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x95d7c2ce750033779400c131f11aee183640cc3badce6729027ee6e49e086c84"
+        }
+    ],
+    "nextPageToken": ""
+}

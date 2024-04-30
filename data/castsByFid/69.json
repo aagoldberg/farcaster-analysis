@@ -1,0 +1,370 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 54832597,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://www.npmjs.com/package/@standard-crypto/farcaster-js/v/3.0.3"
+                    ],
+                    "mentions": [],
+                    "text": "New release of the farcaster-js library, compatible with new Goerli contracts and new Farcaster web2 APIs\nhttps://www.npmjs.com/package/@standard-crypto/farcaster-js/v/3.0.3\n\nExcited to be keeping things up-to-date here, especially with the upcoming rollout of hubs!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7495a0eadb26cf733d64dd193e556cf2f8d532a9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ej1mFzBE4k8bgJL3ty8vIdWxm6gfunWopU5V8d/qW7BZLTzfnBFjD/fQrITBlk4zBjh15WGLKGs8NVbl4LMqCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 60466263,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://www.npmjs.com/package/@standard-crypto/farcaster-js/v/4.0.0"
+                    ],
+                    "mentions": [],
+                    "text": "New release of the farcaster-js library! Now with simplified dependencies (no more Eth RPC client), bugfixes, and a migration to newest versions of the Farcaster API.\n\nPlease give it a try and send over any questions or issues!\n\nhttps://www.npmjs.com/package/@standard-crypto/farcaster-js/v/4.0.0",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x59c6d83bb2dc7fb69a79016ee4a7d4ecc56ee1f4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JdsFuKtyIVa14R8FntaTUQHk5JToz42ERTsyQmTej+QNXrYyKfT81mcmzv9bCuLLJQDQQ2HQ75sdyb9N+//YCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 60544481,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 191,
+                        "hash": "0x18b7f2f1ea31f9f5454c2ef1ebf4bb659f049c6f"
+                    },
+                    "text": "Good q. Right now the lib just uses the Merkle APIs instead of accessing the user registry directly. Plan to add in the bindings for the NameRegistry contract once 1) it leaves invite-only mode for username registration so there's more interaction available there and 2) the hubs (and full decentralization) are ready",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa8709da6f7afe62a417192460367885e8086d2c1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wkXASqDRtwpuQgPUmghzekgUvS/geo9sq2/4Szy3K9OgXPSATqUX1fBZDUSN28e9r6v2dJ+enJgYe1RQdV05AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 84652693,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1356,
+                        "hash": "0x6706f3856a53a8cc5d07beb4baad668dfab47857"
+                    },
+                    "text": "We’re talking with the Neynar folks to get the farcaster-js library migrated over to their apis.\n\nExpect some breaking changes, but we’d be aiming for it be mostly backwards compatible",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3989e215e2d31b431ee36b9688c0031737522a04",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3d2gx/Xt/Im2CyhI0MSMFTe6gFjLnsPc89xxQZifvAxqVB2Liyc/r3GfgMvoVYnThqKQb6WxG+QIFywP0vEtAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 88284914,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "We've released version 6.0 of the farcaster-js library, transitioning away from the deprecated Warpcast API and adding new support for both hub REST APIs and the Neynar v1 and v2 APIs.\n\nPlease reach out with any questions or concerns!\n\nhttps://www.npmjs.com/package/@standard-crypto/farcaster-js",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://www.npmjs.com/package/@standard-crypto/farcaster-js"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x69ab635a1111c6d83e3e6043109e831328161901",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "If2FVbwipjgvcYlne3sl0oG7io0rjk3sM+NkxTnQ6obT9Ef1Ms/DRpPp5VyG/gCkWsDR/wuGB6uK6+eKBPFQCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 88379709,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "At Standard Crypto we've been collecting firsthand experience with different ZK proving stacks, comparing the pros and cons from a developer's point of view. Recommend this for anyone interested in ZK dev!\nhttps://www.standardcrypto.vc/thoughts/execution-models-in-zk-proving-stacks/",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://www.standardcrypto.vc/thoughts/execution-models-in-zk-proving-stacks/"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xb31caf34e36f7a47c07ace895fa19bcaee1e95f1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "TbX8HNg+kNLpeQzyj17+pHYFKZB3XRZzxv6lCxWm/mB7sZo1LslKmKHKtuySRYCc1lLhUoWj7ET2/FdRKw1kDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97456750,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/frames-devs",
+                    "text": "Thinking about abstractions we could add to farcaster-js to help out devs building frame servers. Would love some thoughts. Our current thinking here 👇",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x55dbc55ef59a0883d1ece7e1be6ee3738cc7d199",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IODCuEXWvRXIexqjrDMFA7xw40Myt5Uge8I93MecHYFGqhOHZqjOh9/jIwH3WHhd15W10I0vBI2MPpjC2eAPBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97456867,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 69,
+                        "hash": "0x55dbc55ef59a0883d1ece7e1be6ee3738cc7d199"
+                    },
+                    "text": "Example frames app: a webserver that serves a quiz. Uses 3 frames: an initial welcome \"splash page,\" a frame for rendering a multiple choice quiz question, and a frame showing the user if their guess was correct.\n\nWould be built to support multiple web frameworks. ExpressJS here for example:",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/SnM8n11.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x410819e1ee872f7ddc3f1bc1a667b61a9b337856",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "RopeWXXeaiTzWN4Ud/YEaaqAE+623MHgI7GM9WITLOn3rK43FiloUoZzd0uej3Dko12de3DIG/vB4aLjjEaGBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97456907,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 69,
+                        "hash": "0x410819e1ee872f7ddc3f1bc1a667b61a9b337856"
+                    },
+                    "text": "Splash page is purely static content, and can be simple",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/ClvSjOs.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe71a9739eac7d498dad729bcf20eb55e5b6f2d2a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GP5pPc9Qar0uVFuP6BlM8ts3OFM2WvbnmyJ/Q/yjvNgBZwcr0U0uAmi7OmRXdh/5K5MrdIx8yt8WvJzEvq1SDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97457039,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 69,
+                        "hash": "0xe71a9739eac7d498dad729bcf20eb55e5b6f2d2a"
+                    },
+                    "text": "The frame for a QuizQuestion will return dynamic HTML content for the image, which farcaster-js would render to PNG. Library handles creating the appropriate <meta> tags for buttons, and passing query params into the imageURL",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/mRvpooU.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x25fb439fe7ba3eb0452160edef6cf916f56a7aa7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Y9I7bpEOC+zKjXq7ffXtQgq9EugH9OQs1XE6fZsUPVOyo5tUgbV9stpXg6oeL4EjywM0keosvLVbJTDrbr+RBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97457143,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 69,
+                        "hash": "0x25fb439fe7ba3eb0452160edef6cf916f56a7aa7"
+                    },
+                    "text": "For completeness, this might be the frame that renders the correct answer, with a single button to proceed to the next question (back to the QuizQuestion frame)",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/cNpmo42.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x84540cbcdff317c97d06184fafe2157a5f4c09d2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "FJABhHue/IgJrjSR77xzJtRzhS+kdak4WojHLDZ59u/cuXrH90miN3T1e68fK6JR3C7z+EZt6M7To+6EFyDsDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97457201,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 69,
+                        "hash": "0x84540cbcdff317c97d06184fafe2157a5f4c09d2"
+                    },
+                    "text": "Library would handle creating the appropriate HTTP GET and POST handlers for the different web frameworks (next.js, express, etc)\n\n/thread",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x72e01c3a49c653ceab6e03269454d2beae6f74c5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "bL0LBZObKzEs4CORb3zZecIUFklSl33gWqDNB0LCmZZprSDrlMNBAi7/PLjUK4EIsRH7RT57BZ/zSpKB3KnLDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 97457930,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/frames",
+                    "text": "",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 69,
+                                "hash": "0x55dbc55ef59a0883d1ece7e1be6ee3738cc7d199"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x721684f55f30708609259242867f34f97840ca4e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "PnkV+5m0jPsRzSAnVUNJCy1PXvbonUPxlUFoNaBKmx4Rq7ipaRQAh9GV+eK8xmMp8v0OdbcfGHuvjU/ntYThCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 69,
+                "timestamp": 102734092,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "4N6MGamRAOe8f6edvmZiBFIq0XY="
+                }
+            },
+            "hash": "0x66106f3d4e37715b04fa9292669419ae1ea5947c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "F2l8exCrwYK3TP+9DSl+/sxH6+sq/NjwCMFFNd9QhSOeycn8S4AqLxI0B4fD87t9VzMmzQRKg3z/gOfuY7XlDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 69,
+                "timestamp": 102734103,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 539,
+                        "hash": "0x65328aef90982be39f009690b8d3caf6f1205fca"
+                    },
+                    "text": "👀",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa0015dfe9d352ae0fc6ced0ab5fad8232185d5f8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "SJ53maPQpDiUJzP7ON1NBa4JtENMnCssqQ5q5xYPt1zZ56YpNMdlmqTrJe7lblHQnBliTm3EjSFDO/mn/p1nAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f2931321e6201eef8f261077486db23573e39d5287ec7108211ace7e5f77a2e"
+        }
+    ],
+    "nextPageToken": ""
+}

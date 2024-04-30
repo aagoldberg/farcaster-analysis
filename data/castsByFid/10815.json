@@ -1,0 +1,53 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10815,
+                "timestamp": 70625863,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 473,
+                        "hash": "0x711a4564325bb5aeb5f5ae70f112638f82fd2d36"
+                    },
+                    "text": "I think it’s a big assumption that the petition’s signers are motivated by the fact they didn’t develop GPT-4 themselves… the whole “they’re just sooo jealous” narrative doesn’t leave room for ethics concerns. I mean, didn’t Microsoft disband their AI ethics committee entirely?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbe4a4cc98c8605b6a0fce4573e2916f9741ce5d8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "U8h03WqVUG/f9JhoT/YZIJupRxk2AEKEt+9/iKQjoZVpswUsn3tzJpGIVKxkw8ei//2CJvRIF42oE918WZGhBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xdcd9fcd2cf3f4f35bdd509b9d49a0305364a1fe314ca299630350deb730ca1a2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10815,
+                "timestamp": 70626015,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0x5ed9c856e8d0649d1c548534aa7cfe4583d46e1e"
+                    },
+                    "text": "I’d be interested in reading the whole thing — where do you publish?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6f916d3ec57a87db54665211b16584cf9ba4140f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7+Ixs05ifRXqdfzl+Fw3sRYc7LIfmlsiAGbfEraxmItTEPuNKHSzYbzI29KjKZWaUBib2eL9NWf4fBtjh/JcCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xdcd9fcd2cf3f4f35bdd509b9d49a0305364a1fe314ca299630350deb730ca1a2"
+        }
+    ],
+    "nextPageToken": ""
+}

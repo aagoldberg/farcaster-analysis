@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19953,
+                "timestamp": 85022953,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "GM Farcaster frens!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb1c413ad8699b2ed2c7a3301f6d83d935f2c72d4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lLEdFOD/guPXiieuEA95DmDVFKfCffaTqVzPBgmR2BUVauKzb0+jD/883IhaZL4cSzNiD6PpFjeEaIkxmi5SBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9e5f766d9ac114b2c5c71ae24127adef88d466eff7d6d58658719b68742586d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19953,
+                "timestamp": 85031102,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 19436,
+                        "hash": "0x1e138bb7ad9b177cc532b4c5787e66cb2abed532"
+                    },
+                    "text": "🫡",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x90f379823949dbbc28a1fff5149261a623fc0285",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "UIXybXYGg/kmj/xVHeT0GvPirQXsFDQ9GFG2vuslQ+08jSmw3atrMdE8rN46PwfnRtvh93X0FTd0ltgl623YBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9e5f766d9ac114b2c5c71ae24127adef88d466eff7d6d58658719b68742586d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19953,
+                "timestamp": 92109267,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8004,
+                        "hash": "0xd460e6faca5449ae7b60c1719d9329742fcf1cc2"
+                    },
+                    "text": "Dont trust verify 🫡😂🐸",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb3f956f472c94ae524b3fbae1695df860f83c6d1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "aCRYa5FjuV6SGNECnQ+bqzgXXUjBP8KeQQ9D5Yg2Y05y8hydFcoZ9XoSiDHSeGnJqt2niyTRI/9zj7axoF3/CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9e5f766d9ac114b2c5c71ae24127adef88d466eff7d6d58658719b68742586d"
+        }
+    ],
+    "nextPageToken": ""
+}

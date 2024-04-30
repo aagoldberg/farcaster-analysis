@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 18200,
+                "timestamp": 83274361,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "rajin"
+                }
+            },
+            "hash": "0x01fdbfd31dd978037f08a38535d824ba0dee2d3f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hHSqER+3F1q7DPrRpFGdF8YJTFqV2c7HQ0f9idsQw8bSHYU3VTqcYdEAoFWzfB1NhNjRwVEWF2tdegIm7jx8Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xc00e84f6a8e8225e0318e8dc06ba047298e2c74934ed3ed4b9fadd0779717756"
+        }
+    ],
+    "nextPageToken": ""
+}

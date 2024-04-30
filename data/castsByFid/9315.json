@@ -1,0 +1,49 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9315,
+                "timestamp": 67332317,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "If you have to sequence the investability of Infra vs. Dapp, would it be Infra first, or Dapp? My answer differs for crypto startups vs. Metaverse.\nCrypto: infra first -> dapps\nMetaverse: dapps first -> infra (such as interop of digital assets, identity, data)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe28f0a2af45441fb8bfe302d31c7243a621377ca",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4sQzUaJOp9d977SPn2TZfTZ4KeCYok97wMQ1MXuGG9I+qX+xOo0351iKAFoIyDHxBuqbU2Ir72T9zaWnQhOPBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x04125497c7f78e49deb9cfea5effb6e9a7758a27e2d180f0932f073e8514710b"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9315,
+                "timestamp": 67332324,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 9315,
+                        "hash": "0xe28f0a2af45441fb8bfe302d31c7243a621377ca"
+                    },
+                    "text": "Why? \nCrypto: infra (L1, scaling, middleware) is the bedrock for dapps \nMetaverse: metagalaxies (= different digital worlds) have to be built before making them interoperable, persistent, and concurrent would start to make sense.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x723c545a52deacc039c4adb5772220aa0fc8eca7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "klKp8fOKDUEoDyaNtUVR6i42USEuXRyV2p6xPyO+085GTz7+ZWHjKrOt8vtYvTOo0yB28DZhHX2lf1EX94EUAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x04125497c7f78e49deb9cfea5effb6e9a7758a27e2d180f0932f073e8514710b"
+        }
+    ],
+    "nextPageToken": ""
+}

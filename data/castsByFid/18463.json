@@ -1,0 +1,53 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18463,
+                "timestamp": 97610630,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 20390,
+                        "hash": "0x76bb7befb739a2d4bcf99f97a9b58b6a775d5a36"
+                    },
+                    "text": "I’m in, would be cool!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1ec149f0182c04a95b02ff37ac254e41e7e3fa8d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XCOWVF5mTnQojjuP4vJLyqT8I7qYihl7oq38Ii0Q1J2ZeMPBQQT7iuPspEuqeZeoXQqgQ8ynf5DPmOZvUGX8Dw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbe1019372806cebaf4d8b616db3b558170716445bcbc89116058a3fe563e3565"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18463,
+                "timestamp": 102439454,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        250751
+                    ],
+                    "text": "Welcome ",
+                    "mentionsPositions": [
+                        8
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7ee6c48abf589e7a62935e1270e8e8cb252908b0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XWFNWHfk+l8cAIeI4kZVDIL5276868snttTGMqCRkdy6xvYI/Fd1daIhUQMi5YiJ2uIgRNCQ4jCbNYe0MuD2CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbe1019372806cebaf4d8b616db3b558170716445bcbc89116058a3fe563e3565"
+        }
+    ],
+    "nextPageToken": ""
+}

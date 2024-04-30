@@ -1,0 +1,114 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7775,
+                "timestamp": 97526775,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4483,
+                        "hash": "0x34ff7461e7895197bd5e9d0b9e3fda47c9c5ff87"
+                    },
+                    "text": "Gm",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe1ebf79a8d9cf9333856ec772b462c1f0e312d17",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Kl/tc1qOMPQA0GZz5QuKw+Z+F/HYt+Jey39xTyrTGBO7zoF0H+oeEaB7En7vtKHEPcSjMkRi5ZR0mrHjzTTXDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0c80664c8c48ac670a5fdd9b2d45ab7194c1e94a48d470052792fcac9035b27f"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7775,
+                "timestamp": 97566345,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/interns",
+                    "text": "gm",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd757d3dcdc70d387d54d48a9b3b21054ca7c8550",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lpkuDPoCOv8p6col3r3WIPYW2rdLs/ifvHXpvNc86QKOEgInp7MJ0D9NCbZkd6gAlm5dhOZ6fVeQj5M2zIsQAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0c80664c8c48ac670a5fdd9b2d45ab7194c1e94a48d470052792fcac9035b27f"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 7775,
+                "timestamp": 97571287,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "nuPpQ/LTs6cx/lpu/yOGcdQGSME="
+                }
+            },
+            "hash": "0x0fbb4d212397af4d8bd7caa8bb7c4b39a9ec7720",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "U00n8AKe7/wNtX+m7eyCBtY12KnS2wogm1SGiM87mkXSJIC2fsWNadFs+JToXREAEUfme9Vhqf2wllvcC8JqAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0c80664c8c48ac670a5fdd9b2d45ab7194c1e94a48d470052792fcac9035b27f"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 7775,
+                "timestamp": 97571410,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "9cDbm440bIlHdHPs5syYsPPLusw="
+                }
+            },
+            "hash": "0x4cbd5314d1708e0de1437f8482a24d5f7da52f94",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "z/tt/FfrNTH2CX7Ve5dM2tSl7G6nax+HuLZD7PxijvYsUD1USEuKUQ+zBOWaLhNEEiB6iKzpe3GBuU/ErYzoDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0c80664c8c48ac670a5fdd9b2d45ab7194c1e94a48d470052792fcac9035b27f"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 7775,
+                "timestamp": 97571737,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "I68JKS+sM65DvbnOSCr7QMlutK0="
+                }
+            },
+            "hash": "0x02234fb3c8af81fa81217a2d408ecb4ce5d9c784",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "2I9HiQeAZJ69MXu3CfYVidXtIVXx6BfhOa4s3BQwF4RTZ06aVqU+fTmZ9A0kPDOTyoBxAWQHRHxe72ULHnkKBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0c80664c8c48ac670a5fdd9b2d45ab7194c1e94a48d470052792fcac9035b27f"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 7775,
+                "timestamp": 97598807,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "8e3AI5BSm/RPRJgDTHaeJMhg3Mw="
+                }
+            },
+            "hash": "0x8dc57c5066680993ef22b1a7477bd2d066a799e6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "cELCE5mAJ2vqmwW1MKcSQRc6XYoDNNeXg3cJcA+9LxsIZg0SeL0MGiXBoNCMrzROEI1uu3pMqEFoKVegbv8jAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0c80664c8c48ac670a5fdd9b2d45ab7194c1e94a48d470052792fcac9035b27f"
+        }
+    ],
+    "nextPageToken": ""
+}

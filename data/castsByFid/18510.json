@@ -1,0 +1,335 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 84704431,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 499,
+                        "hash": "0xe1ddb448fdc37d2c29e192a601394383a9ccbdde"
+                    },
+                    "text": "PM job for sure",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1283af4cea4270da5049d5e0411a3b3eeb0b75f0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NCcLbAdB49Hd7iHmRXiyYAcSv+w2OWiS4fUMPK/MmbkG1FsKdst1uj7JMABTasHGWKheixlI+pnAP7OzsXqRBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 92704100,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0xec30bb189781bbd87478f625d19d9deeeb771964",
+                    "text": "What are some practical implementations of MPC-FHE that wouldn't be otherwise possible?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1c6d127b90f269a8585ae5d59279d39b983736ab",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CxmbtMZK99OUJvcv4ie0eZ9auxvoMQ8BJFYo/HY+Oywj5F4uNIfwTxyJGeKtln21377B7wMK0ZFAYgLgEKJHAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93660893,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "1/ Fully Homomorphic Encryption (FHE) allows computation over encrypted data. It is a privacy-preserving primitive in programmable cryptography that allows secure processing. Zero to Start: Applied FHE Part 1: mirror.xyz/privacy-scalin…  & Part 2 mirror.xyz/privacy-scalin….  A thread🧵",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "http://mirror.xyz/privacy-scalin…"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x6050c695ddc9d15b60e251d6d169fd15a79d15eb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "nCW3mNhzqu6ezpEuYkDkyxWBfLJGCjakC6klv5GzsEfUKPuNEr7K0tO39FA/Bsm+y5OstA0ls//qMsGqPiTOCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93660965,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x6050c695ddc9d15b60e251d6d169fd15a79d15eb"
+                    },
+                    "text": "2/ FHE shares fundamental components with traditional cryptography like encryption, decryption, and key generation.There are four categories of homomorphic encryption:",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/aXE60gt.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x338ca453d99acf2706da0dc669f6cf7df78bc280",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "LNmMopnEPF8+Ua4nVABpMiPhhDxrZChccezbNTho92MYhoblLT9kOzkl0oA4MQI0RhdtBDnQ6HBMO91POOBCCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93660991,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x338ca453d99acf2706da0dc669f6cf7df78bc280"
+                    },
+                    "text": "3/ FHE holds immense significance in blockchain technology because it can perform encrypted data computations within a trustless environment. Some applications include private transactions, MEV protection, scaling, DAO voting, and blind auctions.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4b75bbc7214c88b93bbeccbbd45e223e898dcfd2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BBdq+eJsPzbiNQMN7y8Hgfe1TSzZMn9s2B4XyW2YynZPhTwW3K+RJ+Pd6yad5BqT7HJJ8P90ancBt58ALpTUCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93661027,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x4b75bbc7214c88b93bbeccbbd45e223e898dcfd2"
+                    },
+                    "text": "4/ In a privacy-preserving dark pool, traders can place private orders that are executed with FHE without \"alerting\" the open market of their intentions and potentially giving away high-value alpha.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/O1lHhCl.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x4f1265f95fa81bf8d1274381e7f73d370cb42858",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "yGI7xfYnBuIhAJwhdQxVCcRubqiPGQ8etjkEdnB/Bx0AmgnTYLmzocgFuC/WoS3g/almRO20tslJuOstCMuwAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93661054,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x4f1265f95fa81bf8d1274381e7f73d370cb42858"
+                    },
+                    "text": "5/ FHE is an extension of public key cryptography, not a replacement for ZKPs or MPC. ZKPs will be vital because they can be used to generate proofs of correctly constructed FHE ciphertexts.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb0b407178e8f4b2d7350794fd4e4c16f5c07c319",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iPncUW+D8HGBmxUKHpDlUiS0OzT5Kz+5Jv7G0aOR90j/L74S9MjPElRKbhsfitjQlIVruAKNBI96NytcrHGQDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93661098,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0xb0b407178e8f4b2d7350794fd4e4c16f5c07c319"
+                    },
+                    "text": "6/ While MPC is network bound, FHE and ZKPs are compute bound. Each acts as an individual building block and serves a distinct cryptographic purpose.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/N1hXoBs.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x10ebd5e3141d3470901a7850ee2d283e7a5fbcfb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Hy1qbwT7dx5OFjcSWLrl6iYMjUYmW7H23vrc28gncSvYKSzpykHTiqv/7nCB/eTO1FdEa/k6YnblEczw7hBgAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93661116,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x10ebd5e3141d3470901a7850ee2d283e7a5fbcfb"
+                    },
+                    "text": "7/ FHE is not practical with Ethereum today due to the size of ciphertexts and the cost of computation on-chain. Several projects are working on FHE at the moment: @zama_fhe  (TFHE)  @SunscreenTech  (BFV Compiler)  @FhenixIO  (FHE Rollups)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd05e44ff28fdfc630a5cd11073a4f3653431037a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "l6yXxijI6Wr4KP9IXuHSanmpY3AP7eb5AsUfMpvxkLfD2EJVHLdp8iSM5gXSVJaEfWU8xdcbBCkLtwqqwzb4Cg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93661129,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0xd05e44ff28fdfc630a5cd11073a4f3653431037a"
+                    },
+                    "text": "8/ The open problems for FHE fall into three categories: usability, composability, and performance. Challenges predominantly revolve around data efficiency due to large ciphertext and bootstrapping key sizes.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/978pir1.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x5bb674061b19020ed7102e05583f44a372cacf4b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kKW+Ej8TJtn3zWViiA7MqWYvl8pDckayydQ4xqfBmGknPGyFNmp3FifEkIlyDvLF+CEyNh/OxuchGCSKQFmzCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 93661159,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x5bb674061b19020ed7102e05583f44a372cacf4b"
+                    },
+                    "text": "9/ Realizing FHE’s full potential demands overcoming these challenges and integration with other cryptographic primitives like ZKPs and MPCs.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/IkduYVi.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xc91ca6370bd6edde9793d3adc2502e6460063a96",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zIU0LLVy9Hef/XxuAcVdw4a3t164V8hfkwbvE6VSh6dq4c6PqZ45IhYdVdeYyYI6H4PALHQUX8Pg/U4D18kWCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 97713111,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+                    "text": "Looking for beta testers for a side project I've been working on, its a public good bounty platform for micro funding - if you're a regular contributor to open source projects and interested in helping out test drop into my DCs! (Unpaid)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4a60e76b2fc69d9e54b6c4eb6d796c698dff3d38",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BXvGRq41yeWyA+QbjIhQw3NwW1q/PpXDnnyPnTELVE/Lqcm/VCYRFZt80+B7mbj5YGPfJDh1ZZ8nwODB8kNZBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18510,
+                "timestamp": 97713122,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 18510,
+                        "hash": "0x4a60e76b2fc69d9e54b6c4eb6d796c698dff3d38"
+                    },
+                    "text": "https://www.gitgig.io/",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://www.gitgig.io/"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe39ec972f15c5a24b83a6eacf631fd830b7a9cc2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HfjjB15iesSIH6tW2Q4sEHlklILgs2xxcN5Aehxo1GacTEGuY2kxC5o+A/cSCE5qYyB94AdGwmX7jvEz1jbpDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x45bcbd70837be6bf5f134652edae6eb78537b795d03f2b20c458abf6e1255ee4"
+        }
+    ],
+    "nextPageToken": ""
+}

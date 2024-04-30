@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 16434,
+                "timestamp": 80300862,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "signum-capital"
+                }
+            },
+            "hash": "0xf34cf23f223e84284a31c62d39727a0f0b5c0e6a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "dgZLolEPaLS/yso6vwocu+AqASPETBAsnB5yAIG7n+j66p7rVEvQ5zEHXkLFACGjzNQs3F9gZC9EfAu+U8KOAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa4720887b229d7b2e5404d657d302f85f343b6034aab21292d50a7fd736a063e"
+        }
+    ],
+    "nextPageToken": ""
+}

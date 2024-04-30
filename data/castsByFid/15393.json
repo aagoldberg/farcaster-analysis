@@ -1,0 +1,470 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 79120941,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Welp. Hello Farcaster!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xaae3d666394364dc82d4a131b047122bbe4019d7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7RpyENaL94Rmpc9GAimiNJYqMVIw/GVsN9flLHut16NIuGdHNo/o13G2IpUvpRncSDnMMyOlP1FXFUCTRNFECA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 79121056,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        981
+                    ],
+                    "parentCastId": {
+                        "fid": 15393,
+                        "hash": "0xaae3d666394364dc82d4a131b047122bbe4019d7"
+                    },
+                    "text": " \n\nWhat is this retweet?",
+                    "mentionsPositions": [
+                        0
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x88a13a6e3c910394da349029e06264b2e6837109",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GCxMaUsDiN9F51n+3CQuentiOSRxmms73j7eafKEEJjcijGZ1B25G+M5HGwscw0MXtb4oNVbJgDH9w+dvBQtBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 79121099,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        981
+                    ],
+                    "parentCastId": {
+                        "fid": 981,
+                        "hash": "0x3734e28a7e6b6781f4fe253218452295edb05b42"
+                    },
+                    "text": " please, can you send us a joke to break the ice?",
+                    "mentionsPositions": [
+                        0
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xdad3d28b19930ca6807b301c6f4f601ed9c3c4ef",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "FRMhV4K3TwFvSJH1msnX77k4/4cs5kSGCkl+ZbdsWbqbPVmT7PiihZAAWBubPn/zE87dsBa25hNDm4VS+nUZAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 97648921,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "How tf do I get dark mode?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd75c83ca8412f6b46162d4f94a503a09933d0adf",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HAfLtIReLJdXFxjPjQn4mOv1RvWxXaAydz9eqT0AxROgAacquAxpDeWqiDJZKVTAxSxbyCj4A7y1i19dqQGIBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 15393,
+                "timestamp": 97734304,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "jNXykuR7o3EJQ/efBeOow1tGhOE="
+                }
+            },
+            "hash": "0x7d6901368690d2f4a422a5b68538f3e864407ce9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qvBWT2Pc+rF7staNQ19g4jwEpv4UnOlgqNpkA6m4yj5Njpxv8WrU+SeyqojqGF2wCxdtImZI15j7Lfj/WgRUAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 15393,
+                "timestamp": 97734306,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "CKtn4RHCx9FQK06+R8Qdc9r8vpc="
+                }
+            },
+            "hash": "0xf164b4b728f811e0b90274959d8b7bf3db169c50",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "i2+p/4rH9jOfuAy8+W8LAOozWQAQ7wHNvbTNfD3qhK5u9EM8WI3Gm59VfeRBAGXErhrqcN+aUK1QdPKDlFctBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 97962341,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/argy",
+                    "text": "Ya somos ricos?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd59eab4c4a8e210948523d0973c11380a78633d7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qVYvSGYKV/1oXmO9raA1SdRrcH5jJF+8WmXHRaMSYqyfWJf9vivoRC0zlIoLGLhDdUS0K2uDt8T9ef3taQWiCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 98314598,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 14198,
+                        "hash": "0x126742ffca4d2cdf6f2771570b806e555ef492e8"
+                    },
+                    "text": "Desde que me uní a este grupo mis holding crypto valen más, encontré una correlación directa.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x938828fcf4d4102a3f7bc6cf5dda3d87e5801996",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3BjdvBHV49IBjzV7EYht8JOWdzfyjV9UxJesjA7dnYuNMMgINwh08mB8m5RrpNi7V+09zy07S/MlQ/NadvMqBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 15393,
+                "timestamp": 102212579,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "PdrMNMTznG9+nsQNHn280xg8n3Y="
+                }
+            },
+            "hash": "0x579120031457a0e40e5d954d5380284bd292a4a7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "MUySVGnm7p16GecTRCyXu6TNLOCEG7j3AcndY6It6BNBjR8ZWD0oNPIjQGfj2AdRoDOhm6fhmAovGM/YFyBUBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 102212594,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 381068,
+                        "hash": "0x6d0e2d1dcbf8ac62ebe9e6a0e1c6fe6409156c5e"
+                    },
+                    "text": "Imagine!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5713967c73f7d862452cb34b8243a307d5d6fb82",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rt+G+8efP9vvZ49T2Ry1Al2pQgCf1NZJwMC8pUqVI2yb2DPn+tN93djtge6ChJeu6+/b9XrXS0z6Y9pH6BOuDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 102244706,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+                    "text": "Are ERC-314 a thing on DEGEN chain? Let's get our 🎩 on, I've built a quick interface for degens to interact.\nFinal idea? An open source DEX with no token that interacts only with ERC-314, let's start with #DEGEN\nOf course needs to be on MM and check the chain connected.\nhttps://erc314-interactoor.vercel.app/",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://erc314-interactoor.vercel.app/"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x858928d533edd9b41a78abc636c32911ad1acd3c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "cEUT2pNUqGM3XNQ+/aYhxFJXzW+ONWPqTATHhyY7YaMP049LkdUlCdIc/oOm6VJzfdqXopm2/TFNTb7Xo8PeAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 102335545,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 15393,
+                        "hash": "0x858928d533edd9b41a78abc636c32911ad1acd3c"
+                    },
+                    "text": "All the ERC-314 tokens died pretty fast :c",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd174ac2ec511e01d2b546f60fc586a54b5b02cb3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "dZXhRFPMMeIJ3A2QPhqs1K52tCfRCf2rSgZZOh9pJgK2nuvagQIZsDIX1osWBQLXeJe7pgTYxRAdJxYIo+yeAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 15393,
+                "timestamp": 102640832,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "wNbxdHoJ2gXp07/ms2Cf//zpDvk="
+                }
+            },
+            "hash": "0x721661627d8cbd1b8a8ad7dcb36d7741c0a00ff9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5iPDw7MSx8SYCa2S514zYkXp8REh3zIQpsEZrDtS+mzPTPth/8TpnEkl6Fv7cowTkKtLnwm70XQOkKc4cG3RBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 15393,
+                "timestamp": 102640877,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "F2lgmZwNpnWh0SElRLZW3O+1rRg="
+                }
+            },
+            "hash": "0x66f18e1580365a523d085768de766268afb8d8de",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lJE3B9/g4eUD2RKiOSJscMr36J6+c+L3fAUfyLmbwnxTV1DCEayA6HYYcEhNMF83zvC5dOfSDtx3sVbJFNQ9AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 102647849,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 244349,
+                        "hash": "0xa99ef1f19ce73d04bc822860c474b949ccbb43bb"
+                    },
+                    "text": "Mom, look, I'm a beggar on farcast!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4e0a084751384b1d6eaa4aef58d0dee0239021f9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hw1//+jqUdWmqYCGI+qTRgO7F73tVSjVdhMWtuYM4rVw6KkEzrRbK9KiUjc+Rf0xpzCHLntp8O/027myyilMBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 102670122,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7251,
+                        "hash": "0xb31589f7b07b933bee530320af56edac56e8383c"
+                    },
+                    "text": "E A R L Y",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x87ded3748e90cac42067e229194529a18406c7cb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "+DQ6yZCKc3cgZ78Q8XmhdzZiXWSM2QTwX+oeikQvRtF/XpSCjahRHojHC3rRzDMTVQ+0Xn7PAN8W4DQJC8J+CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 103311765,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "(more sorry)",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 576,
+                                "hash": "0xd452e64b4dbbf83ad12a8d13574030e8a7002ec4"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x5e75a5fb03d3a9e8f3e64da15f4104305d200121",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hTV4InXKPYC8HqEAl1sm0eBQbPGj9kwCWqG3HupuH583oDjvyDnvcm+tr4IGJ1tLx9Qg3e/aSXNVFpg28a0hBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 104529030,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4790,
+                        "hash": "0xd21e193887558abbed6abe921dfb07a10a2ce2b3"
+                    },
+                    "text": "0xsuku.eth",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x802710ec2640000bff7638c3f3379801831f4ba7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lR4dboNUtklSqwOHIrIKUhZjrZ5H0o2xYZjs0BpBoW30GWyOCRzpvGpDzwPPFhJf8KxQm3KvWzvUJFhW07XcBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 104614236,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4790,
+                        "hash": "0xcdfe725c7fc1dd7652ee4a20691a32c941ea11db"
+                    },
+                    "text": "aaaaaaaaaa",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa682faaacc87d3271c36558171295f1822dfbc0f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/SYCRsScT1kdxLEH59H/hTOi4giaIXFNQPwWue5lEgYePLyGfMkJCyxqQo45dqJzkPs+vY030XL0CdZKIG+KCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 104614505,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8152,
+                        "hash": "0xb60beb635e0e3d9f20d437d2cbb5517270168d30"
+                    },
+                    "text": "10 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe135d5efe61aeee4eb36c8191cb397886cf27f5a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4rjSGl+rt41WhfC3FOe6/8nyCKp3zHhETbSjfVvarzinHEBhv9aVa3cY8qYZSBwGfWfhGDyx7DCtibIKfm8AAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 15393,
+                "timestamp": 104655346,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 15393,
+                        "hash": "0xa682faaacc87d3271c36558171295f1822dfbc0f"
+                    },
+                    "text": "Me acabo de enterar que no se puede editar jajaja, graciassss",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x44c6ddccdd7c683d2873352ccd090f5e0bd08e18",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Zb43jQBblUcYEc6p9xiu+48SsmzCRLELKnec+7fAK5tXcjKhqTo0UKRaNz4Z0W/m9Ql+uucTMlsbr8vDjVElDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x10f028c4e1796f2621ea233851ed149abfb7fc19c13d0222c3f22e1fa5d6e07e"
+        }
+    ],
+    "nextPageToken": ""
+}

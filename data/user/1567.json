@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 1567,
+                "timestamp": 69403482,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "rodrigo-artizen"
+                }
+            },
+            "hash": "0x0ab9a90233c698335ef84db3ed65edf18b58f66f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "idH7ZiRFD6k6czg2IQxTy5Q8e4Mm41DsP7+gIOMNy/aBKIuDKILXHS+j/5CGLh2YTMx/QrZLyo/jyfwJD4SmDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x469bd1fcd51813fcee033f77f47977fb1b2de435b3433951019b3fc607af197e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 1567,
+                "timestamp": 69403482,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_PFP",
+                    "value": "https://en.gravatar.com/userimage/225563401/1861d41982e364daf1ce6e18ef0692b5.png"
+                }
+            },
+            "hash": "0x59e05f4a79f5cc2633379359f65c1db6f81d6a07",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kRcvX/r7t2HlnV9PAOMfbc+GirOJ8Iwc05W+l9biYzdHgltmErANPSugf0ToBtB3v9nutqngHB3Tzo2zz5PxCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x469bd1fcd51813fcee033f77f47977fb1b2de435b3433951019b3fc607af197e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 1567,
+                "timestamp": 69403482,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_DISPLAY",
+                    "value": "Rodrigo_Artizen"
+                }
+            },
+            "hash": "0xc7b69b761d218469e357155b6f5b88cec2900253",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "S4G08dPvCwJCpfpDj37NlB9vm73ejXTFTzUnRsKUUrGllGV6fSDq1n4h3p+uEVjV2hLUbsXHrbefDAAvWRijDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x469bd1fcd51813fcee033f77f47977fb1b2de435b3433951019b3fc607af197e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 1567,
+                "timestamp": 69403482,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_BIO",
+                    "value": "I am a Computer Scientist willing to use my skills to make a good impact on people's lives!!"
+                }
+            },
+            "hash": "0xd36ff5f24f5b605a8131fc4d44dfaeb7f62795b1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "PvmFiQHbpekW24ORMWwWCIJIQnZyWDFCyyY8lAdoiiXRjB+JGqkJyqI0q66PHx9zZZ5XcvIWz9EpW95Ez+znBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x469bd1fcd51813fcee033f77f47977fb1b2de435b3433951019b3fc607af197e"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 22980,
+                "timestamp": 87653594,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "hens"
+                }
+            },
+            "hash": "0x0d2cfc11f0d3e87d260761ee4456d015e53312e1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "8s2aWFJH8BPQKTVSTPPkw0fADOq8g6r6Lj3f1phlKeRar22Ohjnmpf4NXs9MktzhEi6Zcbmr5/WJn0lzGonMCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8012bc909ec4051519d8a2e85ba63a058af80bfbacfc328320f1945b60a79146"
+        }
+    ],
+    "nextPageToken": ""
+}

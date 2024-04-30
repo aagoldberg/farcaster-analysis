@@ -1,0 +1,89 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3081,
+                "timestamp": 55962962,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Any examples of networks or services that gave out internal utility credits/tokens not on chain to start and then later airdropped the equivalent value into users' wallets in exchange for the internal tokens?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbc72664a49ebbb1938cff53c05cb729c3bb1f7c3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "L09ueMaMbvHSOkvHarj/gS489LQ9pxv2aoFpmlm8shFKtoVcTKLsu18/RLtcRiBJ6T9ZW++hRhbr58l+aSz6BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x690d8c3d2071559a8e496253e0164a53b6c0fbe10cdedbf741cb6fc817a9a0d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3081,
+                "timestamp": 56679379,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://store.dandelionchocolate.com/?gclid=EAIaIQobChMIuNaVn4Hr-gIVDQKtBh1TewyPEAAYASAAEgKu0vD_BwE#Chocolate-Bars"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 124,
+                        "hash": "0x62d669986ff30c016fc53ec538063f76e9ffbc97"
+                    },
+                    "text": "Dandelion Chocolate is a bean to bar craft chocolate shop and has some solid bars. https://store.dandelionchocolate.com/?gclid=EAIaIQobChMIuNaVn4Hr-gIVDQKtBh1TewyPEAAYASAAEgKu0vD_BwE#Chocolate-Bars",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6ddd0d010180c46c25ab62b3544f19f693a7192e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "x90iIO03y2gRBn1HR7esICoCwcnNY3L9TUumlWRdUPhmUewJA43qImDlB47pawYFocBdPHG24qx4WIP/TzLODw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x690d8c3d2071559a8e496253e0164a53b6c0fbe10cdedbf741cb6fc817a9a0d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 3081,
+                "timestamp": 72212471,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "0TjKIishADranhLdiwV8QDqvl9U="
+                }
+            },
+            "hash": "0xa2326ce7d8945fa4a58ef2027fc41a8f94424f4b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NAboNXtPjDX54JjsX3U43rkjD6J43tJhTb1nsGnbN3FGlMj5U8Fc5bUWe5T67Cnk9gLnnDrI1AkeocumF9BmCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x690d8c3d2071559a8e496253e0164a53b6c0fbe10cdedbf741cb6fc817a9a0d9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3081,
+                "timestamp": 72212529,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://apps.apple.com/us/app/artifact-personalized-news/id1572927568"
+                    ],
+                    "mentions": [],
+                    "text": "It happened. Artifact (news app by Instagram founders) is now the number one source of my news. Great app. https://apps.apple.com/us/app/artifact-personalized-news/id1572927568",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf70d75d4f6e87969ed8bfd3201dff2a2b01e55c7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "EReoXF5hgEToWJ0fUggRh0wUgMA/8LSmm1CSp47sGBAXQRJvJmOHqaa1YxVrVrajxK8m/+47egQAyLmU0MxKBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x690d8c3d2071559a8e496253e0164a53b6c0fbe10cdedbf741cb6fc817a9a0d9"
+        }
+    ],
+    "nextPageToken": ""
+}

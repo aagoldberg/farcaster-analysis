@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19982,
+                "timestamp": 85049436,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 134,
+                        "hash": "0xd03212cefa1bee1e5f0fc1b338f8575ffe447ee7"
+                    },
+                    "text": "Just sent you a dm",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x98a7d5dc2e13604b458837be1f1cc4c3dcc1516f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "p733rdlB5OC6MIn9DMsu67yPjyICaeX+o6KZ7kLYfamP6hV3GUaUI/XFTKYBRd2QGUMK7HAl83l6TnBFKxbIDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5907bb82acd78b463d72eb8dbaa394c47d1f03d6b1d25123405298f4ce4ea05a"
+        }
+    ],
+    "nextPageToken": ""
+}

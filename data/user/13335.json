@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 13335,
+                "timestamp": 75500430,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "meanfinance"
+                }
+            },
+            "hash": "0x224dd981bddcb9ded83f9fddabc0abd375911514",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ZZvRsm1Ql/KNqzNmUYKVPK0mI2WURronbBhX8bG7eQ7aiuaMfUCcpLSXp7/qODP5dl0uD6e0OiPXwRY+3pm7BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x28763a82b6a6f38acc1a5d30d2e09ada68b515a55053561c86d5e427e628d849"
+        }
+    ],
+    "nextPageToken": ""
+}

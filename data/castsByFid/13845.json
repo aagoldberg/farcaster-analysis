@@ -1,0 +1,305 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 77241732,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        13734
+                    ],
+                    "parentCastId": {
+                        "fid": 6910,
+                        "hash": "0xeee19db94702d90fc9ec82598ce2513a7eb9b25b"
+                    },
+                    "text": "Sup  .  Degen much lately?",
+                    "mentionsPositions": [
+                        4
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2752e3c68f344d30bd0c9c00263f68c04d65f8f8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "WSVtKPhwweqxs4mCv5xVaJMIbYIqN5ymOSDLZRk2qGCCGdksWmVJGsd7405CfkToLQEJyIGlro35wBaK0yQWBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 85185583,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 207,
+                        "hash": "0x3bf598a710b7f1c3f0bd95044f8d50d6b6489ab6"
+                    },
+                    "text": "interesting.  How is the support for folks with vision impairment? Are those diopters in the glasses?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd3ff4bfecddfe539031b578a16036ba244b67015",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "f2R1Ho9aZwRvxZ1poGT3RaYljfzzBcfC1k/HWHTuVUNto3dcbh70zt1S7/AkTp/S9iLA/YtfVWtQSGXoDx5yCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 88620568,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 453,
+                        "hash": "0x5152909aefe1d1e95076bddaae8265cde127759b"
+                    },
+                    "text": "Happy to engage here rather than X.  Feels gross logging in to fka Twitter these days.\n\nPeter is not wrong that arbitrary pruning is bad for the network, but he is wrong implying Besu as doing this by default.  This is an undocumented experimental feature.  Of course hyperbole gets engagement though.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x66fdb18998e3a63c00c6972c5d8cd1c03260ea2c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IkgJUqaKjTFstRg+P7Kkph+ZLGdaLK6FCGfU7lOEfhx++OZxJf/dn+QUODWOCJLzDNgGbLZhyBL8zzSW2z2WBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 92018926,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6910,
+                        "hash": "0x02932544aa7fd870c2ee3a9bc7345feceebd4e0d"
+                    },
+                    "text": "can you recommend some good tracks?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3457d6cf0e9c0dbe4ee6f7c712949a59cb765a90",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BL+DzJj1scw/9AUTY0aFzrMTieYIY8THAIp5bTfhYixwWv0ys/wmCs/Ef/YCzzbOSloF9gMHgk/cSmlBaM8eAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 92450166,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3236,
+                        "hash": "0xf327295c4788a5f4686173b606d498f4b3fbe04f"
+                    },
+                    "text": "Think instead about ethereum validators opting-in to additional duties and reusing their staked eth as a bond to ensure good-faith participation and performing duties.\n\nEigenlayer facilitates re-bonding stake by acting as a withdrawal address intermediary, encumbering the stake with additional set of slashing rules.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4020800ef80599173ea602ff1589671c288cbba3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "l4fFPz7PjKmv+L3iyo3oqPqqfKIBTaKJIVte6x4x++poQjTCB3feW2BtXA85XW1/NJjpRaE1rhQPKaGixqj6AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 92602136,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3236,
+                        "hash": "0x7e95ce58c213d7f9253b9a0982407f8699b13355"
+                    },
+                    "text": "Good summary of the offering, without delving into specifics 👍",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x866829619b1cd1bb326717de778ed1d93549e966",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "65LFD3iwR0deGfZ0rE24oQn8bD58nAqqLsZrXuzlPzCUTYy1z5G/Agcj+q3HTyW48YDTeFDpbDRdRdCp3B7nCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 92604287,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4275,
+                        "hash": "0x12a82e86ee33c868139c5d0b5b11031550d71f83"
+                    },
+                    "text": "easily bundle actions into a single transaction such as approvals and swaps.\n\ninteract with stealth accounts,  https://eips.ethereum.org/EIPS/eip-5564",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://eips.ethereum.org/EIPS/eip-5564"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xcf303005f0ca090d7894775fb4cc5037877f1419",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "s1HcJUBnpoRGZWWrNFHBW4YwYEW6Lk2szNwQ8gh+5kTlg5ywZ14eS/NsotJbw9uiJnA5JH+Dl6iH/6zkWHpkBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 93743132,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2126,
+                        "hash": "0x993140681a5e798ae44017e992ae0bbfe95cc0b3"
+                    },
+                    "text": "hey that is my birthday, maybe I *can* make it til the end of the world",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4fe9ec00c3401bfe6205103bc48b77b7a4bb0a70",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "SkXx/IsNGtv1/NiXuD8hfofiZURkBu/zuCV/virdEIMLnJHMwqNf37d9MAfxnCtgTNgnd5dlN3Mjziuu1ra0Cw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 94111140,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7479,
+                        "hash": "0x9bd28c0dc8941a9b70743127085f11d2e0e96ecc"
+                    },
+                    "text": "GasToken and similar schemes were nerfed back in 2021 with the London Hardfork via https://eips.ethereum.org/EIPS/eip-3529",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://eips.ethereum.org/EIPS/eip-3529"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x747b7fb2c9d2cc90729eba1689e83679e2b5d46f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IzuiDnIYwE0EDl+U98SVgGQhs1N5J9p4LwI+2eP1c5Mgf1z8NGI1HEFAEVgCqNuMJe12zZ8MrFWa9TZDAMp3CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 94111438,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7479,
+                        "hash": "0xd537436dc6f9ae496a15def96f4e87947b8710fa"
+                    },
+                    "text": "Yup.  Renders it mostly harmless.  Selfdestruct has been nothing but a liability.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x81182e8b96a229931335a926197428aa6f75d97c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "yc/hz7AMdao0oReScBzA3cqIk5scEiK5mZM8e+0GunXmRZtSMvyBPS8RbNmxS2w/d4NU5J7xFu+/mz/kZTmiDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 94111678,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7479,
+                        "hash": "0xa8a127df9e977a689b468f5e333b0f40a27e3f42"
+                    },
+                    "text": "Characterizing verkle tries as \"years away\" is abusing the plural for dramatic effect IMO.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x57ead8451b82ae7aaf5ff24da8be059e53b58e59",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Wty+DllLcoJoje+u28u5wzZEsvQ1aUrebSgIxxfRNP6aNjjADxhuDTaBYyE9Xk59PYN/+VkHbmD70+Ih2z3WDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13845,
+                "timestamp": 97269083,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 231788,
+                        "hash": "0x1c52e72b3dcc77d5932be769507fe5efd459762c"
+                    },
+                    "text": "Oh no!  your poor friend.  Did you freeze the rest of them?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3e3249df5343441b767a5f78015a509e1b82ba26",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qSRsAdoiU/bJUz1F1lq2dx9dB6tPT4VmwDjWR5lWKT5F/MkDoDAc8MRqD3/1IhQ6UvpKAjPzj4wmE2OK8QeuBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa9894be9a08b77d0860fab43e11ee8bcd06a016518286aaddf0b396739ddfd74"
+        }
+    ],
+    "nextPageToken": ""
+}

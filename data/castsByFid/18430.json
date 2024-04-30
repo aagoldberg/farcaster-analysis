@@ -1,0 +1,67 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 18430,
+                "timestamp": 91466539,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "ldJOW94qwPwxcrPIug5qN61pJPQ="
+                }
+            },
+            "hash": "0xcdb370a34620bc861cf340118ffb1e236d02fd4c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "8jMCqvgHhsxF150Bfri4wQNtD3Er9o0zkT3TG+PhYkxRmgd1cy32eF1almAjqvs32AyC6O8LEutXP79S2yzOAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x483b1defbd881de515c00b6a256109147885d71b70c37411f6eff59ac1562b25"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18430,
+                "timestamp": 91466548,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://ethereum.org",
+                    "text": "All these wallets who try to do all these shenanigans (overriding window.etherum; disrespecting EIP-6963) to get more people to use their wallets, actually end up just losing more users than they intend to.\n\nEveryone just disables/deletes such wallets 🤷‍♂️",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x61838abdd55c7db7404e7e42ea52fc6394801eb3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VdS4oKC8WHpT0FmAyx/yKDtMYGj8LWEi5MxsmLx085CvJFZtp9HdHVtCDK/UvXj76hyGoQm9/Fp6d71yFC69Bg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x483b1defbd881de515c00b6a256109147885d71b70c37411f6eff59ac1562b25"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18430,
+                "timestamp": 102987451,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Compiled a list of about 100+ Smart Account modules, hooks, validators, etc. across 10+ Smart Account frameworks!\n\nhttps://wallets.eco/modules\n\nWill move this to github soon so it's easier to contribute to it 🙂",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://wallets.eco/modules"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x8768031fa82dd05721154f2c8c3299454df7def0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wScz5aucnqo/d0YL8/Aic3EWE9em8+at9D92xTXTYVNGw61DKP00x91akUazHBMfsMqZeHCPmV7FG0UDtqBICw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x483b1defbd881de515c00b6a256109147885d71b70c37411f6eff59ac1562b25"
+        }
+    ],
+    "nextPageToken": ""
+}

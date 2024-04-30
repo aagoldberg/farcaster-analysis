@@ -1,0 +1,25 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19976,
+                "timestamp": 85047654,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Hello worldcast!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7b177e7f43fd9144e23318145ef2774ff469b3e2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4NBlibCfq2WiL4fRNkMveQatwXLEjpteNUOqnnsDMDoF6H6roa1M3IJ6kqdDZFyE7oiUUDwsYnpZD/1DG+E4AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x9c0cd7a4d1a1358b451b14773488396ad539bf17bab9e6324e7475e5f44b763c"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,36 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21418,
+                "timestamp": 94000560,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 61,
+                        "hash": "0xc0dff8a27ed45b3d70f236d08ead82b376c93f68"
+                    },
+                    "text": "I posted a response to this on X: https://x.com/web3_B/status/1739061239005794801?s=20\n\ntldr - Increase in realized cap should theoretically give us true fiat inflows, but the calculation isn't perfect. Using glassnode realized cap increases I calculate an aggregate inflow of $84.5B into BTC and ETH.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/zq5qSWF.png"
+                        },
+                        {
+                            "url": "https://x.com/web3_B/status/1739061239005794801?s=20"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x1e888ca1747d24153ee58ec69436eb4809a7fb98",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "J7PHHRRqGH8lvtjZgQ9frOXBgP27nz2hSA2GM8HFIidOrGmPzZ464drq+i2qxbyVs8l1Z8lQmMyS9yIftBj+Ag==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x86e0751120ae2d69c52c87be1776a1f1aafcdc61d87fb13098462887aa9ce1ae"
+        }
+    ],
+    "nextPageToken": ""
+}

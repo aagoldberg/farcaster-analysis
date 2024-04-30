@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10739,
+                "timestamp": 95724885,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 528,
+                        "hash": "0x2eee7a8912141b072bc994feb3b23d3ad9278458"
+                    },
+                    "text": "Degentlemen",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc5465ac9362e56177acd8ca3c669009419fdc5bf",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Ri6EeCYmla95iXGv6mlBkoSB9BIqa1mMG6M8pG7SLrJErDrxOM0GLGzDOKP2xyIDLq4D9nVbZppRkW+5QVaNCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xea255c66701ecd2fba3465979e560f75f1a38673c07385b658c996eca6dbcc32"
+        }
+    ],
+    "nextPageToken": ""
+}

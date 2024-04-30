@@ -1,0 +1,117 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16943,
+                "timestamp": 81597247,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Hello World!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x36cb35d990ea125d95e5c3235064c033d18a4400",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Lv2aZg90HKkfd6tv8LQHycGc+qXbkNNzqpNC/nB3krbnHezfmpnel3DVwLwM07qjhLlDAhcXWyvqtVpT09UBCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1f5fb914e3ea2c0dd5616c4b67546a6a7c19103f5ff241f7cddfb63eed92ddd5"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16943,
+                "timestamp": 83285498,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "The EthOS phone’s biggest innovation might me avoiding state taxes, value added tax etc.\n\nPeople buy an NFT which is not subject to taxes.\nThey then burn it and get a physical object that should have been taxed.\nBrilliant !",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x683ea0b91d991a86f36b2a17cc71a8755722fb6e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "OQeuGSzOLs+MJ25yf6GEnW6X+2zfwfuc+t5NwdRDuyzZ4RuCMmFsVHPA84n9ECb0CkDiBFMuOka+7wPMYwr6DQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1f5fb914e3ea2c0dd5616c4b67546a6a7c19103f5ff241f7cddfb63eed92ddd5"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16943,
+                "timestamp": 84794952,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Yesterday, I bought 20 billion NFTs.\nIn a context of never-ending inflation, it is refreshing to see that NFTs are more affordable than ever.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/36Ic3TF.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x83614e989c7246698b87ba24ce5de246cf03851b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "l6bY0l2q5zsQDPQIk8sIF3itM5ytJ2s2A6DUyvvmEkizq+iDnQ2bHAROqi2wITBfptK+EcOasapcvhyP+bUOCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1f5fb914e3ea2c0dd5616c4b67546a6a7c19103f5ff241f7cddfb63eed92ddd5"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16943,
+                "timestamp": 84794987,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 16943,
+                        "hash": "0x83614e989c7246698b87ba24ce5de246cf03851b"
+                    },
+                    "text": "For the past decade, scalability has been blockchain's Achilles heel. However, excellent solutions have emerged, such as PoS, zkSync, and ERC 1155.\nBitmatic demonstrates how to use them to flood the blockchain... and yet I somehow like it!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x76362618afb6cfe6c7476817ffb424bfee6dbce2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "p1rm8w016jRKHNmCoWsvr1b8amVJBLfzOuu+9YjXsDs7pDtetrYqJQhkUdsL2iu3VM8ntMxjWUv9/FVY2PhQCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1f5fb914e3ea2c0dd5616c4b67546a6a7c19103f5ff241f7cddfb63eed92ddd5"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16943,
+                "timestamp": 84795000,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 16943,
+                        "hash": "0x83614e989c7246698b87ba24ce5de246cf03851b"
+                    },
+                    "text": "We are in a bear market (hence my choice of NFT).\nNFT transactions by value haven't been this low since pretty much their start.\nIt's time to break things and innovate (even if in strange ways).",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x53338c1d5bb7b875c9d3c7dabd6d98e40cf262d9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "MigM6gP+R5hty0NghoFC8Yc4SKUHMkB9NpvsmTd7gCQZAzIV9+TnZiJuooXItkKgw93dAyMPQwlQVBBGcu7XAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1f5fb914e3ea2c0dd5616c4b67546a6a7c19103f5ff241f7cddfb63eed92ddd5"
+        }
+    ],
+    "nextPageToken": ""
+}

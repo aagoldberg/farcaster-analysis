@@ -1,0 +1,70 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6232,
+                "timestamp": 60130188,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Olá farcaster",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x666ab5f8364c6b3b55596e2c8b7046b5de95c5a3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Q3LzR1mM+3SC3zpY2IiEcC9hBqQKYOVU+tZsHye2tO8jTDJQ7ayY5xPbAbcSFZrsYNfdJGKP4E1l2cTct1ZjCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xe934dfaec87c3d780f168dd98ee2ade70649649e162efeb33b0831b5bc580c14"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6232,
+                "timestamp": 60163529,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 127,
+                        "hash": "0x75c6fe7e767136f0a14fd9631541bf4fffb0bce9"
+                    },
+                    "text": "Agree, the vast majority bastardize their product to mine user attention for ad $ \nReels are currently the best pattern for this and it's why we see them everywhere.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x00f09e4a7a44158a053fb06f217750fbcf85797e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7UFMxG3ttM43fl+GMnuEl/kuKHUOmgCZaujB8Wn1CRq+A6CqDXYKg15Hqz6WOTw6KkVuvGsn7+bu83AyqZN0AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xe934dfaec87c3d780f168dd98ee2ade70649649e162efeb33b0831b5bc580c14"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6232,
+                "timestamp": 102617054,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/frameswap",
+                    "text": "Shill me some interesting frames",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6515ba4e6468afc57a0fee70b7e52c085d569579",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "9MCiMTjCtQZi5iUY/757YQmCD2pRkD+JrkbGHAYgffgF1l9leHyzstyYUYtbkQwyOk2aDRbxpVeAFM2uSE/tBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xe934dfaec87c3d780f168dd98ee2ade70649649e162efeb33b0831b5bc580c14"
+        }
+    ],
+    "nextPageToken": ""
+}

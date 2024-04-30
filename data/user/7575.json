@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 7575,
+                "timestamp": 69404443,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_BIO",
+                    "value": "I am a little boy that find my way to financial freedom"
+                }
+            },
+            "hash": "0x07259c1e99bc3dfea8a12a01730b9f89f607c848",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XxcwdFQaSoQHl/onfgHU3bXeK7ZUedWek+Y4RoEL50XUT36AkRTiB/5GzjuKfD1J/b0fCirkg50domxUSdl4Bg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x201008d952c06933aff75a51debfc651405381512d7ed31388058e1198995f46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 7575,
+                "timestamp": 69404443,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "auris"
+                }
+            },
+            "hash": "0x99e3d55e4636743b3f38645678a111ac8a53670a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "6mcHnTcni7PsJuGPHdkHaHy8LZCaCQzOzFXMiOjfoTnV7gec51RTu9h4M5uJz/hQrkMl72DsWNXpEs3b4ohuAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x201008d952c06933aff75a51debfc651405381512d7ed31388058e1198995f46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 7575,
+                "timestamp": 69404443,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_DISPLAY",
+                    "value": "Loc"
+                }
+            },
+            "hash": "0xa82e18c2299f1cac0965b547a06687e0151af3bb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Uzcb4pbhLcmDRuXHIRQCUpfni5oYVTEBoYR2aoeVvWYp5++jNlfUO4Ikatw22SLFjrUEposM5oa1OqptUoGyDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x201008d952c06933aff75a51debfc651405381512d7ed31388058e1198995f46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 7575,
+                "timestamp": 69404443,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_PFP",
+                    "value": "https://i.imgur.com/Dx5NW0V.jpg"
+                }
+            },
+            "hash": "0xac483b9e89945ea893c88b02bf10d41980e558c3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "8gNh2gkUri0F2hGk47dQl1bmefUqN2hKtWLnr1igmZptUbVOjlRQZNNlPcl9nkjF6cwo2YmFksb8rWEXCGDjCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x201008d952c06933aff75a51debfc651405381512d7ed31388058e1198995f46"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7813,
+                "timestamp": 63513069,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xd8a6c923381049f67d803d1c76137cf70c50d48c"
+                    },
+                    "text": "Is this true on Farcaster, that nobody can squat on usernames?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb29f3121603c76cb647bcb67485b8279269a19f9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "P6iVChknzHA6wQx4YqWDBnb3sG8ozoA0zX2ZxN5jtyy61PWW0Z/T5bRlENP3THVdp7GdF3WY1WjCNcZRGWY4Cg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5baeeca568168544d605ec79da1e8d5a03244c2f5cccdecb534f909438f98392"
+        }
+    ],
+    "nextPageToken": ""
+}

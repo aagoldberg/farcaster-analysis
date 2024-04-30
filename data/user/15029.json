@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 15029,
+                "timestamp": 78883600,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "0xbrendan"
+                }
+            },
+            "hash": "0xcf7a1a57c2f34c2116e1f23ce7a7dafa0b7ffde8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "cy6epulcX5xZfkrZEejkG1jMwKFUfoaqWTdepUHGqcdLsd+033/EuiwnOYHdcMaFcUYDJf9GcwxgFSF4EgK5Cw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1f85f9feeb63386ad4c478b6d590f9d75dd3ed76c2514dd7e9aeacd54bb02a04"
+        }
+    ],
+    "nextPageToken": ""
+}

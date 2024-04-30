@@ -1,0 +1,70 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19918,
+                "timestamp": 85020822,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Gm. World.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x772fc7c272f7d54c9e8e75269664847dc518750b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NubU5x3vzDWCRZ/RDQl0T6wlbrB6bkwFjuDcvauup6jlUi8KOW5LN8IZvN2iF5Tk05zgMFQGxMSCPwCXvkmGDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x7cf48ec49ad67a94ec8ab4e4716424e56aeeba9d44367b6571965153ed54a7ad"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19918,
+                "timestamp": 97943977,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 318864,
+                        "hash": "0xcd1c0e3539f59eb032bac12dea0f27bfbd1fd4a1"
+                    },
+                    "text": "Lfg",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb4b2cb6a57d695ff9e2d09a81eba76540b7e493e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "FGb/p3XrUxQi22BGvAMshtQgrbfl4+Bdj4a0yXdfLtl6gs6Vdqi4NWSs/R2cQ5zSkgUOOlfRs4NzMLNxHVQ7CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x7cf48ec49ad67a94ec8ab4e4716424e56aeeba9d44367b6571965153ed54a7ad"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 19918,
+                "timestamp": 100266264,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+                    "text": "GM gm frens",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1d566839cb2850f8c965d183ec2a09acc2fc1ce9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "huXaaFviHtpaKU3DK6y+rmj7rjX5+oBdfDYYF5IqAtcGaqXHcBOUMiXmHpfUmasjU6dbnuql7hz+7vDN2JkDAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x7cf48ec49ad67a94ec8ab4e4716424e56aeeba9d44367b6571965153ed54a7ad"
+        }
+    ],
+    "nextPageToken": ""
+}

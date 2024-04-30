@@ -1,0 +1,545 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 88229495,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "世界，你好！",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x76ae0fc786c3e350c7d1f4fa0d5d3ad333c89684",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "V++JLLkU1n9K71s/caR2hivhqhkH1BJEdUhw7r3JP5UrkNN2VYr/V7Bcu7m7XWkCZ6cEdM2RWqHMf3BlMuHJAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103009839,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0x32c3130cefe386f44df01ae289d6a7b20b8b9107"
+                    },
+                    "text": "3. The simple way of determining Bitcoin’s value is based on mining costs, halving events, and ETF holdings.\n\n4. Before the next halving, the cost to mine 1 Bitcoin has fluctuated between $15,000 to $20,000 based on electricity costs",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x581058649cd3f3384829e18260bbbf1883be5108",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BIvAdEatKMDQVGFaeEAbdKAXRitZOplID+4T5mYIa+KqSbrFfkzOc27witZuQgHyCbjJLyAHed/QlclRcvUJDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103009861,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0x581058649cd3f3384829e18260bbbf1883be5108"
+                    },
+                    "text": "5. Post-halving, this cost will double to somewhere between $30,000 and $40,000, depending on electricity costs\n\n6. From the miners’ perspective, there is constant pressure to steadily increase hash rates and to upgrade their mining rigs.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x29c3ce332d209c3be91e4ad89c1367a888192552",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HrIRwpHRFcuiIWj0OsKJzocrQIjlOoC8VO8X2JKL/2zwZbNh+yClOmEyjPAYSdXgqw60JC0ExpPPsFido+FwAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103009877,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0x29c3ce332d209c3be91e4ad89c1367a888192552"
+                    },
+                    "text": "This means that while the majority of a miner’s cost may be $40,000, once someone else starts to use better rigs or cheaper electricity, resulting in reduced costs, the other miners will have to make a choice between increasing their costs, or face losses.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2f9bd4aad7200d8608441168ed8e3d41d5f5fc23",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "edhaTWl+/qJpB2lrb+XX6zKqzgqPQfYGWTASgoSWlXa/VKfw9ao4tbEBBVQHe4mvwik1Pl41WeyqONgU95GlDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103009918,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0x2f9bd4aad7200d8608441168ed8e3d41d5f5fc23"
+                    },
+                    "text": "Hence, when calculating miners’ costs, we need to keep in mind that these costs are dynamic. Putting yourself into the shoes of a miner with current costs of $30,000, you’ll also need to consider your capital, the depreciation of your rigs, maintenance of your mining output",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x055e88450a49c2815709fbf936167c24ef8c661e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Zw7cuI+3eAagvEVcZO05aGXNTQ0kjcnVrYyFEODT7kVFdJpzIEkf8aJ9wCcud/Z+e8FRtUbcmY8UjYlohN1oDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103009934,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0x055e88450a49c2815709fbf936167c24ef8c661e"
+                    },
+                    "text": "and the cost to survive through bear markets. These are additional costs you need to consider.\n\nIn other words, simply calculating electricity costs plus overhead is a static formula. As a miner, there may be other factors to consider. Based on everything we’ve discussed so far;",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x74e1f3d2ee6e0ee28dc3057297d2c490a4ae2d88",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "scrpdRXjbtESBiUwJKplyrPeoNsTvJd9dEs/YjccYSkosD6XMErdiFRnLGF9ACpaj27bs54vQpX0k30TYLTGBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103128240,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "打造一个华语社区吧。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xec83b63abed0072c2f0e59fc1f33422f8b47c296",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Xsa0vjDd2a9dzshiHBmE+G7vLgUFT78kGyzErDFP32gPB5IYYVuSgVbLLJm5iw0hIjLIQCuV9JiaiHSN0/eaDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 21477,
+                "timestamp": 103129556,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "MsMTDO/jhvRN8BriidansguLkQc="
+                }
+            },
+            "hash": "0x572dfaa004d4acf64320a40506abfff68251d412",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/KsHtb3oBVa9s1V5VUxXGRvNnBl59dzKyhO1dC9jMejQm2Uh0QIMX+mEuLKo4IOE1//Ei7XRzt4EtZMGWcEpAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103129573,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 442327,
+                        "hash": "0x8497a3f79621c1159bb66b1743249d5ffce0963b"
+                    },
+                    "text": "欢迎",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x387efea482e6f24c41d6296cfc5d94cf48f57dab",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "0Fx3zm0WDO45ST95WNIMmhoDLYzioFyNI4mKdRwWf8kb4aCtmDTakDCZYqIhmEXEsHx0/8nnH6a3KqFH+TN0AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103129584,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 454527,
+                        "hash": "0x3b87ebb1208bcbd611bec1682fbd2c68aff969c5"
+                    },
+                    "text": "马上就要多起来了",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf7f918a0df25ffac10b97b5886f2e15e04ba42c5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qIOnY6qdtnPzGqywMn7FUDJY2ZkhKEOaCjSpbgtP+y4hqdC6J5ByKfG8QeueRUS7KRM8OcwMNtkRFNj60rF4Bw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103130458,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/dy",
+                    "text": "有谁知道这里怎么发长文吗？",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x38ed849587375a7b5217e05fb9ec2ba58643593f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1qmdsklyh6s+x7cojMGHHDbHvzv5AWmXgX7t5FyQjuWxXFBFX+rbVXUSbKGyD9mAWiIUaU6c91JTS4mCd1fbDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103130507,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/dy",
+                    "text": "周线级别的eth/btc汇率，除了2018年的深熊，后续eth的弱势已经到了差不多非常低的位置了。\n\nbtc当然还可以继续强，当然还会10万+，但我觉得当下换ETH，无论是质押拿各种积分得币的空投，还是仅是持有获得收益，都不错。",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/o21iZ3G.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x78a5b192632c72a8f0a595e168263c4dc812814b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "938uQcX0HXiFvWTvfWmPP8SppOsXFLhEcnB4kp1fXLGjHmfIzGkAhqQlG47dVFbMkSJzGsP5wIEx2MJT0WYSCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 21477,
+                "timestamp": 103130924,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "l9gpxM/K4dwAv0sWN2ky4PkzEbw="
+                }
+            },
+            "hash": "0xdc27402f551a7e3a50496b2be5470df4062c2f39",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "V8p7cRcw4RiMQallELzM7uHkoFdV2P4fpveM/JZkTqwkjnV7Mu6T3j+eA4+uL+vRI9pvIpKFb7iJkZyj+9tKAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103130954,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/dy",
+                    "text": "欢迎加入，一起打造最热闹的华语频道——英文内容太多，严重影响玩转warpcast。\n\n基本规则：发表有质量的交流，做有意义的行为。比如对优质内容打赏，比如发表优质内容。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb23ec82c2bf6c65fdc5379a51b49f770e0d4d4ed",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "0T6oK5Mz8L1c1BeTbNWhoDtgqSPqh2VISDPwvBMsrJ8KVE9g4Jo7KZz7h5CJ+5T13ualr4Rqd534ZLcb0KeZBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103130993,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 332904,
+                        "hash": "0x8e9d7d9e9fa75b82e8ba3b7cbe5ddd126eb815b3"
+                    },
+                    "text": "谢谢提醒，赶紧删了，重新发过了一下",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1524cdc5d220edd123eb6ba99ac98d12f0ed5686",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5hG4Dm/RfcIESHvMvSPAkSvtzN2Lp6U+RgpdrmnhhCEHBqDMv4l7euUfuHjZpvH3bgV62B8Nxz8+ly+bltT7Aw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103131019,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 437609,
+                        "hash": "0x92e2b66df88a2a0e885f3a21aab0710048afdfd1"
+                    },
+                    "text": "老师，就10u了，这把稳点！",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xda6698926ad5628b1a21b3d57e1cfa7fce8c55dd",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4+h7hKNZHjO2o01gA4csNyO4wHQKpTWIz8BnSVCARPbC5GOB0eDBvyK3PxaJGVfTFmWxnRk2ERG1nFtgzWM3Cw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103131829,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "有时候估值的时候，看到一些“不合理”时，我就会想一下每年天量增发的狗狗币的1000亿市值，突然就多了一点信仰。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa6ecab6200075d7553e5d3d1003a7ea126e094d5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VsMxFpzKd/AoG4voESwTQIuhPZPot9+iv99pJzWkhmRMIB/GgGjN8n7pbyITzTsk4tJ6Xsm94YC/JSVlw0mCDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103163795,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "能抓住ORDI、Pandora、Bome、ENA要具备哪些知识？\n\nORDI：要理解meme、理解meme与公链的比值，理解资产发行，理解减半等背景加持。\n\nPandora：理解流动性解决方案的估值、难度，所有项目相加的估值，对比404解决的方式、估值。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe30d18caf6f73d87569fcef6390fcb959f6cba6c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "j03hDC6mejBn0qnWu8p1wzaVTk2TTvR3VGaFC0DXjHGjv69lSb0CKiBNzYQSIRriwyCF47R8f9bZ90q760cVAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103163960,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0xe30d18caf6f73d87569fcef6390fcb959f6cba6c"
+                    },
+                    "text": "Bome：知道流动性的重要性，懂得去有鱼的地方打渔；把握趋势，sol生态对meme的拥抱；把握潜在时机，生态对社区向金狗的渴望；关注创新：打钱；关注格局：全加池子；关注人物：顶级艺术家。\n\n池子大小表明可以重仓，但敢冒风险下注。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb726ed464c93d03e2e041c9f2179483dd2c503cf",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1/Z0UlBe/mUpTliIzr/sg6rxswLpBleoNkOPyutzmAqL/oX4ZAp6U6Vq36hmU+FfC64KcZMNdxFnSh5Z0uxbCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103164083,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0xb726ed464c93d03e2e041c9f2179483dd2c503cf"
+                    },
+                    "text": "ENA：是以上所有要素的结合，但需要加入对旁氏、对组局的理解。其实pendle也很优质，但为什么交易量远弱于ena？一定有原因，原因是什么？叙事不在一个组别，旁氏、组局也不在一个级别。\n\n讲叙事：去中心化稳定币是无敌的叙事。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3fed231186bae24df0448c020b4a7eab433361ef",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "j0YGotETa8hqdI8sA7/nKqoAMChDYPIfBf//u1xS2nZKHRpnWRGtrCy5wUaaYTG/Q1TMzZIKFdBZeoPv+x7CBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103164150,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21477,
+                        "hash": "0x3fed231186bae24df0448c020b4a7eab433361ef"
+                    },
+                    "text": "讲旁氏：我称ena是本轮第一。原因已经万字长文讲过了\n\n讲组局：背后关联了谁的利益？是短期利益还是长远利益，是小利益还是大利益，都决定着推动力大小。",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbf6ea54b01ddc90f671246d2759c612b0a9cf9dc",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "99EbevfTv6OX9kW9ytTHLa/VSjhH5ccWZ+fMkTtEVpskqg7UnRo4j/mxGQmFZUY7BsRcqmtqxrdau3hGyu/8AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103164174,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 9603,
+                        "hash": "0x5e1e815542c2ceba684b86a1ad87f791682dc141"
+                    },
+                    "text": "很棒",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x63601072f991d8085a4bb853e94f2414de07a82d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "aLOqlURKmR/KukjGfFjaYRnM7/eVeCYY4dft4qxJWTchPfkcZRDJ6bYjczU4kHzSN1AX8KDXLej2kZ1C+47RCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103164264,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/dy",
+                    "text": "还没有搞懂这个机会，在公开渠道讲的内容，在cast房间没有，在房间讲的公开渠道没有？好像逻辑不顺？\n\n《怎么样才能抓住ordi、pandora、bome、ena》",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/0TpvWER.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x27d60a14334c18e6fd734f3f33f7d4591f12d357",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NEAO0JvbeqcaBdvCxqTYOqjt5yFWlI1DFpZ3frdrYVzjjajrk4WdTuN1T6xTB3SzWypIIlT0+P1N8EK+VGuDCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21477,
+                "timestamp": 103164350,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 464714,
+                        "hash": "0xe2e198cc0d72de7db653aed07566cdae446ea6c3"
+                    },
+                    "text": "没有关注这个协议",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0975d1933ef5181a89cdc54fdfedceebf2cea9fb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "enE2W8X51w8iIclL9YRVQDkC2E02SlcyZBPwXEtI8JNbiNhwaa6h0EjQjqwSjYN3o+SAdTaD5lD50HANF9JDAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5588a6d98c7badd40ee2763fb9c0a6fa1ba114ba1017d2c54b94ef5a6a77ad46"
+        }
+    ],
+    "nextPageToken": ""
+}

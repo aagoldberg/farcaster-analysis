@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 13397,
+                "timestamp": 75674704,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "kiwi-bot"
+                }
+            },
+            "hash": "0x69ba66f353be9c2393f82a2c2a58005aeba0f3e2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JPIjYG8S/h5jHF4Xhe5fbuQPh3iZrGsVk9VeXPw2rtezZ7pd7QqtXzqtswW5Lm5th5F73NCUipOPscWV6zX1AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xdd9e90e6ac29641d47004cc3642bede3c177c21f57d06a25d7b4b2a7a401f08c"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,74 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16962,
+                "timestamp": 83813221,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        13086
+                    ],
+                    "text": "My first cast 🤘 Shoutout to  for the invite and helping me start my journey on here.",
+                    "mentionsPositions": [
+                        31
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x52c369fca6689d793388cd68c499a1c649256c95",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wdsUt0E6UMaWOnSKSvutckNSn2GaLYOKqm1yiI44ZinCwN8rjVuYRbIbznYRj5iAffj/7uDl2TaICwYIYlGGCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xce2b271dae724077a2117a769c3562e8939150f16fd6b595264eb4c1bbcdf882"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16962,
+                "timestamp": 98158119,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/free",
+                    "text": "Freeeeeeee 🤘",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x77958b329c198e8bd4f02423e7be1cd3276a8b0c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ACuIDDkNzgh1KYKVkE3miqbt8ztvf7pGoOdTsxX3wO7tbKhPcP4jEiUD7sZQE7bDxiSimIVirRO6rb8RHCgpAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xce2b271dae724077a2117a769c3562e8939150f16fd6b595264eb4c1bbcdf882"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16962,
+                "timestamp": 98809648,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13086,
+                        "hash": "0x85cb0240ddb661683a12c27528d6cb00ac0ccec8"
+                    },
+                    "text": "zero-build is the only way to go 👍 I don't have my PS at camp, but next time i'm home and I jump on, I'll hit ya up for some duos.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7dc8d7fd8237aaa9a47ea2238c1890893771bc4a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "znMPsld0g1BjIbpyJcx72rBmDIbnKaioJZGNX5C0iBg53iZctwkQUjR7dLQwMzpsZJeJ4keDqvxGAxnCI3hjBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xce2b271dae724077a2117a769c3562e8939150f16fd6b595264eb4c1bbcdf882"
+        }
+    ],
+    "nextPageToken": ""
+}

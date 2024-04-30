@@ -1,0 +1,46 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 6290,
+                "timestamp": 94082311,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "ygOrJ1U5bCMI3wj7PSZHIUvScsU="
+                }
+            },
+            "hash": "0x644e5dd33c6b032f34c6b7154619f4410b2926ed",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JHq4wg3P1FrtwGKgXk0NjlWnEWvPgm0UCXJRBFEJddu6yxsYVDKsRXFBsXoBgkvvJ06eL2KZZia0+yhau8qGDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa95ae15437ca908b9802a6c0a3395569651f64c189dab93d131921471e932aa3"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6290,
+                "timestamp": 94082386,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x038adac316a87c29c3acc8641e1d8320bb0144c2",
+                    "text": "Merry Christmas 🎄",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/xVWCbbI.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x23c4753f9032762286848a6db898afdce5b5041f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "cRv20nL3VzuipuPwk81hVEARMxdH7WdYwO1t92fdYrKY3dN8xGlHZYj4OmM/sIUohcBdeN5X6bL85th2jFppBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa95ae15437ca908b9802a6c0a3395569651f64c189dab93d131921471e932aa3"
+        }
+    ],
+    "nextPageToken": ""
+}

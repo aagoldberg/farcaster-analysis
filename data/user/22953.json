@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 22953,
+                "timestamp": 87652705,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "bitfish"
+                }
+            },
+            "hash": "0xa6e3eb8df77e9e33e4fa2d708b8794dac0254d81",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NvsH109DrJCKZ73BiDuAiaBj9m9dDCZzxjb3+R7QNA/o+AeEpQomXvztwxKQ9z5tEzCtpz8RrU9L9egiQ9w3DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x484530c5db746b9749f2158ac49f59c48906ed426997590a1ae29d6712688ab9"
+        }
+    ],
+    "nextPageToken": ""
+}

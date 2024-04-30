@@ -1,0 +1,586 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 80306710,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 473,
+                        "hash": "0x08018bc6b2918628419d8017a5f982c3e1c75d97"
+                    },
+                    "text": "👍🏻",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb9e50520ae003068e040089447b30bec0e4ac37d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lV952MRYeGoig9VIA9WAauoF6SOdWto5z0HsBHt9H/5z/rMtzzZbVltDR6QzicOXrnB9JkMvVKjqUgeeN90+BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 94652886,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0xc2a1570703480b72091283decb80292c273db559",
+                    "text": "two years ago, i agreed with Thiel’s “End of the Future” worldview. \n\ni don’t think it’s true anymore. \n\nnow, there are teams shipping tech that has the potential of exponentially increasing human productivity. \n\nthat said, with this coming change, the bell curve will morph into a barbell.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/LwOgTt3.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x87cbf4904983f524e11a7fc05699ebadd21c690b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "dixTgj8tZVieP8c+Ie1dJ5IIRxPUzJsKtAcSAF7gSe74HZCLnZYd62j3W4J3cCxsdTusFKHifHBTjq18FqEECQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 94976668,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        3
+                    ],
+                    "parentUrl": "https://farcaster.group/product",
+                    "text": "How do you engineer/program vibes into a product? \n\nSome ideas:\n- Design \n- UX\n- Curation. Like  did for FC  \n\nI would also consider reframing the question as - How do you scale taste using software?",
+                    "mentionsPositions": [
+                        96
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1d65781f92a73e255e4ccd3e15a5d671640b91df",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wwUP9uw9reORL+vONHfHc5nGR6UsEeqAPwFHXWbBxF23NX0QnjP4Xl6wfQ+dRGatxyXqBV4G3Z7m4NteSMAOAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 94976938,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6199,
+                        "hash": "0x1d65781f92a73e255e4ccd3e15a5d671640b91df"
+                    },
+                    "text": "Maybe you train an AI driven moderation engine (community governed?) on content that matches the vibe you want to maintain. \n\nAll content goes through this filter and only posts that match the vibe get through. The rest of the posts receive feedback from the model on how to improve the content to fit the taste",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3cad05a04a3867461b0c5f3a9c89bb80a1a94069",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "awlYviJQRo1ysUCf+wrSs0r8t5d9vjc/9e7iI9XNe+oRcWwIodSfZA6A7gmhqOIkmiRMvg4b7bFkp0lUZvWEDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 6199,
+                "timestamp": 94983562,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "rmykcGVcv5LUNmrAStVihpPzX6E="
+                }
+            },
+            "hash": "0x725a2da5e591793a74b1c2d55979a9926d2d4678",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "uLB90wLs4alGbGPRPtjhVgEmQuLBZLRi/9dffKsPtbNK4J/BgYuUa2+LmY5r5eU5a5Srz53zr5A4CY4GzwSVDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 6199,
+                "timestamp": 95085622,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "XI/4BeM0526wGNu1SdcvWZrtSRw="
+                }
+            },
+            "hash": "0x74388683e469fddcd39e573607ccea112b504e98",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "9J7S/idZFVGIKx2jQnMDsn/wpw3w+J107/9l7XxzQcM8/sozqoc3mIfp8y+hnnsBf+94stnSpLPYhwSxrcb2Cw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 6199,
+                "timestamp": 95085625,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "Js6yYu6Xf9r9vbe/+nUvNXYmDJw="
+                }
+            },
+            "hash": "0x81f08c54a2387993cf6b48282de5ae3191efaffb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zrB8+DwSr/Ji1GLNRBYdFZDQnTTNyu4cURJ6ehW9CAi1isqyIJBYRktrE8k/jz5CM9PUUomyX5Vqsg74fyftBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 97349405,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        24,
+                        30,
+                        3
+                    ],
+                    "parentUrl": "https://warpcast.com/~/channel/frames",
+                    "text": "bonding curves will form the basis for a lot of token based interactions in consumer crypto\n\ncc   ",
+                    "mentionsPositions": [
+                        96,
+                        97,
+                        98
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd2365208607c40a9da1a92067b78955eb1337877",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hCTy+O1VDNQKPJKgl5f9mldhKSRT1OkbZDWygTTRqSiSL/lSw94xaxdPwXcvtWCdXynCAD6REzFA2ArI5BoTDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 97696038,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "rm",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0404a16e329eb0fc2c3841d0c3c12c34c55e25a2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "E2BpqQG5IJ0m9jwQTlPKsn8E6I1XSqRKTY/Ef7y0DFV8RPQRHoBbbZWJ/zhrj2H0R4DHjvBv9hS2x2kQma5lCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 97764693,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        24,
+                        4576
+                    ],
+                    "text": "rule34 but for degens: \nif you want to speculate on ‘X’, there’s probably a market for X speculation \n\ncould be assets, news events, whatever you can think of \n\nneed a search engine to find you these speculative markets\n\nif a market doesn’t exist, creating one should be as easy as possible \n\n ",
+                    "mentionsPositions": [
+                        301,
+                        302
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2598971569c0f418c7f5ee3778ef364ef3d61c7c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CgDgPf1vzNMg8oXLLqDbzBFgzjTkZGDUvYGUNY+kl/UYYfo1x2Opy/zkg+/TDLf2QW43vu/5DbdsPt4VbATHDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 97771681,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        1460
+                    ],
+                    "parentCastId": {
+                        "fid": 6199,
+                        "hash": "0x2598971569c0f418c7f5ee3778ef364ef3d61c7c"
+                    },
+                    "text": "cc ",
+                    "mentionsPositions": [
+                        3
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xaac05b7306385f0883d0a7dc66ff04b42115186d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CAXr+kEmBYHtnt57/A0AGLHCip7chBe8GicGt9wTegrE4xUTnN45MiUwS5jxpcPLNSLE0eHgHJ/qysjDRTGUCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 98123644,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "https://www.youtube.com/watch?v=Nj3YFprqAr8",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=Nj3YFprqAr8"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x502912bb54db69c4f92d3a7aa66535e64d8f8244",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ZrxFP/htYmv43fqeXlpopnI4ZFwfEcNelwubCrixy6TFBpNXJ2kMDicLFfJ04nCk2QZsnvta9urbS9jDRyvPCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 99079611,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        2,
+                        539
+                    ],
+                    "text": "Frames force you to think in 4's. Four buttons to convey value. \nConstraints spur creativity. \n\n ",
+                    "mentionsPositions": [
+                        96,
+                        97
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf9855ee90d338d09ecb1cb3c579ab0c422b02692",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "M0qNB5NlXOdBT2ilvmAK3BbgHCRPv1H5JhzPDIZ0yFNcJ++xWSsuiJEXbD6sxr4Rhpl7goIGmvLyxgoUcmNaBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 6199,
+                "timestamp": 99080452,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "LQI8cRufZyTAHczRI5e2F4MjIvU="
+                }
+            },
+            "hash": "0x068c9711307b4f268df2f235d8ebe8f8e513e15e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "gY75tuGPcCdLEcffqtod9NkLrSAKrW51pGtYgVsjZbq+4lm14MkpYwlszWAOkAOokjghB39/jpxa89ykVMX8CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 99081250,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6292,
+                        "hash": "0x064caa6fdb804a890577b7f16bcad9642248820e"
+                    },
+                    "text": "the second mint also broke Highlight",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x75eed956508a637e32b76353319554175bcad688",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XSMPSKOhtkyMrSdyyA36VrO76BNgj46rFEHcsoMJUjxKYnDLfnO9FAVN2PEyrrZaDCC96gy0Dg5373oqy3n7Cw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 99168000,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4606,
+                        "hash": "0xd30e407efc72591610f204b8493716e2d847a18e"
+                    },
+                    "text": "curious question: why is it useful? \nis it that metataste expression feels more organic in communication?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x64ffc4010243d3374fcea69d76fdc83b59396f34",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wJQ5kYprmeLWX9vqVqqeNvpcl9mxrq3gwvebsTLBPe41AOLX3Ky/HfpxQDWYdfa9d3NcFvi9lrfrsBBd33DKCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 99168510,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/warcaster",
+                    "text": "https://warcaster.xyz/tanay\njoin if you like winning",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://warcaster.xyz/tanay"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xf62a7601f8bbd5bba0b8c562270881beac41ba47",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ISwde+uCcWkn25+dZ1+hKKDnGSWfXsZ4FFctVIwhUMAX2a3Ak1SMK0BIgJaWrMOZmVqf3N9LMlKQKS0cwOtyCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 100289228,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        30,
+                        1460
+                    ],
+                    "text": "I enjoy studying about market structures! Thinking about markets as a search problem and engines that compute information is exciting. \n\nI have been thinking about curation markets - reputation points for finding high-signal information early and curating it for a topic is pretty interesting.  \n\ncc  ",
+                    "mentionsPositions": [
+                        300,
+                        301
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x03645e9465b87b932c4f764873a4114b1d9bd786",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BZcczm4iUeMZ0T3xCHWb1mLuaIk7eVfi/FsrjuAa4MSIkML2/oY+cZFZSZL1worSraN64s1hgxePkNP6CVs4BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 100289352,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6199,
+                        "hash": "0x03645e9465b87b932c4f764873a4114b1d9bd786"
+                    },
+                    "text": "You can also use Farcaster Frames where people can vote on information they find interesting to curate taste. \n\n\"Put your money where your taste is\"\n\nThis is still a rough idea fyi and I'm sure bonding curves would be fun to explore in this context",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb6cae7187e7bb8bee0ed16776ddea84c122640e2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "twpLmWuEIdWp855/uWwbhFsB25dpcVkQaYgmgVG2R3KqJSIuCIdHRbCwpaD3zDg59RFmAMbLhKoHd80NShx2CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 100411979,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 539,
+                        "hash": "0x370183fbc81d6545ccbff6d9fad5916199ee1b2c"
+                    },
+                    "text": "$perlperroni 🍕- gud meme",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6ea346a5de13723448c891a19808e23ea2a982a1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "YfnUpq5eHKCs0jgimfXNyktl9Vjr7xkTcKFhthTcC2YZKhN0wuHrPtqQ6KQ2/Lt5IxGLfSj3uAUe3ISwFpqSDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 100412034,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 6199,
+                        "hash": "0x6ea346a5de13723448c891a19808e23ea2a982a1"
+                    },
+                    "text": "tanayjain.eth",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc973a215cfeea9d3b39a56cdbe6307d7966bbf25",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "YiSjNk9iUSVbbTbbIFrts2zSlITZ/n78QX0GDI5hgqju3JDdj03wecjqCaj3rtHmqCkWzNY1SlPCHneqhltgAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 100462334,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        253227
+                    ],
+                    "text": "Who is building prediction markets on SUAVE? \n\ncc ",
+                    "mentionsPositions": [
+                        50
+                    ],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 6199,
+                                "hash": "0x03645e9465b87b932c4f764873a4114b1d9bd786"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x8e670168d7fc1a2f050be3e05d92e2ac11e67853",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lxCN1dnyIdbOzq5w3i99kUE8UrzI0Yn48X19t0S1BwjkXzWgecljeIBwiUiVU0ApEA3T9yHhtv08NOA9G59xAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 101481844,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4606,
+                        "hash": "0x19e41caab0931e37e41c56625036eacee25efd39"
+                    },
+                    "text": "Nice! I wonder what constitutes “rich”?\n- Depth and detail\n- Literature \n- Ancientness?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x52927c095c76c6de509a897f8f6cf1176a6e1330",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "6l/5bk3qwvcDu7MNdsfGlW4lOHsEUfCVlkIIOLddBTHYHrv3Cuh/nUb1yrZUNEms5SSWtMNUgZYMQP4xtfxMCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6199,
+                "timestamp": 104920641,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3564,
+                        "hash": "0xd1fb2ecef569a8f05ee1dfe22ae738bd164207dc"
+                    },
+                    "text": "for the record, this is untrue and you pushed me to buy it at the top. \nit'll go to 5 ETH for sure you said....",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5f590f7d5f05359c3f9ad24ce1080c0a1da562a3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rWGEC8s9U7/kmFaHcbjMbW/9UMnFmik/UpvIXkWWzVA/019gypFLwO0qmlA5/XdVbGPv1bf1TXyMkGIiw5Y6Bg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 6199,
+                "timestamp": 104920748,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "6b8Iezi1MWFcUj4lGf4fVeEIY3o="
+                }
+            },
+            "hash": "0x0690a2dfbc7dcc8ac894fc65b031930099d9a8a4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kL81H7C0KTwtZizrXOQQEOcfMipThWPDjHBMq/coLYwNh1a/0rGAxIu6kiMJCv4dGdnNKa4h9M8ImAc43ZQvBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x1c1361c849b446eaa8cb3c21db6d70a0f68b16bcaae8e02dccc2351a28dec671"
+        }
+    ],
+    "nextPageToken": ""
+}

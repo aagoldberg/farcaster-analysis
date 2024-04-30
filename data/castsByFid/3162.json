@@ -1,0 +1,173 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 59279489,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x4300c7664a6c106c5d23ce1fcb194c196550c14b"
+                    },
+                    "text": "mode, popsql, superset are the go-tos but they’re all sql native — for more excel-like functionality, you want tableau (esp for very small group / if sharing screenshots is good enough), or possibly power BI idk",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x00281126d90e89c3098866b1b3b86d214feaec74",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lT2N9nSizicRim2UGIJN714GPhFoAC5M1HD7dKzCinWrDx8TmUDZ75l6xatRKE5/Mc5f0p6kEQYr4Qb0PscgBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 59280059,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3162,
+                        "hash": "0x00281126d90e89c3098866b1b3b86d214feaec74"
+                    },
+                    "text": "the tricky thing about tableau is it doesn’t have a _great_ query interface — so workflow winds up being: a) use a sql tool to get the query and results you want, then b) paste the query into tableau to visualize it / process it further and c) go back to sql tool to update the query as needed",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x61d6a8efd707397d5d6f007eedb5012b0908600d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "PWECJObIj08IIzI+p/0lQFuXl3h4uTOYZistl8iyIObT6KxX4UL//62rhP4HDkoGVK3wzcZXatIhBicB0J8JDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 59280180,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3162,
+                        "hash": "0x61d6a8efd707397d5d6f007eedb5012b0908600d"
+                    },
+                    "text": "so: more frictional, esp. as you’re changing your query / iterating, but of course as a visualization tool tableau is excellent so the results can be worth it",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf8727ae2dec4a29ae31de4be5ffbca7ed1a9d4f0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "xmlb1mU5ihhDceTLQFh7CGpiyEBs5h2gAoIse2G7trPfaQHCyPzB70mLoSpGLh3KhMJ1FWom5EOOaylkfLLUCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 61937064,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 124,
+                        "hash": "0x925b6c7a93f0978f0b39861e6df400c2fef2867a"
+                    },
+                    "text": "yeah…",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbc9adec026ad9eb5f4470c72402e05d547f624d0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "FZMOrp4ey1mBHYVXtIZjtkjuuHdn4Xnsx4m4H6DpRIcXa23VwhGOfma7+SGokU2Y8rzO4qnL1n6mAmkEWKZJCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 61938843,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 239,
+                        "hash": "0xb003ba83787d765d50d7b15f179e33817c61047b"
+                    },
+                    "text": "stripping the finish off a starter guitar, spray painting it gold, and putting it back together for my daughter for xmas 🎄",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1b23506b6ff7406177bf4c357157c59609ddd1da",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5BzKByxyY2FzUFkO59RwjDedfCG4viEJOF3w2l13HXHO2onxIUss5COLoZYDec4czejlAA3SoizyfA6uozUTDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 61938859,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7005,
+                        "hash": "0xc27954562005d483e87610879ba1d3675725119f"
+                    },
+                    "text": "these are shockingly good",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x46d3899c2e4c615e66b149c469fa46e2412d01cc",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kfAwe1KmeVg3epyavRIOehsTc2abaa7Zlqfljkts2FJ0JUK2yadPvSrNtQRyfkeZnPFzOLwtm41IScUL1omgBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3162,
+                "timestamp": 69900702,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x051b872f2ad5510f8f084e76e107f3a68dbf7101"
+                    },
+                    "text": "yesss",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x63284857c01979f8138eee9399c0e775fd45e53f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "lH/ZOHcsIt9AHOJv64EgGrykBG8+3FTagTSXr2x6bOdVwELHqNy6vv54S9UQJt3TFloa6dW46P4MHDw3gOseDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x8ba0970456994e324b1ff5b946bdaac0791dde003c7f364c76b74c4f2fc45ad4"
+        }
+    ],
+    "nextPageToken": ""
+}

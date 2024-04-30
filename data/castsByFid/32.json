@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 32,
+                "timestamp": 87081162,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1970,
+                        "hash": "0xbee6d0d632b4b13b8cec4bf38e0264e5346c8dbc"
+                    },
+                    "text": "Any kind of inflexible rule. Programming is full of edge cases and exceptions. Sticking to a generalized rule because of “principles” instead of being pragmatic causes a lot of the major issues I’ve seen. \n\nThe above statement is no exception. Sometimes having an inflexible rule or two is worth the trade off =P",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf62597ab026b2cff2196afbed58da86d27a43d58",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "xdiCaeVHjrIA8r/EO287xlLmGEslz+gCuN9DBcDXE193YrYMudrmctMJ+XGm2oINYZJ+hnIrEAvalhdXOtemBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3f8fd2df58c7ddd6c618f7f19db9ba7f18ea8f0d1f3be3062f616d2f1ef49d0e"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,77 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 91,
+                "timestamp": 89997665,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "this may be controversial here. a Solana channel for who is interested to learn more about Solana?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4bd650feaba877483933c1870fa6f6250650d380",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "8b6mDkQxF1i+R4fhTU3e/k+c3kcizt41JpR/Y3Vr9uUhYUBXEMFP1ikdYvEqAuCjSuOf962f+j4Fnp8St3aCDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x079244048fd3f2ae533f95a3955037a8b5fbb06d61e540c954f0a20ba023118a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 91,
+                "timestamp": 97077813,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 197340,
+                        "hash": "0x59ef54feeb05758aff00f3ff4a44e620fbe79120"
+                    },
+                    "text": "thanks for the support!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x61edb57d4fcc8155c5fa62f2139431ad744dd70f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "J4KhklNLNtVuBqKamn2JGcCvaFmXTMWDnfz6e0lJhokoQ3W2g6YlY1CorCYXCbtoDWd/SMzKrWKkZGCyOU78BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x079244048fd3f2ae533f95a3955037a8b5fbb06d61e540c954f0a20ba023118a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 91,
+                "timestamp": 98554986,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/red-bull",
+                    "text": "i was camp sugar-free until i tried the zero-sugar Red Bull.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 7074,
+                                "hash": "0x20eacaf50cdac892a63be518946bba2a934b8462"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x71c82ea22ac065fd7bb37dd8fe2fde23c7cc880d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7VYfJEulIZ++tCJIWS/NvEW8P6cQ67+5/agJ2RwQy9bpEXBCW1p3KVHB6sg2kRCUIuFky6tuB5dzceQnQqSBCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x079244048fd3f2ae533f95a3955037a8b5fbb06d61e540c954f0a20ba023118a"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 4658,
+                "timestamp": 57884524,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 124,
+                        "hash": "0x9ea340447e2ef090e412a54a8c7d9b600e2c3156"
+                    },
+                    "text": "I’ve started to just ask questions to GPT-3 for most Google queries. Seems to get me what I want with less sifting through sites.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3df3284b4c76ce3edf81ace9b06fd8dfb00accb5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CN4I1L0hSbpDO/ivwQhrzJbT7SBszmlRgOhB2kfcObT8sSe4dOENvGJ74GWv9COJOTF4HeGUWvNIElfxDXLlDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x9afc357998b4466bb8c0ba40900b4030da4857a499b2c941ef78d0f8d11507e1"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11919,
+                "timestamp": 71767986,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "magnus"
+                }
+            },
+            "hash": "0x02367f8ba93823f7f00fce0a76fea3601535c444",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "G55AH7lbEVHF81UL2h+pviJAVEMinAVKxEqxV6OX1srrE7S0Vu2mulWf6kWgoXWcPq0dOskA71YLLQUrLO6ABg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x00f3b04c1958292e12a225d5dde79ea66b507e9d63621861c642390ee5665a51"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11919,
+                "timestamp": 71768180,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_DISPLAY",
+                    "value": "Magnus"
+                }
+            },
+            "hash": "0x94369bc621b4f6ebd0e464416dd31165c9e97a47",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "6I2aBg1//J8hOcTsI8RWjGuTtyiMM270k7fHf0rF5kTKcecqrumXpL3qTyEdBNdSVS+/dmiRJcuKUQJ6zgHnDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x00f3b04c1958292e12a225d5dde79ea66b507e9d63621861c642390ee5665a51"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11919,
+                "timestamp": 71768280,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_PFP",
+                    "value": "https://i.imgur.com/aIxWiMj.jpg"
+                }
+            },
+            "hash": "0x77fc148f2fbb276d03a1067ec5be06b8396cfb21",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "g82CDG0DMugDUm2c1l70DUrpngzW/VFXfRI+FIEyCtUCORex9Gx2VmG5GB5shJH8wOSZF7SQjkCA9KfTYNVJAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x00f3b04c1958292e12a225d5dde79ea66b507e9d63621861c642390ee5665a51"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11919,
+                "timestamp": 93161256,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_BIO",
+                    "value": "Co-Founder of Protecc Labs and Protectorate Protocol | \nFounding Member Redacted Cartel"
+                }
+            },
+            "hash": "0xe24155ba6062d9994a47c7a109fb0bf26111f673",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zBMTR7+FWHfBYrL0NR6sPRtFywOy1uFEJSSMrao60zbbfWNTEiOcD/lsNxAusUAivGeIiRUAYy6b2vlArRanBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x00f3b04c1958292e12a225d5dde79ea66b507e9d63621861c642390ee5665a51"
+        }
+    ],
+    "nextPageToken": ""
+}

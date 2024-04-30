@@ -1,0 +1,45 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 10742,
+                "timestamp": 69673322,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "tCx+Rdph8fT60xbTId+IiatIBzg="
+                }
+            },
+            "hash": "0x431ffdf0b9c9a72871dfdfbba402786becebb3e0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "2YUiCSPfE5s9OkHwsgZt2b85eQVLJbK8QoXMuU7SYUO8WHCkprFfD8I4plL7I4+OXGj9OrUyPZQi4Kz67J+9BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x16fafbd104f1269c2f41993763028aae1403f7ec86f816331bc29486f4c03d1e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10742,
+                "timestamp": 69797573,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 472,
+                        "hash": "0xc464e363c2389c67c16ab37a9a2a4a5b22b3ee3e"
+                    },
+                    "text": "The signal messaging app has a feature that you can send notes to self, I find it's a great tool",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5b5cdc5b33cda81adc82387d3b9f2db9783626b7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BJ7rRKoZVz4mYFZzyhzfonIkJA3LF8Sw4whjikGYFOj+WIWcVaPsar3g36mYLTY6hbHJFH2Lk3g3UQoHWXfbBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x16fafbd104f1269c2f41993763028aae1403f7ec86f816331bc29486f4c03d1e"
+        }
+    ],
+    "nextPageToken": ""
+}

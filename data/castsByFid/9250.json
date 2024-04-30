@@ -1,0 +1,75 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9250,
+                "timestamp": 67231857,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Hi",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x72a8c5d9fe4a3748e009933c0a87c5b244a250fa",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "086fL6o44KmNAFCRo9Ezp3OQpRPIXnUZQ8bCWpfVCPzPHzkYleaYDpnh1vn35BWbkPZMJp45YFd5+u5O5hKUDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3707ecc0186ec063aa7389ec60929efdd5fb4302b56f0fbb4a52bac5ebbf87a9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9250,
+                "timestamp": 70998827,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://i.imgur.com/WflDYnL.jpg"
+                    ],
+                    "mentions": [],
+                    "text": "Sorare.com overtook DraftKings in # of visits in November (source: semrush). \n\nWill occasionally share some post some other amazing stats about NFT gaming growth that our team uses internally https://i.imgur.com/WflDYnL.jpg",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1a74cfc72c894202679bf496377d51a4c1a8ed8c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "48p/8SfNO7xBEVy4wF8/n4SYb1b8itiJ3xnCmcV8sMp/CVRPkzC8YAzoBZQ0imtKi13Ki7UP6XqBdFZla0AsAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3707ecc0186ec063aa7389ec60929efdd5fb4302b56f0fbb4a52bac5ebbf87a9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9250,
+                "timestamp": 93969567,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0xa390bc5b492f4d378ca2ef513a45a89d54538f02",
+                    "text": "We recently released our report of the state of crypto gaming in 2023.\n\nTLDR: it’s bigger than most think, with 60+ million monthly visits. \n\nhttps://www.lootrush.com/crypto-gaming-market-2023\n\nSome infographics here: https://x.com/lootrushgames/status/1735401601135964164?s=46&t=iR8qnhusETfpjjJPXkKAgg",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://www.lootrush.com/crypto-gaming-market-2023"
+                        },
+                        {
+                            "url": "https://x.com/lootrushgames/status/1735401601135964164?s=46&t=iR8qnhusETfpjjJPXkKAgg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x00300bb9907210db8dac3dbb76e5db491cd04c0c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "WEHHSizfBU4EYImAGgHm7EOlj9RCwxJnspBQoYJcdOmr5YPHzLtlkSXeWtdlvmzVTsW8H9lnw/XhJKw1RMt3CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3707ecc0186ec063aa7389ec60929efdd5fb4302b56f0fbb4a52bac5ebbf87a9"
+        }
+    ],
+    "nextPageToken": ""
+}

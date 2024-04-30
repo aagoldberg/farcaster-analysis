@@ -1,0 +1,77 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16882,
+                "timestamp": 80981119,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "All i want for Christmas is ethereum",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/JU2OroX.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x4f2585ae29b7049cf9cf53e393c902aaa15153e5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3YLbXnf+MaWO/PQXlyZ36YIOEdDTuju1joyKB1PzMP2Mgvk+nWLyN42mBkqpzXInxYKEu3iuuOQOc6ixEHDvAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5b51096a1def49dd8cfa635f85f24bd49b95fa5bf62560918cacfba73762aa63"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16882,
+                "timestamp": 82621366,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "10 Super-Weird NFTs You Have to See to Believe\nhttps://financebuzz.com/weird-nfts",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://financebuzz.com/weird-nfts"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x19dd3f343f63aba475492ea2d9267c017858f6aa",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "aXSJvhQufjQJk26255Yi+eDx+TY0lrKPPbWeWGKMt1rKImgcVGwA76N3Pc5Yx5eaUQbTucQTJgliWIYVs4Q1Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5b51096a1def49dd8cfa635f85f24bd49b95fa5bf62560918cacfba73762aa63"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16882,
+                "timestamp": 82621489,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 124,
+                        "hash": "0x4d5e914eb45b0437088d9083b2c158037e602355"
+                    },
+                    "text": "Zuck of course",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfd349b6cd61dd89d99f4122bf813c80bb9bea7f7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "SGOvz2YNI/WEzOT8r0Ewc1mKCyPCSwgPXfNuBwOtD9dVv7Mj+z36qVAT1gtg0zrX1bbYWzKhD0qrLzRwrc5EDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x5b51096a1def49dd8cfa635f85f24bd49b95fa5bf62560918cacfba73762aa63"
+        }
+    ],
+    "nextPageToken": ""
+}

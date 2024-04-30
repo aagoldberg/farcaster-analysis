@@ -1,0 +1,25 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 18429,
+                "timestamp": 87793796,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "First tweet.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa44acd48941d5f999373252b9f9dfc8a92aff680",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3At3NguCjIh3hfZ6V8bfbMu4xu3k9PbtNaRgXN85auG1KrUCXpVmWOdgibVAPsGJwcztrAURCb/Df1CYrtlIDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xef91034474b25b944398a50ccfdbd8d0ae45013b9b59f98ebeeb88600d53a8de"
+        }
+    ],
+    "nextPageToken": ""
+}

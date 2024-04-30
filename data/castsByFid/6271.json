@@ -1,0 +1,46 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6271,
+                "timestamp": 98303071,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "bm",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbcc02afa5e9d12bb0f3ffdbdc39101b55e8c9268",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BJZyqHtn14BUSsC6Zpf9r5YWFOGurLUojPa0NVaUvEPmQX3D2vhvYRBFW1RQ7uGidW78dkG3PtIqSQSnhkfSCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd7b8f5b316299975d303956bd6bf73a723190869449f5cd75a6a39d06a99c2c0"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 6271,
+                "timestamp": 98356029,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/badkids",
+                    "text": "bm everyone, bm ☕️",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0df79fa3504989bd762987e121caf4aa780e8c39",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Ra4rTc47QQkUvg6LEJ3UQAp5Oq3+l15kXo+r32L1KkN/K1cbj/Whdke1eTyNrRC+XZ6rmWl8QZv3iRzNe7G/Dw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xd7b8f5b316299975d303956bd6bf73a723190869449f5cd75a6a39d06a99c2c0"
+        }
+    ],
+    "nextPageToken": ""
+}

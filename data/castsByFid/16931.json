@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16931,
+                "timestamp": 81086515,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8815,
+                        "hash": "0x1cbeb46738acc31d001390cac12b2a13afa0da39"
+                    },
+                    "text": "You might find the book \"The Better Brain\" to be interesting. I am on the first chapter now and it seems promising.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xcbaf1e8fd82ab9d0c2676076f3e4a3498c02c991",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GLqMMuQ63wfeyj0AdsVLGORtR/5S++2uUw0ys938ROW14RHw8MRYcslvN2fWqoEAQxWMJjxzSX8587w6PP7lAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x194c97550377545bbb2ebb9489e1a749172b68954d7db1d24d6ea9677b56b672"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,93 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10792,
+                "timestamp": 99068111,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8674,
+                        "hash": "0x3c4d38d5c7bd018873b8973a13bf6b9bae300510"
+                    },
+                    "text": "Definitely. Too many airdrops to farm and updates to keep track.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb1fd8faf8680cb6462c0895ef8fee2640e4b9b2f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "YIHYvJBwThIlwPwgvYJSBppN6dDWakKIoPA8rViOd4p3lUHsnIQTyYQ0hNrphIpinW6Gn7LyugKdT9rgOh9RDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x227ee3b4ea066684ef818101bfd72b0c84b360a807307f628e4543d519c9bac9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10792,
+                "timestamp": 99068343,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        8674
+                    ],
+                    "parentCastId": {
+                        "fid": 10792,
+                        "hash": "0x3d06f96cf22115f9f96ffd1b90dc56e24f66587c"
+                    },
+                    "text": " Do you have any passive plays?",
+                    "mentionsPositions": [
+                        0
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7043bb09b4e631f6514eda24aeace98d9a39e8fa",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JUGn3m53lJI5fGfe4Ibm0UEo5AbY3rN/V/Y2WE9TNBi2bjK54SAYGmzoN5FdbCykfA/r35XN7eu911ypz4T5Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x227ee3b4ea066684ef818101bfd72b0c84b360a807307f628e4543d519c9bac9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 10792,
+                "timestamp": 99069506,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "PQb5bPIhFfn5b/0bkNxW4k9mWHw="
+                }
+            },
+            "hash": "0x17a897331d934637981d3029e10752676a45ecc8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "0RZ/9lvhjQ+F8hJExd91kn3FGRCJ1dKHHUJS3mkKw88dQVUGlE2rwLb6eD+wHkdxLWT/T5Qu5Ht20EkZ4wmhAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x227ee3b4ea066684ef818101bfd72b0c84b360a807307f628e4543d519c9bac9"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10792,
+                "timestamp": 99069527,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Investment strategies \n\n1. Holding alts (higher gain potential)\n2. Holding blue chips (lower risk)\n3. Legit passive projects (assumed returns monthly)\n\nHow do you keep your portfolios balanced?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x228db93e156a90e4e534ad34fded7106790e4948",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "DRr0UE4NP98e1cSdh0jCNvi6P0kTGI4y9UP3zXmRsiwT2lm8787OV8+n4I+I+6k99oket1UMLnVTtZQxgnfDCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x227ee3b4ea066684ef818101bfd72b0c84b360a807307f628e4543d519c9bac9"
+        }
+    ],
+    "nextPageToken": ""
+}

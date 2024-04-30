@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 22973,
+                "timestamp": 87663897,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "ardor"
+                }
+            },
+            "hash": "0xa30317630ecf1ba9c95db8ebfda2990c698dce03",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "M49nJ6X5DqxtruZSb31aQnBXwNCyD921V39Czwi/v5rh11zZZR5zQC0g9ygYj8AFVmO0jkCUZ4WrAfZg3ibCAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x04287657fc4c87517794c16441cc1f307ffe084b2e8d3414a49e77e52d082e88"
+        }
+    ],
+    "nextPageToken": ""
+}

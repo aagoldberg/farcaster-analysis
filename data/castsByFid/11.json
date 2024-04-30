@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 11,
+                "timestamp": 53555046,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x1d61e91bf084700c050cc268d20cc1f097d9ca37"
+                    },
+                    "text": "Italy, summer in the north, winter in the south. Get the food and beauty but also year round good weather.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x02782a5fc9768aa281fbd9be5ed9ce55e06e8ba3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ByhycjpPOpl/MLUCpIMI99FCcqs0Te5FvY4Z79Y46iBBISFZPvvq0STzJj8aEuSvG9RmUuWu4KQmJ3nu0l4eDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbbfe1997770f995f2e5f53df5f0b7f0d9f54a69c364d28453f72e53f73d1128f"
+        }
+    ],
+    "nextPageToken": ""
+}

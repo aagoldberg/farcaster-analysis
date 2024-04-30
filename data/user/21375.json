@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 21375,
+                "timestamp": 87602272,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "btcboy"
+                }
+            },
+            "hash": "0x796e2221017fad9b95244349ed55e096097cea68",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "bOBlz/SfriLbif0O+v1GqKYO0obCPv/AjcrDcBvZ6lSE2Wzl+w1VK0hJhLZH9bC4p7Cm9Asr/fMJu5qRpz+vDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xec128764f812a4212fc8b44353009210d1b255997f03f21e980d0014ab3242a1"
+        }
+    ],
+    "nextPageToken": ""
+}

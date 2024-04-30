@@ -1,0 +1,53 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13813,
+                "timestamp": 77186712,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 12741,
+                        "hash": "0xd34404ff2c7eee49e256f01bfbc87110b65f01b0"
+                    },
+                    "text": "Was it free? I got charged a fee for the transaction…",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8f2d3edee049138e59dd743729cee8b71e81384e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "d0hq2s2V5cQ5fJcim/WOCFzDfYogmAuMmg+B8iWqdT1+pM7SoP7MQZjCi12hZbEnFAR5RcG7/1s6iZ6+YP2qBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa6b2a72c1144a329ec6407cbc886b842752d0e75a78250443f56699d633df2ef"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13813,
+                "timestamp": 77263387,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 12741,
+                        "hash": "0x04c09394ea921f57fda308cb7485cfbdaa138b03"
+                    },
+                    "text": "Yes that’s what I meant. I now know that gas are applied for transactions but did not expected it then….",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x173fe5145813ee6f1aee96718f0860a94b873e07",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iVkZyBPiHhkBJSFh5jX1EY4dsHVWt8w/LuDwTnhICSTJVqEJZIV/xive4/YL4fhK36Cu+d7Jexhek8pH0LqICw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa6b2a72c1144a329ec6407cbc886b842752d0e75a78250443f56699d633df2ef"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 14873,
+                "timestamp": 78853336,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "bitnews"
+                }
+            },
+            "hash": "0xec3506be0d08d0bafdff07c2d3bf7432b21fe9d4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "2viBcxzJgSTUxlbjJHfH7eNMDmBVW4cURMTJ9RXO7m2YlygbKUX4YcScOUmZveMxcLnDZDFj5vLkjJx+2ljTCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x763e52c1951635c0db7bfeb64d25d8bdff8cfa0a3b7a6d02d31f2a4c937b8f20"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,56 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11939,
+                "timestamp": 71802321,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "curvecap"
+                }
+            },
+            "hash": "0xb420f2a6b00d72c48efba6e7f54d0253df779d9d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "L8BBK5joqfySpQ7FhkiE4DRXBfCiaySH0wp/PykSRwK4GhnA1chPCAItZ9JaYZyNkz7TunfuYegyJGHKbkXUDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa18893cb7b95b0e4aaa6d486c6f0370cdf356dbc717a7b882cac3c3aa97bf791"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11939,
+                "timestamp": 71802690,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_DISPLAY",
+                    "value": "Curve Cap"
+                }
+            },
+            "hash": "0x8067195530ca8bac34965364d161a209e62bd896",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/ebAxPPGg4wcVoD/dyiovQ+OTqO2cmR8eZa4Ep8ap0RGcIQuL6d/4LRzR/4yhOTba6sIVK/1MF4rmkJLN51KBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa18893cb7b95b0e4aaa6d486c6f0370cdf356dbc717a7b882cac3c3aa97bf791"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11939,
+                "timestamp": 71802690,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_BIO",
+                    "value": "https://curve.substack.com/"
+                }
+            },
+            "hash": "0xd492c2f419cb69a59abb38be3c06972eb3253221",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "q2sIDEevOjeLSo+nUCg7kLhJaT2Wu4PXQZJMfrK8wdNqG4Y4oE7r37/X6hJRVQjjnX3enK0XN243lN74T0KWDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa18893cb7b95b0e4aaa6d486c6f0370cdf356dbc717a7b882cac3c3aa97bf791"
+        }
+    ],
+    "nextPageToken": ""
+}

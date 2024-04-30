@@ -1,0 +1,74 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9289,
+                "timestamp": 93990026,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2107,
+                        "hash": "0x8cdb54a282c4dd4868dcb12f9f3aedf7048abd52"
+                    },
+                    "text": "gm",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0b93eb98df10203893ba8c3af628e418ba1ed62e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GK+l1nRPLtjpa+VuTeWWcx+HB0PA4J/gyu50DkM/la9UdCSELgYnNwrl/mSPxtdBysWQhHb+dwgOHnt40n41Bg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xecf9bb67438529fd6d89cd87d6f7c0de00cf60c8cac5074060886639d7183fb0"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9289,
+                "timestamp": 99798001,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x5747eef366fd36684e8893bf4fe628efc2ac2d10",
+                    "text": "snapshots of the internet before LLMs are actually quite valuable. the original, untainted dataset of humankind\n\ndata poisoning, website gating, and misguided copyright enforcement will require whole new considerations for training on future internet-scale scrapes",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa86623871b142383afabdbf7d5123e49b32625c0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "skw7OXwxue27aoX1Lws1c2D2iRjiL0AYHQz/Af5sTN+K1Z/Wd16tQrL6cajuaLm4WV5CUrhFv1d06qM3xpe8DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xecf9bb67438529fd6d89cd87d6f7c0de00cf60c8cac5074060886639d7183fb0"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 9289,
+                "timestamp": 102565230,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4036,
+                        "hash": "0x883136f07819a7299de4f048e940bc2dcda3bfb7"
+                    },
+                    "text": "oh hello",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa49a8f932976cc3d493e000bad70f0853b679ce4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Otqu6rX6B9EzSKw2jyIhHon/X7IV+4Cu/WnyqlV1ujbELoOsKv+Gq1L5gxmVMj6/SpAEZ2kLofZjdzXCNAlxAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xecf9bb67438529fd6d89cd87d6f7c0de00cf60c8cac5074060886639d7183fb0"
+        }
+    ],
+    "nextPageToken": ""
+}

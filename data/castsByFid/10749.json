@@ -1,0 +1,53 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10749,
+                "timestamp": 70874236,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4373,
+                        "hash": "0xa18bf8210659e95d27de3081f204b38fd0b6d901"
+                    },
+                    "text": "Yes and No, why would you sell in a bear market not even for ETH",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4ea17c14774e4ecce52565c5b4db9ca870af6629",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CL8pqzbUxKW3ZJeRKVKW60rEUPLOHpRBnVoRjnbf3QnPj62iqP0OYT1nGpZPW1WhywN9SJXWYkZtTY4dR7O2BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x953935f4ad3e2903a3767797c1804849ceae70a2629639220f78ecfc6e24dcea"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10749,
+                "timestamp": 72339584,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xf88e1981872f30278c836fff37de11d132b8e2da"
+                    },
+                    "text": "I use an ad blocker which runs as a local vpn on my mobile, 1Blocker",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xdd68ae37fa5c83d477069fe3ada6bfab5b414650",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fLK+35f2fdPm6eJ7AkI+ygGpt+VL56BUSsIcgH3MadnZgy544tvJ/AONuFd+vouyE7bnvbFjli2XdCGPK0iyDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x953935f4ad3e2903a3767797c1804849ceae70a2629639220f78ecfc6e24dcea"
+        }
+    ],
+    "nextPageToken": ""
+}

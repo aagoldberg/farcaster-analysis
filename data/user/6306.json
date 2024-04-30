@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 6306,
+                "timestamp": 69404206,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_PFP",
+                    "value": "https://i.imgur.com/06Ibd3F.jpg"
+                }
+            },
+            "hash": "0x30c0dd89fdc11258f6ebac15afc59a077b497057",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7BHY7fr8eW0z6h8fdgAtA+vB+DV3OseAwXhnx+BbgR5lrhhXpTFduQU18qib5UKINapw4B23Rzira6RE1OWZBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x71cb3c0bda651e260e8b4a7b5932a23c4df087c4ec4f2d2f7cc088528b1498e6"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 6306,
+                "timestamp": 69404206,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_BIO",
+                    "value": "I’m an artist, music producer and the Co-founder of Swaraj"
+                }
+            },
+            "hash": "0x38c0587a89e5fdafd7ba4e1c5f3238ffb69ea1d7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1SdbA9wHs1wPNJf+4zgbyaeYoXezfC3TJO/qwlC5NvPAJPIOI1lU3QY2s/ZPXS+TJG68ZHsb/GbCvoARzTVsDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x71cb3c0bda651e260e8b4a7b5932a23c4df087c4ec4f2d2f7cc088528b1498e6"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 6306,
+                "timestamp": 69404206,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_DISPLAY",
+                    "value": "Rishi Bradoo"
+                }
+            },
+            "hash": "0x6ea789cc1ed28a882a4674a77178a92fe520d6d1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/tSdOzwCIcQXhvzOpN9PofhR8lxDnBKwY703GFKX03WDXovfKNAKkx3GsoVt+c+c4qzIqtvQWx0ldmkbpVcVBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x71cb3c0bda651e260e8b4a7b5932a23c4df087c4ec4f2d2f7cc088528b1498e6"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 6306,
+                "timestamp": 69404206,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "rishibradoo"
+                }
+            },
+            "hash": "0xa19ab22558f96712590c961cac60701d904b2016",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "PYJqhyPss0OzRJnGnIYst1LUaEQ6zMndHRxTfJCD1gcPvY5eNjp4r85zqEwV0+H5aM+AvUiPjATY+84czjyvBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x71cb3c0bda651e260e8b4a7b5932a23c4df087c4ec4f2d2f7cc088528b1498e6"
+        }
+    ],
+    "nextPageToken": ""
+}

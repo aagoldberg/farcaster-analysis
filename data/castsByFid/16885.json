@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16885,
+                "timestamp": 102551255,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Overheard in Switzerland; “My son tells me now’s the perfect time to get into Bitcoin. What is Bitcoin” 😂",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x554c9f09bb01a174f3518dcd3a7f1f5edcdda303",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "KCZ5YLkyqrSC/0R6Ln1Ebt2Y72zQauUGI4t539+9mUKS/UQQ5h8gHmcKoNeKXZUwIMJ+bTDHKt48rKExvNxyCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3d8f0aac926f018ca8425bedb5b74a1bcfdc4116d0170a12194e876bcd423794"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16885,
+                "timestamp": 102551392,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 239,
+                        "hash": "0xd4186a48d389c0f823b951004affca08061bee7a"
+                    },
+                    "text": "Customs officers",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x910d6e3698401ef619ced62d881d04f118093ee0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "TXIB7/BkPtCqvkXKGqsyBHyFEq4ajRMpzuyRRYeH8ACgGiAmxaSyXDDnZiq6ESEdDbIC40ol5H08zeTQBPeUCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3d8f0aac926f018ca8425bedb5b74a1bcfdc4116d0170a12194e876bcd423794"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 16885,
+                "timestamp": 102551462,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 265108,
+                        "hash": "0x10c5ccaa017e915b4a6b370b1282cffca805e26f"
+                    },
+                    "text": "Prince st pizza - clear winner here",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd941cb99dd77c76296c37f0ef065c1f75d70fff0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IclebFBewFbnmxYYrd4yxBy7Z7/N7Lej64H3z1m3MWOI1cvT5/7OQgssxM3iLnzB0FFAU0CDDYRcJwzFUCwRAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x3d8f0aac926f018ca8425bedb5b74a1bcfdc4116d0170a12194e876bcd423794"
+        }
+    ],
+    "nextPageToken": ""
+}

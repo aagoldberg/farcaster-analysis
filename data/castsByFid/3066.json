@@ -1,0 +1,2104 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 55906843,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2229,
+                        "hash": "0x5a94e5e5eb61824ad993d979ef48b96ea6127abd"
+                    },
+                    "text": "ZMA supplementation is my silver bullet. Consistently effective for both falling and staying asleep.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2d08b2af631a7b145f1388cda164a98b252d492c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kKzvrwDxlRYVzLadXqY5H/tLhzJFIJgVgQEerFMm0LGpdI6nDWwcbaqdQwql71n9g0J01vjXuy3E05fqWkwJCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 55907343,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://nakamoto.com/credible-neutrality/"
+                    ],
+                    "mentions": [],
+                    "text": "Weekend reading: a classic on the importance of credible neutrality. Super excited that Farcaster is bringing this concept to life.\n\nhttps://nakamoto.com/credible-neutrality/",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe79ae1f0b1a2a99403ebb204d4bb6f895d06aff4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "uwjbeA894ApGWqtXpo4CPQGZG9UiM5d6gS03XvFL4Y5UZhB/vu5OKECvxtbYENZxsTMYHI+mQemBcQ7YJDASCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 55966195,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0xd84b12042a8e74a09ea3d8b1319479b4dccfd281"
+                    },
+                    "text": "Super cool, are there real-world examples of this?\n\nRelevant to on-chain payments for services where customer's willingness to pay varies by token.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xcf723a6a2e23b11c195bb3df10a0a1d64414b05f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "L5+v55vIHHBAZLd2T0neg1wZJ+ktk98zh+SuHN/xieDg8smO6VCrFZYbOgrOeX9Iq1k2VeG3vTgQPNbnz8nXDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 55966310,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0xcf723a6a2e23b11c195bb3df10a0a1d64414b05f"
+                    },
+                    "text": "Example: DAOs need to pay for services but hold many tokens in their treasury. They may be more or less willing to pay with a given token depending on what else they use that token for (e.g. governance) and how much of it they hold.\n\nConversely, most Web2 co's only hold USD.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x74866c9702d10448f38d0df10630a0cbe1fbf7d2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "V0byc3/LKrKMk4sNunmsZZvgvucZD40nMp19aXKB6WoKFBoqgbTdJEEcStPjcniZWhrU0JC0lSC0ojpgEVCCCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56000994,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://llama.xyz/reports/aave/august-2022-financials.pdf"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0xa27ca7435f7024c3420d814b84a455a6088da120"
+                    },
+                    "text": "The DAOs I'm familiar with typically get a % share of protocol revenues, for example in the case of Aave. You can see the tokens in their treasury in this financial report:\n\nhttps://llama.xyz/reports/aave/august-2022-financials.pdf",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe047dbcb7317318180a38a865aef2075e4704e2c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IRH/7qYdL4lTz0wwJkzasLk2fdEGx46h3tyD8lbFeu0JntYLvci/Sfs1OIUn467bkXYRapv3J9vO0j9kd4I8CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56001113,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0xe047dbcb7317318180a38a865aef2075e4704e2c"
+                    },
+                    "text": "What I'm more focused on are how DAOs pay other service providers. In the case of Aave this is the \"third party expenses\" line item on page 12 of the report I shared. Unfortunately there isn't much detail given on the tokens used to make these payments.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x73e0cf3cc13c03ee9e6f340bd70f1be6a6bc41b8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3kXzXhWq9CW7HD++k3ZE9445IKf/+llMKQHdkvKn9VaU3M5L9DCwSMIjRHxA3cwl67ogq9ASwJ00YwETg4zzDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56048887,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0x3812de7e4789a1325de86fc02264a017ac5b463a"
+                    },
+                    "text": "That would be one potential implementation, yes. Inter-asset FX and liquidity risk would need to be addressed, however. The recipient would desire certainty & stability in the reference value of the index payment.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8d924e3d7f9bbf93378f6f37f79bc48236344928",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "X81IfTTWdLLbAno+RJ16bxMwYThXKtesyY8LPLHiDbiZiZTRrY8iINoO9iEUxmL0y/ZZGv8+oijz4RJTGOMcAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56048900,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x8d924e3d7f9bbf93378f6f37f79bc48236344928"
+                    },
+                    "text": "To that end, a few ideas on mechanisms for this to work at scale, using a $1.00 USD payment as an example:",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x241524b4bb90764aef8354548123522f0ddd4cd0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GG9pwLC1mnMe4CGdI6ypp9O6Zd3R8p8i3Dn2M2jRWG4oBMa/gV3dnGObqKc7C8oYJ0BD6Cr+oKRUSqTwb2fTAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56049182,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x241524b4bb90764aef8354548123522f0ddd4cd0"
+                    },
+                    "text": "1. Over-collateralization: payer pays $1.05 to compensate recipient for FX and liquidity risk.\n\n2. Smart contract insurance: payer or insurance entity re-collateralizes the payment if realized value falls below $1.00.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x38d9886cac05e883ba0d9f60dd288c77817c6b17",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "giqK8A09Kx1Wj88koNo1bTYzH1JLoPnBfO1+HnkrnGPtjt8hUVz5akegNjwAWQxemwRci+yajVgzkpd626NDCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56049188,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x38d9886cac05e883ba0d9f60dd288c77817c6b17"
+                    },
+                    "text": "3. Instant swap: Index payment automatically routes through a DEX and is converted to $1.00 in the same block.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8ac74a193569f56107a34a34ecd50d6e0475e216",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CFNx2xv0TISqxhwU/6/by6WDr7MVLaClWKPZgmyr0Itz9tpTHGMZ+evfN3s9HRzZ/bFLKITGyIA3FOAKoslmAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56050846,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0x2cb501e7039b561f4d9ea4d01a612cebf9253749"
+                    },
+                    "text": "I would imagine so, right? What if the index payment is made for $1, and the next day it's worth $0.90? The recipient of an index payment (or any floating currency payment, frankly) would probably want to lock in the payment value as soon as possible after receiving the payment.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x43efab254c03f57be666a8736b9c2f8fd81dbca4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HCe3x07B1bDSdzdOW3qzqdtZFl1DkTqbPduQpSOwp9faSCXdTDEunnTjkL+LGNZh0q4mCNm6Nsh416Y8sOWVDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56051666,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0x68fc8ab90c5b346b216a450462db001f18a6d25b"
+                    },
+                    "text": "It's a super interesting topic! I'm optimistic there could be ways to incentivize holding, rather than liquidation to USD upon receipt. Beside the recipient, liquidation would be undesirable for the payer, as it could add to sell-pressure on their DAO's native token for example.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb4d86f80fdac27d1ec7c565db29fb7c7e9d9a9a3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "P1VfmgastQ9w4BEFimA8jVRe1nEfi46E51f29oLiMGeHY2mqg5bUuhn6WQ6NTGxKQI/pebFq1LuBCw9oGIQdCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56051812,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2588,
+                        "hash": "0x53d218bf10b2bfe72caf187c1e0e80c5d02f839c"
+                    },
+                    "text": "One thing to think through is how token mechanisms beyond use as currency could incentivize holding in index wallets. Examples: tokens received as payment could have some claim to the payer protocol's staking rewards, revenue share, or governance rights.\n\nLots to noodle on here!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8f86c9556c2e26bb1d9cb41670665ce2eaa18871",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "G/CfS/J1r8Cu8TZvb4X4jHDZ+lKd/NFswHUSAFChvVNNPB+0MZcvHZkvrUJant6SlNHPscE/c/vlP9F3MoXfDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56094831,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://i.imgur.com/6nFV1Zz.jpg"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x5c2c67030e028194b5c4f1c836a5ad29bf7589a2"
+                    },
+                    "text": "https://i.imgur.com/6nFV1Zz.jpg",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7db0f130a0598c5f9dec660e29fe96bf2bf3cc29",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "njo2St+iS+a8tVU87R8NW7Npz1MAMaxYAYN4eeBGgo3jBhoYiyNUHvEpWpweEg69pogsiVc8Vb979A/zaaYgBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56127763,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 83,
+                        "hash": "0x6250edbce9a456721e511664782d758988e0a82f"
+                    },
+                    "text": "I’ll add one as it relates to social networking. Zk proof-based identity layers. Would allow for pseudonymous interaction with verified traits.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x43e23bb9f08085b696f0efc5e0934997ca42c88e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "bUpMHWxew5GPF5M2Glhp7NsAPLdZkeoFmT9t8WuHzMjwY4LWz8DcnwGg3lRL0T/RGfKaosXa9mivAQRfud9jCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56218713,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xc9574bbc368fe2f06574f47cfc71c7cbf7f4b1f5"
+                    },
+                    "text": "Excited to see some progress being made here. Sorely needed.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x37dd7f6d1e5d408a79f2267c53ff4b0bf473730e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "eB9uZ/acIMI4RJ2Hdy2fzZJDFBJs+9z/lh5MggNasD+t3khqkYt7eC2xjPOOBrNqIkdpGQsjwOZ4Q//IkKJnAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56301435,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x22668d6c63f7b71f3eb629eab61edb900e2ad64f"
+                    },
+                    "text": "Looking for a new monitor right now. 4K+ only. Any suggestions or favorites?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf00460b32802c1487753a7c6992ce54d04ca5b1c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hjQHBf2lg8a76BbRfLOq4bzO0RryUBp7X7haO2x8Esh3PV10ErGi5178ZILb74nELVcYGkFnC8fbbamwnABCBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56305080,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0xf00460b32802c1487753a7c6992ce54d04ca5b1c"
+                    },
+                    "text": "I'll go first. Had the LG 27UK850-W 27\" for over 2 years now. Unfortunately it's starting to malfunction so will need to replace. Love the USB-C power and hub, but USB webcam didn't work reliably in the hub. Looking for something better.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x08090331833ba137968bc1b6e9f84075b5055ee2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GaveqRLFSjhduJDDc8teHqh0zBmBGf9NbmxyNBej+Qv8UhqJuslYe8Knaqn4Aj/0hiTjyrtcVKDMwoHzqZUTCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56424488,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x5f55132e22349f7b187f1c1d22a1106bd86c1a0e"
+                    },
+                    "text": "Where do you think crypto as a whole is heading in the next 5 years?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc60e16210bfdd3a121bdce8abedc203378cefd03",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zqJQUHziKfPCsTrGP+cY0G5LXvSxs9/1aJYYcxnuXoCy/+/xFy/c5q4ZB+2ESzIlXVSt9/hkH0h7kGSUB9I/AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56424574,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x5f55132e22349f7b187f1c1d22a1106bd86c1a0e"
+                    },
+                    "text": "What’s been your biggest challenge in moving from startup employee to startup founder? And how are you working through it?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9a9d187169b64255080b00788641fb1ef9e7e319",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "pKTGDXOeT/jY7RiffYRips3eflPS2hreBJV6I9CTYbht9e0Q1lCxXVGByf7H76YU31YD3708LOelU0nX0m/0CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56478791,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xd89defb631b6a3b7f8c80b4c2292213484bcd6d8"
+                    },
+                    "text": "Does this mean “one meal a day”? Curious to hear how it’s been working and what your goals are.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x76adea53daec62b74147775c1a671e0e523756b5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JXIc9prg/kDyEBqrc02TFHdHeT0yFwmYnnmaJpHptmv/3uQ35QAXftiElbLTPfotGNSeEr3rdPi0dHR4rQHVDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56503774,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2,
+                        "hash": "0x58efcf441734bc55c032452d1fce4455c667635d"
+                    },
+                    "text": "Asked a similar question to Dan. Outside Farcaster and decentralized social, where do you think crypto as a whole is heading in the next 5 years?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd5cea73b4170860dcf6805f4dbf49fc085c74499",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "2U9vZHGMrJ3yVJlt/Fg5k+Ug+eaa9tPn6n9i829a/+V7zMy6H0mdtDZaPezuGjLAxb5z95tLs1v8gO3kASs7Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56569347,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 83,
+                        "hash": "0x856e4bfa52f7bb9f9354c860e817122e7d7b130f"
+                    },
+                    "text": "Berkeley here",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xba6b5218ba665f40529cc9c91f5143623a26bea6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "TuXDpQzF52DlxJQ+pZFabYNlNMESwWIFhfEEDojqpTmA8boKISgcVt4KgXJOt08mEW2icZc6IheLWRf/XAGmBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56579703,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Thoughts on the NFT royalties debate: Marketplaces of all types must compete on fulfillment of end user demands, or risk market share loss. It creates a race to the bottom. 🧵",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbd8901136f577d3ee3dbb8690ef12bcdd8b86a6d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VIMedugfmVRC+NFgcQXaB+yuYzp0EzAZJroh4Zr7nPR+7V1VfCJQHAXMdstvKt7sa9LawXzUWCw3z5FreP2DAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56579711,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0xbd8901136f577d3ee3dbb8690ef12bcdd8b86a6d"
+                    },
+                    "text": "The royalty issue thus won't be solved at the marketplace level. Moreover, if no marketplaces fulfill demand for a feature, a fork will. Proliferation of forked NFT marketplaces and DEXs demonstrates this.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x761423e2614047867e0fc03bb8a01e1a2d8d7bfe",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "yEWCFvX6AvK1kKGtuySx3Eveju0lTZizYkwlPcRp1D9PyJ8w6S2+Vra3sTp2eI5asWcFniaQkU6t4oeRznXSCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56579719,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x761423e2614047867e0fc03bb8a01e1a2d8d7bfe"
+                    },
+                    "text": "As such, creators should think about how to:\n- (1) make royalties technically enforceable or structural to the project.\n- (2) incentivize users to pay royalties.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfef081f255f42606736d6093b33abf21b7ff7855",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "eugtWKoZDSwnTXF4jbqDWTDVNm5rRZNyVZgXoLDTPnlxDMnr49nL7kYbI8BSXB1BUzku1SyV4vNM6bzGarOgAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 56579728,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0xfef081f255f42606736d6093b33abf21b7ff7855"
+                    },
+                    "text": "Projects shouldn't fault end users for wanting to pay less, even if they support a community.\n\nPrediction: the projects that address this issue head-on will survive and thrive, and come out of the bear market even stronger.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xaf4f0f99e5f0de14a6a30f30bb246ba46c7403da",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "q5lZcMepNRb992bTpe4kg9GWKiB7GRNun4AIrtcOTK9IpfNIl2WQzNRQij0wQgOXGxDXTx9tUAiT0v5JcU+0CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 57018160,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://www.farcaster.xyz/docs/fetch-casts"
+                    ],
+                    "mentions": [],
+                    "text": "Trying to follow the \"Fetch Casts\" tutorial and can't get the code to work even after switching to Goerli. Does anyone have a Repl that is working properly that I could fork?\n\nhttps://www.farcaster.xyz/docs/fetch-casts",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc3f803bdbab0c65a3ecb00b1fe22dc7d2f20442b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "SbPtGQdGNNOKfXXEcIgLeME9t6tJGXrhnK2Z7DYb5Pg8UlbyCXe99IbDg2tKYXjA/QyQ1wkIHGBM9+t7B1JUCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 57287869,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://i.imgur.com/sJnqumw.jpg"
+                    ],
+                    "mentions": [],
+                    "text": "Messari put out a research report on Web3 social that includes the below chart on Farcaster engagement! Congrats to the team. https://i.imgur.com/sJnqumw.jpg",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0daa1d0664c541639385e063b6a295c3c183c128",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "M3VftJk/IgBcARH05gInFX6mGdoQ4zcbWO+MEv8rtuzyelNUlGBUjUB8yVQ3IgUi8GJ6NRe14RbKznWRWi5SCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59286749,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1693,
+                        "hash": "0x26ebbbb38d8867189b39239afc542a5675ce33d0"
+                    },
+                    "text": "+1 to likes tab. On Twitter: When I’m busy at work and have a quick break, I like posts to come back to later and engage with, whether it be sharing or commenting",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x21ce913b289a48095d9c191b672f3058e4acb8ed",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XGco/oUlKzZYle02/FW4IzHg1po68MfErLs9XclYtg2GNe6jjgOigy5kRLqQLdhGIp8fGD2EecghNH5HFT0GBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59510706,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 193,
+                        "hash": "0x5a4488268a7aeb296b5594d54fb5b98c507f5d0b"
+                    },
+                    "text": "I've been feeling that way too. Do you think that's a better path to success?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb2216f70d7ecb66076e217d4c902f20e1b168ae5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Lxinyf7+W9wuj+5MYkIjX6XrWFIWyfg/XTDHEh+TGPXdK28ySpyLkrlcuptxqMcn/ot/fM4xICbEjPNLyP3ADg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59516249,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3895,
+                        "hash": "0x6dfa8331e03fbfa23adb7bff6cf4cedab330fbaf"
+                    },
+                    "text": "There’s something about it that feels much more positive, warm and optimistic",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7d0d646fabe6c74827eda9e3c643583f6976c7df",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iKv3euMcemKDgt5Oa4NeLZuHpTclAzUEP0OZnYpwoTSqaJX++5qBTIF9cIlgvGTGwc3Q5apQRhjSHFOmaJDVCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59523042,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xad5f76c4b3bfa9974cb572a55c73a9e24cbd6064"
+                    },
+                    "text": "What’s the one FC metric you’re least happy with right now and why?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x27969b540c576111144091a808bfe6ef73442ed0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NOLQDY1i88OMM23bLCBe9sdC/BwIIsexwo5dFwQ2KVCEt3ZHgX9UdJD1TT90YYSb8wxhXrDBM+Khz/ptznA4BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59539753,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://gavwood.com/dappsweb3.html"
+                    ],
+                    "mentions": [],
+                    "text": "Favorite crypto reading to stay grounded, focused and optimistic during the bear market?\n\nI’ll go first: https://gavwood.com/dappsweb3.html",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfd47c062299ac922e93a64a9e2a410f039cf0b98",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "2QLA4JVBjDh34AF6PDwAYRmi32HhsxSWQWAHh4OWpz0no6FxDq9jSvLP3t2Ai9NDVuttrGwElkLCBMLlm387Ag==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59681761,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 473,
+                        "hash": "0xe8237e4b5bb034ba7511898fbab88b8244f757c8"
+                    },
+                    "text": "He's a great intro into house/techno/breaks. Here'a an artist you might like next: Ross From Friends.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x10d0db440115d5b39144e1062ceb781bc7f645a1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BCY8gnxMgY628P4Xo2QbzM33mwSlllhSPVRTejOONscKTFJUmPvx7vCZcvd+V49TIyJheS1k9943A/ZEvQxgBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59681861,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://www.youtube.com/watch?v=jO5JhZNSjUA"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x10d0db440115d5b39144e1062ceb781bc7f645a1"
+                    },
+                    "text": "Have also been into Nia Archives recently:\n\nhttps://www.youtube.com/watch?v=jO5JhZNSjUA",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc580be0dabbf1b47ca2d6f371fc544c39d146ea9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zCJHv1PGtRPL6oxwnXLBCSJyhP+W0PUNhA1hUBBrWIqkh+bjqZiNMjHUPA5TWdfN0wcYOtodZcCKI3rVY1O+AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59725793,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 42,
+                        "hash": "0x574eb2e0493bf930cd53817f64fb015e279d312a"
+                    },
+                    "text": "Central Banking 101 by Joseph Wang.\n\nIf anyone else has recs of shorter, plainspoken, easy-to-read non-fiction, would be much appreciated. Not sure if I have energy for the dense stuff over the holidays!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8db7f03070f4ac8b42d1b77b5b825029809e7a22",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Vy8qIlJ0vxirj8rd8/jvmh31f2GsEAIV3VWLox+vicNvvpQfjD9qTjS6OpsO/SvJsjb/EMml5qpBlQafhevpCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59726775,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 143,
+                        "hash": "0xb401365449c5b31083e28b177597fa778f9687f3"
+                    },
+                    "text": "It's all about getting the ceremony over with as quickly as possible. I generally take a small sip and give the waiter a nod assuming the wine isn't corked.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x09c3da89673f44bc6a1ac7801eff6e87ff1e2bfd",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rFkG5TQwRYONVKDDcTwSWJAJPpz+zFOPXaYwRiTmc0hws21+x0N2uSbanWCx6Dsi61/Ame0KYS8uRaXoBfwUAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59760835,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        1110
+                    ],
+                    "text": "Authenticating my Farcaster account on .\n\n[0xc7800c68126ab87f6354cb6c3ba7d35326327b239e05306e82bbe2efced6ee242e199e2a08ebfdee835f23d1b0f7c449aed39b8a3eac53019057c12675a151f41c]",
+                    "mentionsPositions": [
+                        39
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6930fb8baf9f06f0dd3f4b5accb987342c3b7521",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qR6Pie54qVHbLzqDCMKaKjSDxAvq6tbMQudqkml/AdN21UHzS4rwtHB8XO8UWT4boiRMzX0RzUn9viNoBo60CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59761046,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x021667cb2d60556473092014dafc4978500ea67b"
+                    },
+                    "text": "Fredcaster confirmed.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc7b22176632c71e1eafe7c7836cce9a6937184f0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "EuM8ZhSWRNH5JSZyPzVuPv25CCFhm9qdz5l2qbgwKfmQFiptwgakjxs+xP0e7YFF11v406YwgYodMXE9W+zUDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59865162,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 37,
+                        "hash": "0x5b627ab63adce58f5a7b685ac25c0d1c2291a843"
+                    },
+                    "text": "Real-world networked communities. Deeply connected socially and financially. Free of censorship overhangs.\n\nFarcaster could serve as the base layer for a Network State’s super-app. Thoughts?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x744c4fdd0cfc967a4d50baea26ffded43803a7a3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ZhScrFAnUsgQHWzqI1hIu+lPVLs/gbZw5fqMIZmPNH2L9xifUMhU1xRFME24vCgKfwcbqq+UzLjXGuY7QSdnDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 59967605,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1010,
+                        "hash": "0x6d773dc8fb057edfdd54ae44cabefeef0652079d"
+                    },
+                    "text": "I'm a 4K monitor user. How much better is a monitor like this vs. two 27\" 4K monitors? I've never used a widescreen/curved monitor so am not sure.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd6883f8c8fca85ba1693ffe51e45838fe2c40cb8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "AsL4bCXU+lXxoTZ3HfF2sXGeGl6wPFmGCR5MBS4JejcGwgbPEhx2HYmgAG9w1khtwwJU5ivebltln8wGlhXdDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 60026137,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4327,
+                        "hash": "0x57f681f6bd0a77d1fbd30696bbc8f4d711e2e284"
+                    },
+                    "text": "What kind of psychopath doesn’t do this?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x14eecbe9fc64a8bdfda73e5f2d26d67d5db6bba8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ABmyfM4tsB9wtnDUtVnFILQumc22LrHp/HulChaF6qBBR/zcmXR+mZ3tbdCDHwTiAXt17PoF4taE4oHPlbg6Ag==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 60127219,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xea465e674c13c1806271171b51e72df0f4671922"
+                    },
+                    "text": "Oh man, I played EVE in college. Felt like a full-time job at times.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1cb79a5623c68fb828ffff6a7a5b42c3c056b546",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "aD8kT4qrUypSrzCHe9JfzUES3EEqmc9wb8x3CYQH2i2w1SAYoLpFImKRSxJVsPG4xWWYH2DDSSrhojlnh/6zBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 61144913,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 472,
+                        "hash": "0x0fd36b02814257f8fa008723cb2e7cfcc9e32746"
+                    },
+                    "text": "Vitalik Buterin",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc017cf1c89811bbe47c594d6aa92e8dfcdace00b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "xRKfgNVRp+wDM1qHzrhYbl6z50MXWzEOG35iocAMfVnbjvUEysaJ1Js9vKDsxu3HFSxPMUoW44GnD79WWRC4Dw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 61177891,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xce70949c5d8320da85e9eb3df75602ffa6b744b6"
+                    },
+                    "text": "No",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x942d8bb0a4061ab9b40fa9381c6b6c24c458b67f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kNDbmUl6hGZEC4/dix44qKyUNC9CR6DYX/IrbPK7KMnxbQBr9cNZTqnfVL/MmVnM7fh684ruRDr7K66FGD1RBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 61178155,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 629,
+                        "hash": "0xce5b87dba0bcafbd233be90c2bad232cd6c379c4"
+                    },
+                    "text": "Had no idea he died… he had a quaint Twitter with ~25K followers but I now realize he stopped posting in June 😔",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x15ca0893831fd4d27518f4a96f7afd4f6bd3cd08",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Cftk50KOcUeIJNiRBUpUso/3JkNzaU7HA4+kUhZ+gJNJV89OE/AOKNQYAiXmuFIcv8wibge2hjWCcSINYw45DQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 61496828,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 617,
+                        "hash": "0xdf815e61f64c0feede6df2f8f0e7671b799458e6"
+                    },
+                    "text": "Saving this",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7d4e9b7657a896d1e57dd60f5e7bc9df0df93cba",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Om8X+W9dyHMTwi4WBfr53rRR6NMpgtsQl0pJ+ydUNGT77D5mLBZpMTREBhCG0Q6DCEtgEcI7hjEucBx3WCsaAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 61755581,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        2
+                    ],
+                    "text": "'s post on sufficient decentralization for social networks is starting to feel more prescient than ever.",
+                    "mentionsPositions": [
+                        0
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x11a6c7df2db58887360bfe96f8146d76d7aa193f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zNb/ba6xCkNjlVtnYSx2QAhEYSQRUvQAii6hGOhgMaeRjHlaTEDHtTtLyffezlJbknXhNJFig/qLI9bB6yh7DQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 61841464,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 312,
+                        "hash": "0xaef7f93939baaf585f38ad17abd6548f4e1922c3"
+                    },
+                    "text": "milespember.eth",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6b9e98231cfc8c948144fae45d27d1c9a2c50f43",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kZyRSO+Kwj43Uc3o6x/3v3a+YK+myp6mjzt+jtvZEFs/RsXV0aDiTCQSdSAY76/kVraTM2UUSlheu3mn+KNnDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 62151215,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 312,
+                        "hash": "0xe1691c9a7e0f20bf74250afbe266c606339c2b21"
+                    },
+                    "text": "B. If it’s A, I’m generally listening, not reading.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x262a568dc7d4dfb1a585fd217b21721d6a68b9a9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "RLXFrHbYgMASw9e4Jn1ciAIR2utdRD97ArIols5CHM2xULvIIxLJvJWUYIS/k7wsfhX2AFDZWtf6aCJoSYmFAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 62442285,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 617,
+                        "hash": "0x262bae404da7c50710e7919c19abcaf8c07c4033"
+                    },
+                    "text": "EDC 2010, the last year it was hosted in the LA Coliseum. I knew it was bad when they brought Lil Jon up on stage to quell the crowd.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x82fa7a737124211d07fcbe6faa6e6e31b752dc5d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "I54ZrwUywNHCgFBa8ZQt6m17ysSQrJxl/5ziKwWQmfirp+aZ8491oP7Yuu9iRttk4FMeB9AdLyT3Qp57Nrd0Aw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 62616057,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 528,
+                        "hash": "0x4f3eb0b271df8052b41971517082b7d938507dbc"
+                    },
+                    "text": "Liked the first one way better. This one felt much more Netflixy and less enduring",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb7c11f776cfc295d845182dbafccdaac15654641",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "38JB/QY09n8FF4/QdIBMgmnvYbzXBKf0RLE38n6PdS7xyNhuq4boGZSA1PM37YxTWb9SOR1vhTVFf0Eh35xaBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 64773129,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 66,
+                        "hash": "0x07dc9a81e112e851f49cb8200a03158eec7848c1"
+                    },
+                    "text": "What lifts do you think are aggravating it?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc80d96571e20ed32285494284ee29c29a3602475",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "8Tc+4j3xMZglKFAnc6yZk+5EyLAF2WRwYeslceC2HywQBtLRHERrpB3xfveSyaWewRckzPIBDkzYEXriM1BlDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 64773185,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 373,
+                        "hash": "0x4396fae8a0a8a3f161a039f9acb0bce67d66dc0c"
+                    },
+                    "text": "Anyone have good Bay Area recommendations?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe008520bf56ef8f55d8e58d2f7989a7971cb27fa",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "WInbcoClhoCVSEJdIWg/3VIuMa5V72WFDyZSQs/HuaNGttfLTzdMFDU49ZH4xntFEx43JUadIf7EAvVt55BnDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 64780570,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 66,
+                        "hash": "0x4db88017ea6d3dd4fb855f536affdfaff2b5133e"
+                    },
+                    "text": "Have you tried any form adjustments? I find that pressing with arms turned slightly inward, vs. arms totally out to sides, helps. And focusing on upward scapular rotation at the top. I've also developed a preference for bottoms-up kettlebell presses recently as they work the stabilizers a lot more.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3192a8f2e168817e776b8b848820229d218329a8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iVTmGxCGaliQTKB11AI+FQRLNmvPnFDHIiink6oii04eehTXhkjsVS2agdBgk84fJD1pOvLqGZJc7ZthWomTCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 64780834,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x352aa7d70d2bb748e1e655284b9b1b87aa9f2282"
+                    },
+                    "text": "4 but that's because I don't feel like my votes make a significant impact. If I participated in protocols with a more even distribution of voting power I'd likely do it more.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x387f5ff9b1d608b47f71b8c70f26e4fee9d02985",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GKzK7njBzG1h0GumW+yJOHPQnZhXvxeY1F+Uw7ZHtSPnUreLw2OZHmm7NmvmZyK2OX2KVU1EQHRxaXFunEsPAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 65255804,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x7e6b6fe837d36bd95040163931888379089aaa29"
+                    },
+                    "text": "Was there any evidence that these vids made their way up to management? Curious. Wonder if it was ever discussed. Guess now we’ll never know.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7266954e0e41e94e28eb4543ddc6646b1d948689",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rDJN9VXhRkokp9Qx4EpKpn7rO83sz0IVC8gABIf3RoRulkuL7MyPVhSXbWD+xlAVJ5yqhID96TIX4GSh0IR0AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 65469544,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 548,
+                        "hash": "0x03e6a4da4961f8cac43a4a25e7ba16124a9c3b4a"
+                    },
+                    "text": "What happens on Farcaster stays on Farcaster. Good luck to you 🫡",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4dfc98904513b91f6dc4a92da668c6ca6ad73f25",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "13okD4Z+vvSR59b808BLyogZGxGQyLH3tpCnRh8sYtkPRe+mqWtK3THVkD0lEsDImIwa+F6zUcGD4AUnvhcEBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 65470805,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8046,
+                        "hash": "0xf0087960383d83e4103292729b1cdea3c1b8fe75"
+                    },
+                    "text": "Holy crap that’s exciting. Can’t wait to listen.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5cb7e1da86af756bea52f7c354a91e31415e3ba8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "u3hY2rRwZBQ9nFosehrnVBfpjbFjSVUnRx5GanEcFCY0mR4dVb5c2w7i3gnk2fqlr3lnz9BRlwvKQjMn26TSBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 67252301,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8,
+                        "hash": "0xf22213939f10b0e339ddd2b4a0628395216b7f0d"
+                    },
+                    "text": "I used Blur for the first time and was impressed by how advanced and polished the product is. Maybe a different target user. Agreed it’s definitely far more than copy paste",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf546d2b048f267fd9272d039636ca6b997633701",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3xZZw5+FOovsoh8/wHO3QKv4PNrdLsx3wHC0MJuX8KLx6Y46iTmYxjNJKf/So3KzBFxnPPYK2k/+nhB3AxlQAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 67500626,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 557,
+                        "hash": "0x21f3eb9bf84c61e784a0d983db395d78de276c02"
+                    },
+                    "text": "Agreed. Getting pretty close to reinstalling Rainbow as it was so smooth to use",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xef00e3a033d0047f423eb771edecdd0906d85815",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "dO/LoG6NPP0ykRYM69vZVbIGsEuxEwPBstKvsaA86AXZJLG6gEcSjYUk0y26e2/NPkmM6euM/2Ce8rKKm1LFAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 67647308,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Bay Area Farcasters, what are your favorite hikes in the North Bay? Hard to filter through all the options on AllTrails these days. Cheers.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x20a32455ae347e41ae144b0a184583e49d177766",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "DX680mJE+w3z7xb4EGr42lOX2S0Uf/1rU7B5GGtKPNhBV3nSFAc7iSAirpxvl+1x46XP1bTT/LG2SqyDDxN1CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 67885213,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3432,
+                        "hash": "0x17fcb684ef70a17efe40aab4d619aab4f43e536e"
+                    },
+                    "text": "My first impression was it’s designed for degen traders. The art aspect felt quite minimized.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x30b7736f16f21154c4a30ec7c9758fa1d1f8bed8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fWvQTxIaE1FFV2iYJmSF1E4sJiRDi81kJoESm8u0s9KNhjdn67dPVRZ1HHbpck4a6zTetb8Hfqsv8hkWqVPGCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 68859529,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://i.imgur.com/AivwxWs.jpg"
+                    ],
+                    "mentions": [],
+                    "text": "Summary of the Silvergate failure. From Money Stuff (3/2), summarized by ChatGPT. https://i.imgur.com/AivwxWs.jpg",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb96224bd624b529a3a03b126e61a26a1344c8ee1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Un8ekBhv8Fwx+NTTd6DtUcAS0RHB402Mm1miYVJcTARtx7jtMPNq/IxzmgCz0jtCCMq/eqSkEJ8Ujr8fQ/vKBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69046516,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Share your thoughts on the USDC situation here. $3B of SVB exposure feels manageable, hopefully. Gonna be an interesting weekend.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9522b753694e90566957f015ff3b53b962e52477",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "bemUKibBs1mGObZXpnqVwg2v5hZ3YJFHVbJYQo3JbRuQvy9BL/9I/eRO8PWUiwFftMwNP/FcB4jOZNsP3R82Cg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69726486,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 124,
+                        "hash": "0x9d71c0acf99e6b3b4a9747c4a03ec490ccf01aab"
+                    },
+                    "text": "Incredibly lit conversation. I’m both afraid and bullish on crypto 😆",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4851e7f6dd60b31c8c95a579114fe243346078ee",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "a6ynxI1RBCI2ouZ9jWsF4NEPnzx84AVL/1FVah/GVjrXNNb5a0KnMeD9pjkY48tjb54ncW05F9lJWn6CAH5CCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69737900,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://docs.google.com/presentation/d/1RTXfGQPBWJA04-5FfIwlTgLhouHsmDzssYEw6uEcg7M/edit?usp=sharing"
+                    ],
+                    "mentions": [],
+                    "text": "If anyone here is into macro charts: I compiled a chartbook for March showcasing key charts that grabbed my attention across markets, macro and banking. Hope you enjoy.\n\nhttps://docs.google.com/presentation/d/1RTXfGQPBWJA04-5FfIwlTgLhouHsmDzssYEw6uEcg7M/edit?usp=sharing",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb37a55150f2a98d7bad036d1b493a1375e882297",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "58H0p11FVy1PiOlk7yJCWManVEwA/XvLCdFOH9CNZol1asugecHPpXL8weg95wDnKWLbemTXUxX9WD72oz85AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69737920,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://twitter.com/MilesPember/status/1637296671544709120"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0xb37a55150f2a98d7bad036d1b493a1375e882297"
+                    },
+                    "text": "On Twitter: \n\nhttps://twitter.com/MilesPember/status/1637296671544709120",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8153d686d70e54196f05b4cadc3f84962fee3c40",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "99mIIMD2d1U2FcL7pnx86H1l+qAGViIsYonOi+M9dPx4YVxMC1Z+NDLF0P45d/IOCCuVoEK4K6Jl6YqJFquTDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69954100,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 473,
+                        "hash": "0xf48a3e0761e372c5db53b1c02b918befde055649"
+                    },
+                    "text": "Was thinking the same this morning. But better this than drought and fire right?\n\nAlso, growing up here (1990s and 2000s), it always used to be like this! It’s just that the last few years has been freakishly dry.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa7236cd69da43bec55cde1eee86b841616224f3f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kRcCsMhVXpCC43e9pR8SFoGwgcNEIuxpcqSvQXcH2rdPDGZy4b8HOUEHwUFA82ZpstD7/AAPUf3VYm/x2bdxAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69954327,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 9762,
+                        "hash": "0x6ea99ef723bfa17e04dc34ec6dd9a025950985bd"
+                    },
+                    "text": "😂 I can’t lie, a few weeks of rain was nice but I’m ready to move on!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x75316096d3d35c418b53140d934311553bea9044",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/Pqi+zN/3zTtm/KHF/IJgis6gLtix+VtdaW+FEFxfuRvsjHbBlsu3e5qaM6L3KZ8xKSQhyi5EJ3TMo3pUMHqDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 69954405,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3115,
+                        "hash": "0x12b5db8f098178b94ba1e97ec21839f386be8724"
+                    },
+                    "text": "How can I get this set up?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7ca63ad5cc252fbef3fe083fabf853d3011863e5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "GKzHjg334vxCBCHx0z4UIAs2FFzJ6EFxrYWRqdZAxEL06lEshI3xBY6Qm6huR++Iqjf2uri2pzUvvEIN8CDLBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 79462397,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1356,
+                        "hash": "0x44d3e99f6d9d29a5b82e4acfe48b5dd1537fa74c"
+                    },
+                    "text": "I don’t view the two as mutually exclusive in moderation",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0671182af7f19f3ff990a13d84e966149068ebc5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "KXhYRtq3FkSVz3lCV8Kz5dv/KJPvXHtQkJ6AaPu8OyNsLSCfmhyh2VpciwvEmkDlhV+BsajWR73gyxEMIiSYDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 79468638,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1356,
+                        "hash": "0x884b13461499d8f5b057d92b76722bb272ff28c6"
+                    },
+                    "text": "In what world could alcohol have literally no upside? It’s a fun social lubricant and relaxing activity! Having a few glasses of wine with friends isn’t going to give you cancer and organ failure.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfc8a4f2c89cac03ff5f39f26e95bf631f120423e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1kqnLaXIIziUTqf0m3SlCSW5qY558x7PthEDuG4KnSKDUN00FBqNYqWRAgQ73FWh0q3MWGgNJdD+9j3xQOu2BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 79481053,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1356,
+                        "hash": "0x75f8cb6475f81077f6f67b362d65d5b0fc25e23f"
+                    },
+                    "text": "I googled it. One bottle of wine per week = 1% higher cancer risk over a lifetime? 🤷🏻‍♂️",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/8K336dH.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x6aaf5562777ff5fab908aca84aae4369b4d502c3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wbIYlvrFFY8nczesumvhXeh4ET288mErpTzD3h7Fuwp6dVr0StG3fmodT0sID7rBpEMHBivhEdeCGGhQ3rHzDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 80070851,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Thoughts on the emerging trend of EVM L1s transitioning to Ethereum L2s? I think improved bridging safety will be a big driver esp. given recent failure of Multichain.\n\nhttps://forum.celo.org/t/clabs-proposal-for-celo-to-transition-to-an-ethereum-l2/6109",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://forum.celo.org/t/clabs-proposal-for-celo-to-transition-to-an-ethereum-l2/6109"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x680dee41dc758f172bee4f9e28bc6eb8940c0f25",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "PEdOvvvW+oeGmJ3G5S2uhaf+x0wszLFh7XX3Y7UneaRoezJsLvD8tmvR8lTRyUVajZCZh8kl2oK+6vuzZlzBBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 80194918,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x8a51f2d880d6d718f11dbcbea2ebaa38acc93373"
+                    },
+                    "text": "Is 443 your reading with windows open? I have windows wide open and have a 512",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1ec31f333d84c48b372206ba8099d9fbc1c1a2e8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "UtneL09hFPGBe/usOC3OnSdTBK2nQo8HI/nPjS7Z88JOMLB3yIfXpKADMSVD70Ze7fdkEXWXXlKLWs5d96XWCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81067421,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2,
+                        "hash": "0x715ceb03a52dd8bf72be364d14ac1f307b9e7212"
+                    },
+                    "text": "If you want some real hard stuff: https://youtu.be/6qSnO5U95yU",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://youtu.be/6qSnO5U95yU"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x9aeaef05330cf17b6ef4cbec6bc6cdbfd802bb54",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4oA9vYxhrkSnVkMuRau3iX9rE5Q583lZ11F9N8vH7QOUs5B8c4Qc9kdAVKEOFaV46yHh+ymQiFWjqsWQLGy0BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81067633,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x9aeaef05330cf17b6ef4cbec6bc6cdbfd802bb54"
+                    },
+                    "text": "A little less hard but still destroys the dance floor: https://youtu.be/xYXzJLhwu0o",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://youtu.be/xYXzJLhwu0o"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x01c16d1067aa9a1b4c8c3ff70720402211625c69",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "XAjRHgAKXUB3JZjFxwvewfcr5tyW1sG5NhD9PNfmh4i3gaDoNsPfcCd0X1vCwpcUI2KETPwKqD4dnRZ/B56TBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81070062,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x2df74b933d530c66679e6fcc4c9396ebb230ccb2",
+                    "text": "Favorite first date spots?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x736420234227b2c662f120a2875338ca0b2526bf",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3oL2RRWuD6vjZEjx5p+4vUNpXg4y3MANJQSa4lfjuQUggEP3vBG9FwPXAiTUkjSBiuZzQ6ZESHNmVTOS69ysDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81071947,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x05acde54e82e7e38ec12c5b5b4b1fd1c8d32658d",
+                    "text": "Share your harder stuff: https://open.spotify.com/track/2LoHMYeksQZOVHiMHIsFVE?si=EyQ3NB8ATl6uPPyXdCa2qA",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://open.spotify.com/track/2LoHMYeksQZOVHiMHIsFVE?si=EyQ3NB8ATl6uPPyXdCa2qA"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x1231f773bb6d33e45ee9cbd75d9df4357a3703da",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Iade0ZggZwU/qPn+7EHh7/L09kcqqsameHECEKiRiQnGwa7NuEXKf3je3z59Cq2XJJ7AuABObX0jvV0mh1AgAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81072159,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x1231f773bb6d33e45ee9cbd75d9df4357a3703da"
+                    },
+                    "text": "https://open.spotify.com/track/3sIlhX4dzbVruKGlIxevBU?si=02gXUblpSP2uuxLIub0V6Q",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://open.spotify.com/track/3sIlhX4dzbVruKGlIxevBU?si=02gXUblpSP2uuxLIub0V6Q"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xd992103f3731e1ddf8e3f83a54b64fb5cac9f89f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "888rN5b8kCbxFXrDvdAbKK2huDzmJ1TMOFc1/6tosePvpa69JmlcQQu2ZwWkG0sStKS8rx/bumI8wG6ApkX7Bg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81192490,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2842,
+                        "hash": "0x811dda74507470505495db977c5420bcf17e7681"
+                    },
+                    "text": "How do you figure out where to go to dinner? Research sources / approach?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x101c6b6514e82044817dc30ffccf778da65cba25",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "G75NinNxk6FwHmZ4oKsc+Cvq+/rzZdR2zmDp2XEsuqAEFZpWMGLza47HhRVcqbQ7+73sb79OfBAroXMyeMlUBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81192646,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3066,
+                        "hash": "0x736420234227b2c662f120a2875338ca0b2526bf"
+                    },
+                    "text": "I’ll go first: Anina is my fav spot for first dates. Good drinks, fun vibe and has an outdoors area. Volume and crowds are reasonable so I’ve found it easy to get comfortable and have a good conversation.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0a3a1750e2b3d0f16349d4cb2827a099e4fdc8e8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4rke4fCnAlbzCCVmcwvnipfZz7wY8hRzcRPJxNRBShBZpHPrq/1fMhLF2eXXkqyLrGisqmwCpQ+HzM4brPWxCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81703131,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2742,
+                        "hash": "0x8daeda10aaff2343358ec49a646a4704c4182d02"
+                    },
+                    "text": "Arcana was going to be my second rec! Love that spot. Agreed main downside is it’s very loud. Also can be hard to find seating.\n\nPage is a good one too!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa6fe7d930772eff4ca059835a41d5819913ffb0d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "WgF6+NU1F2K/xWegYAecL3pD6k5jXX+sb7hagryjuURBm3Mb4ehpWPddO2BPi4nz7AC+1KcEbkhYHDo+IuqqAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 81703186,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2,
+                        "hash": "0x10085a26a985488b36e1ba36bb5cbedfd0fc1ce6"
+                    },
+                    "text": "Interested if it’s in the evening!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x22ba678fcf6b61033a02c53d7034afabea938a7a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zPv3u7hU5VxrF1di/PnpMTsSWDd5Arwxih/IIIypfRVnJ0U+VaknrR2R2gskXO3NkEnnXjkFTgnDCh13NB5NCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 3066,
+                "timestamp": 103905085,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "gSxFHPfq7ZwFI7nO55fslzyFjlw="
+                }
+            },
+            "hash": "0x4cd82b8f74a067fafc728bb1de21fae89c95a886",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "SVVmHsPz56ditKcqiP78oLR1T3AtBYFaIX+368tv76ErTFw5F/ArvXtHQLVdA7vqZdLeLDgO09loaYksCLrXCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3066,
+                "timestamp": 103905104,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/oakland",
+                    "text": "Hey Oaklanders! I live over here in Berkeley. Any fun events coming up soon? Looking to make new friends and meet fellow crypto industry folks. Cheers!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb3f23742fba99bc488bc80d5f91f433548edd98f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BMdg1BzUpGJNpHXI8xR1k76ECxDT50v/bcVz6qbjq8HzPO0ccdHPo1gloAjnKAhjvLVoArfSJbr6swGbmkRfBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x0ae76785616acef16a4a85de4690937ec0d6a6b53d42f5287a027a68fc678d70"
+        }
+    ],
+    "nextPageToken": ""
+}

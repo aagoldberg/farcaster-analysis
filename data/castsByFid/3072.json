@@ -1,0 +1,380 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 55999786,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 127,
+                        "hash": "0x668dcbbf05ca17e6c2fc6d8d1f59666f61d16560"
+                    },
+                    "text": "Also interested in this. I learned about Lens a little back when the protocol was just released. But haven’t had the chance to explore FC yet",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0b70cd3ab207a54d17ae12db5b718fa43a7ecba4",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fy+1EJxiBfi6R4MV75Xw6xVgY2j0S5Ljc8NXgwtTgLe0q6vwqpl6J4w/tAezd831xaJ5S55PpUHf+9TOtNtnAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 56000201,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://www.solidlint.com/"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1094,
+                        "hash": "0x96a796e53c92fbd421834bc46a6d9e0e2b40bed3"
+                    },
+                    "text": "I’m not aware of any but thinking of adding it to https://www.solidlint.com/",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x46e8cac89f6204ff63bf259728e82f27428e2026",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Qcqkyj48QWJlPLs7mBpbRecQVm4+YLXWen1fFFihAZtLWXYZ7xHRb7rYCRniptOztAF6S3AHNSXX9tO/VZcYDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 57023440,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "I had an idea to create something like 0xMonaco but on-chain (0xMonaco was played on a local blockchain)\n\nBut my concern was that it would be prohibitively expensive\n\nI just deployed an on-chain battleship game to Goerli and I’m happy to say that its cost is actually reasonable:\n\n625K gas for a battle (≈2200 per mo",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8e328a90dad744df1fd83b391ccca4c5b24f9fe5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "s3XotcR7PBEIO80Ex86a1NKhSbN78IA1jlijzAlCRufKAwYrcAgzgxTZCakb2K42AXL1JWBbMH/5wu5RJri1Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 57023587,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://i.imgur.com/mel5W4v.jpg"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3072,
+                        "hash": "0x8e328a90dad744df1fd83b391ccca4c5b24f9fe5"
+                    },
+                    "text": "For comparison, Uniswap v3 swap is 185K gas\nand TC deposit is 1M gas\n\n625K gas costs $9.8 on Ethereum today ($0.04 on Polygon) https://i.imgur.com/mel5W4v.jpg",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x457ea43e1018a400fd1af1a597b55e46ddb85021",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Bre2ch5j4TFz2df2aNpsrrQB3wjZ98h1EHAIeWBogQCb7zFWUnCHVfsYKeCZuq+LSvBxA/Yh9GBzytXjUx8dAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81452407,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5694,
+                        "hash": "0x1aa5279cc9c83b49669087ee283629727f0b7769"
+                    },
+                    "text": "Is this DApp just for interacting with the contract? Or is there any other functionality?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd5261f590b2681d929a58ee1efbe2465484e10b3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VBw+dAcOE2EUfj2VhyiijM3hg5QQ7zEClDMbQW2vpnIsSB8pxi8vTcatnsuCLABPkOn1WN1W8lKt7rGVROZEDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81460494,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5694,
+                        "hash": "0x31db07ae23a39324b38f501cf3f7f48d8e89d8a5"
+                    },
+                    "text": "Universal frontend on https://monobase.xyz/ will already generate a nice frontend for all functions of a contract. I’m curious how the hackathon idea above differs from it?",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://monobase.xyz/"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xa835e39f75e7a807149ed0e9ffeab3d657654d3c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "yHR/UdDXbRp1AMWAdErrHj5BgiRvoPvKfEruMgH6AfZ1IeVzB46bUmhgUuTnTquww77Mw5g9O0nyRlxelHxeDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81460742,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5694,
+                        "hash": "0x94514c93a2ec3d068da3a43a3ff070dda14f05b8"
+                    },
+                    "text": "Oh I see. I agree customization would be great. But WebComponents might be a bit too low level abstraction to implement universal components don’t you think?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x13c9085f244a6fb71fa7f9de71b72d7d475f8d23",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "r4PtTMKjkYovRSJjRDu481wArs5tdAFbO2s7BlE5sJsfDLjoNw9P/7cH3Wyf5GZCgbX7kNJfLaVSEV9/ObAFBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81463856,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5694,
+                        "hash": "0x519d09cb7373537eca3aeca6505175da6d3e0322"
+                    },
+                    "text": "💯 agree. Was thinking of adding more customization like this to universal frontend on monobase. Can even OSS relevant parts if you want to collaborate (I’ve changed my mind since we last spoke about this😁)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xcaba14a6c06ef7d495e7adcab84975852e7cf1c8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "YxtNKMxnW+gAmVYzaIez7AWKzAkH0X4ZmYHGEhUtBLr4+2KMk5c+ypm/GSpK7XfwsCmpTiIadNk2oHW+TjEBBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81463950,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5694,
+                        "hash": "0xe83acf92fa8bbfea27e1749b9f2c71c1ad71782d"
+                    },
+                    "text": "The authoring experience 😅 might be easier to do it in something like React (I really like shadcn UI approach)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4b4e68efac56c3d9f5809abd0ef1720d4c1f9a5f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "nwgf8MvVH6RhZzgKOXK36fNfWLcsA5TsMqsaOeOB/IvWCHJmojkLVG/b19lfr4B/y3QJlKeIcZ43fvY+OmsqCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81464023,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5694,
+                        "hash": "0x4e51e90723ff8afd997155a72c5bb0ea441ae0a7"
+                    },
+                    "text": "For sure! Permissive license is a must:) will DM you ser",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd1b1f8f21ce22a79ecc3b518e788d6eb8c596868",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HgoNTjgMpbJLN7jqdZJmKwGbAEIJO0yp8e0Jm1BkXFm+XlYhsV9Yl8o/cVlIqooxwtqq6dCoBWl0tOYxGG9YBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 81500318,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x07010623412ad48d61d5cf7de56866ff88479f9c"
+                    },
+                    "text": "Rust\nMMA/Boxing",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xafa39891be575ce3f1836f7d18917f0fc447ce0b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "doeSOCamILnzrPWjF2Poak5bjRD5S9UEnuweXvGP0BJDKxFkKZKzU1kU53BYmHW7h3JOPxQjOe/dE9b5R/1hCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 83625745,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x3312a43f15a9a9a1c6b7ee055e4b71041c2613e6",
+                    "text": "Anyone trying to build an indexer using cryo and want to work on it together right now?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8c66a05bf2e923fb562a4e1f6feb43f3ed811e2c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "it57ibywUjFE3GnBUF5b7cW5365jhkIG+PphpE4xBJeCm8Iv8qRILCnE+WArb/9UKHHIXANYhFsZVVyEwJakDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 83629945,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2,
+                        "hash": "0xf6cbc8f8f5de27aa33e5032a26a187c9e1aa76eb"
+                    },
+                    "text": "Talked to Storm 🫡",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xbf132033e12f456356f9964d1e454315910fb275",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "m2BGdUPieeZkebE55eN+jiV0L3HSVDjTh3qznVG+0D7AjjCnyY5K9AkzrgKQBjCZ8bd/2fKOmoXA8t9p8dJPAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 84742424,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://ethereum.org",
+                    "text": "Trying to put HTMX on chain. Is there any protocol/app you would like to see on chain frontend built for?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4a65dfbee2209120cdb5c12d7bd5c528a04c8a86",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "nXi8n5Ao0EyESKio1Zym+5ePGX/nDxsM+FzT7gOiwmj+OLfgSdchrwAnhHux28zXLWp9IjIXcX1LjUJgQUFEBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 3072,
+                "timestamp": 98941670,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+                    "text": "I’m creating a new Farcaster client. But it’s not just me who will be building it. \n\nAnyone can contribute permissionlessly. Most of the UI for the client is onchain. So you can write your own UI components and customize the client to your needs!\n\nCheck it out https://recaster.vercel.app/",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://recaster.vercel.app/"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x476e27b824cd942bf7687ab29d0ac9351303cfab",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "CZdJjQSFkl3iIXTXgaMvUIeTsV7rlITUokrCHM9OQDx4ChiJjqUyPyy3rOHtWaDrR+0gJwly6LMwgr0DRq69Cg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 3072,
+                "timestamp": 99630507,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "igztgRyPn0c4qeEEOZA+M+PArWI="
+                }
+            },
+            "hash": "0xe51135519caf84fb40a4f5cac68bc11fdd9f46c5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "AK76R4WAgI0EDW8aTfu4eBPY576RuMvwh0k8JWi/LPdSzgO45uEaITL8Rf1zUCUclXEa3YqwEuVqgV6Xh7yZAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xabb6e9a932235720faf7992dd6d203e7f859e83f1fd7365990e7f44a74ece4d2"
+        }
+    ],
+    "nextPageToken": ""
+}

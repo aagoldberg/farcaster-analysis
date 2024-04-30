@@ -1,0 +1,55 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 23014,
+                "timestamp": 90646978,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://farcaster.group/founders",
+                    "text": "Avatr is up on Medium. Check out our origin story https://avatrdapp.medium.com/introducing-avatr-72c9d76b2bc9",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://avatrdapp.medium.com/introducing-avatr-72c9d76b2bc9"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x26deaf34a8e7eb4dccdd59b01aa48d6ea18a6ca6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Q2OsZPgj31svPUXMIfNrTKgJVMueViyD9/6cmV/sDq7gRiyvwJGfZN7MXsygPIVzGA3ecGkQ51ziVaQbtiHLCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x9a6dd091c6399a3ff4f8e62770ea65f6275d1b4dcd6fefbe7738e22efcd75f50"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 23014,
+                "timestamp": 91413159,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://farcaster.group/founders",
+                    "text": "We’re live with our community membership NFT! https://opensea.io/collection/avatr-nft",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://opensea.io/collection/avatr-nft"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x6183c8b0ea61b415befe47c2ae184a822a5b0528",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "86KCuPp20k6kymsL7OOEEd0bmeYGD7ty39DhOYC5+0dr+vfFUO/AXq9exacmLWM88XX77LBsrNHLLtloR93VDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x9a6dd091c6399a3ff4f8e62770ea65f6275d1b4dcd6fefbe7738e22efcd75f50"
+        }
+    ],
+    "nextPageToken": ""
+}

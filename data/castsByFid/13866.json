@@ -1,0 +1,73 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13866,
+                "timestamp": 77277501,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Hello world!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa6d78dd9d4f2c6bba7b40f64435d3c65557b121f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "M5ED2Kp5L7Zmh25yIgbgG8VZmRQNiDGxpVrdr2NHBVkA2iisezsYkXH1onsrQ3XAi4Jyo91avv0trw/d35v5CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x786b7452c25f11c11b3c085019ba245f55952077bb5243ff091bfe6a34ca9226"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13866,
+                "timestamp": 77313311,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 347,
+                        "hash": "0xab4fc3d7957e42de954abbd4cb23dab7ffb735b2"
+                    },
+                    "text": "CCC (Carbon Copy Cloner) which is way better than Time Machine. Combine with with an external ssd like Sandisk Extreme or Samsung T7. CCC runs on a schedule and backs up the entire system in 5-10 minutes.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0323c64e5c8ce9b41d077b977bfff2860f36c764",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "l//oYLLyMllf1CA2733C/Ew4tWVDd1+f9EuiqwfXQZEJ8TnAqh1fKKMIg4To11/w6mE5SH298OmSdw94tGZIBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x786b7452c25f11c11b3c085019ba245f55952077bb5243ff091bfe6a34ca9226"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13866,
+                "timestamp": 77362042,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2417,
+                        "hash": "0xd79731c5f5d8d8f673d2d2735597b52ec1a2b241"
+                    },
+                    "text": "I use Coinbase and Gemini. The latter has lower fees on ActiveTrader. If you’re stuck with Coinbase, you can get lower fees by placing a limit order and checking “Post only.” At the lowest volume, your fee schedule is 0.4% (that’s a 33% savings compared to 0.6% on taker orders).",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4a942563e559f298455459038b9f802f61ce05a0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Aw7hI6XoJ4oD8FPbaBy97JgNWAhme149ydKu88OGtIapdVQcSF+g4it4JxGSCU9J7v8lsY7mKyZ0BsataMYvBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x786b7452c25f11c11b3c085019ba245f55952077bb5243ff091bfe6a34ca9226"
+        }
+    ],
+    "nextPageToken": ""
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 22962,
+                "timestamp": 87652943,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "kennys"
+                }
+            },
+            "hash": "0x3ab3f1eb174844255abf78616d8263703347d5a7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Z3TzJ00GrJrORoQnGUY82iMqw2Iqx2Dy6mHSbngjbsD5uK6IBKdWAZEBGojGhH00J4Ghz7ONQU3c6g2aMxkgDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x99544650912ce8c7cf63abc1fb96a1f2ac291d5e6018997b53c8de990eca5ec8"
+        }
+    ],
+    "nextPageToken": ""
+}

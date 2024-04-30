@@ -1,0 +1,1192 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 77133799,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "hello world!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xdb2feba6ac8dcda8ee54b85295be020218e49e3d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Io2NPGYhFmSJYz48oiCpLDUJBzme+cGPIPPtxoHvMaJ4avD3wDRCZXooApZu07P4YamrmqlLktp+d/QN9p05DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 77134868,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8432,
+                        "hash": "0x7d8269d492c3ff7b627b988d9926a58a92cdcb2e"
+                    },
+                    "text": "1 for now, how does Safe compare to Argent for an individual looking to have f&f recovery? \nArgent is nice but seems maybe less modular...?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2ee86634112b0b31f28e14c2a2c50b2b5cb6c7f3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1kQJ00nGGpvv5tQJeLR/Ie7VukFVL80Uez/anvWavh/fUkv6Hfg6RpTXnR3Invps3xg73lfKtn2m7kPqC/jHAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 77135679,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8432,
+                        "hash": "0xfe3d1b1a4545e6d74f455421d38ac909e6ad5e7b"
+                    },
+                    "text": "Will look more into it but yeah it seems argent might have better ux for non crypto natives so its nice for f&f",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa6e0281c9a2c81394c15d1f53170b39010deeb10",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wLQj27o/TD9htvkL8ns2lsnVqWhn3ldLpTRKhmMwyKq58vCtgdlPExulkBgEfYEKSJVsPEFsmTyqg6BWrAF9Cg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 77147197,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3300,
+                        "hash": "0x05feff74022df42ae4b4b3ce7ee2a3adb108247f"
+                    },
+                    "text": "the most centralized crypto projects –Tron, Binance and Tether– have delivered more 'net good' to the world than any of the decentralized alternatives for now",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb2206c5b9e827fb64ef31bb52d1ee15581cf4a5c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "thTxB0bIOZp6g57MGi7Ho6kX+5i9AxY1MYk8OrvXWPPIRCNcNbgq4Kbo+f03ya+6gaQqjIrhI9Lu469AHXA9DQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78779582,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        3,
+                        2
+                    ],
+                    "text": "  not sure where is the most appropriate to give feedback / ask for feature, but i think one of the priorities for the app i would enjoy is adding an embedded browser to warpcast on mobile, i feel like sending me to chrome/safari every time i want to checkout a link really damages ux",
+                    "mentionsPositions": [
+                        0,
+                        1
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc27d1f201b151eca81c98e698fafa88fb9ceb18a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "s9Y6ruLtTQy0rdvLO7ITWrQoaJ5xdfWqMl/MSyUtBGGMYTzgD3in3USPm0qQWTf/+Tv0zYT0c5D/mG06pFH/BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78779702,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0xc27d1f201b151eca81c98e698fafa88fb9ceb18a"
+                    },
+                    "text": "Anyways i havent had the occasion to spend a lot of time here yet but am really liking for now!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xca70b76ba73e49f17305283753e7329b151273e8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "mNkWv0vGajxiiKMNVFSCB8CVsPqUBIhkYZa4RH/aIacbYKyHoRV9eao56smO7HE3Z4F7CdQ+s83v8fxGne1UBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78779849,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xd81a9882b125fee6009b7aa4146703470aaf2dea"
+                    },
+                    "text": "Oh that’s interesting, well im in the other camp i guess :) \nAnd not that it’s what i care abt the most but i would imagine those features also help tremendously in terms of user retention?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa9b2109f848e803011c041ae229939422d8512cb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Z30Jj7heGCzFrtRlwca8/B+AHrG/tcqTy3kCJ8F6ryfck/AVaqPpCUgSXB2kEkDJJItdjdUMTf1sIrajmkoCAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78779961,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x1f31f1e0bd0c45f0cf263fdb9db5351bddb16362"
+                    },
+                    "text": "Oh yeah thats what i meant sorry",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7e5a7ed5181592fb3b34707d4bbee98084d642f8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ffvAOn26kbKx/9XQLpjPw6pX2cvBsFfxR+8gdHXgcvDmJsw76/FMgJd8hWO62OY1HvpXlXWrRoh6ffZXGcCtBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78782592,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 576,
+                        "hash": "0xd38d98b470b490f9f7becf07b5dbd4949253ed7f"
+                    },
+                    "text": "yeah this is must be it (would be so much funnier than this actual incompetence https://twitter.com/nigroeneveld/status/1675226145204101121)",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://twitter.com/nigroeneveld/status/1675226145204101121"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x4a422891dcf4efa08d009b8a8a963418dc55d3a9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "2r2lDR3CUKgsIhS7eZJDQWNC628dUgya1cl7tL2GyowtRaEyPLGEGXNX5AyhU9AaUA53cEkklHQRQFj6Xqk4BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78784311,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0xc18f6a34019f5ba0fc5bc8cb6fe52e898d6bbbee",
+                    "text": "Will try to spend less time on twitter over next weeks and more going through these instead (and maybe a bit on here as well) :)",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/tHa0DRZ.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe774acfb5d43016e706c53e076af05727ec31409",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "f/7a4nEcKiwCcKOic9KCJ30tDaZRQvCNLjL3l/dfeAvYR5FXtlX0UHd9c++Qq1tqbzmDllodJWwstwFrwNfvCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78791761,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "https://twitter.com/dystopiabreaker/status/1675246458738712578",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://twitter.com/dystopiabreaker/status/1675246458738712578"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x3d41594740c418bac57c972fff487860263eae05",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "o5pwnL/zO+SgBKJRLDCGHO4SS9kgdn+QUEYnB53hKJxuc2SStS5Ts/hjHtwDeGjfNLgnv0p9BCg/cBNAVmGRBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78853983,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 108,
+                        "hash": "0x3a388f9c911ef0efe7ca76de366e6c68ac3e3e06"
+                    },
+                    "text": "related to virality that stemmed submarine saga?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x65012a28096df777c3a6d008339ed24d6fab546e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hr8Zz0xkH3clJ2nGeXWL57UQ13M9b10V7j2t5WN8zPWbEbK0A4Q6OHz1lyaPkPEqPMDUmXAxeE5mMyOXJLS/Aw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78859305,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        10636,
+                        602
+                    ],
+                    "text": "Why does  require a Google/AppleID signup? Im using neither for my farcaster account and would rather not mix emails... would it not be possible to login directly through the warpcast app? ",
+                    "mentionsPositions": [
+                        9,
+                        189
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3bf9041ff49be4b17851144d08eca6717652b44b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7s8MPT7AEwNoaIjnQy8yG3sB2hNNglKTK5kyJTfJSN8rOV8V4Ct9pvKOlyKBta4k0vcHb8oW0TdN3PtfWGxECg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78859657,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x166435f03cfbb20966905b3bf4afe09c8c92e859"
+                    },
+                    "text": "Works now, I got logged out on Web version as well",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb89f23d7f05ffb25589260c7617be4bc5f64b380",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "c5ITpB5C5jwwgLqq3bD7AQ3zccCkA7XC3vh0dUgeHdfYVgMX2A5k2aB4yO27bdfI6BF3KmMkmqikQotW3bTfBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78869744,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "About 6 months ago, I wrote a piece about ETH after my dad asked me to convince him that crypto was an investable asset-class. At the time, it felt important for me to reiterate a thesis after all the gloom that weighted on markets post-FTX. \nhttps://mirror.xyz/damsondao.eth/hPRhYRQGiCwxUccazSIEwZp1HIW8dxDunjkcHxog87k",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://mirror.xyz/damsondao.eth/hPRhYRQGiCwxUccazSIEwZp1HIW8dxDunjkcHxog87k"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x0707a372f75ca934c410a511b827d22f5cce0053",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "oEtHVE7Ofc/4zO7OGSJr9l47qsUOOOsq/RkG5PTPuwCMzmFPKro8tCzFUKLVhBRhIdF+xZ/GESE8ed5jZPU7DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78869766,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0x0707a372f75ca934c410a511b827d22f5cce0053"
+                    },
+                    "text": "I also wanted to establish that to me ETH retained the best risk/reward potential in this industry. After flawlessly going through the Merge, it seemed like Ethereum was finally entering a maturing stage after a hyper-speculative cycle and had begun detaching itself from the rest of crypto assets.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x2e961f65bd27d748e964a2967c48b571a939ba63",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zlJwnEoGZ2i7HDBLLhMB097VnosCDVODDqgAWybmrvdHYvuAE/zOjUObG5Re0ZfUEeUJicBgOkaPYvwnmVIfAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78869802,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        1
+                    ],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0x2e961f65bd27d748e964a2967c48b571a939ba63"
+                    },
+                    "text": "Looking back after 2 quarters, I’m really glad that I had the confidence to double down and foresee that, although regulatory crackdowns were coming, institutional interest in crypto and more organic use cases like  would speed up. \nhttps://twitter.com/TheBlock__/status/1675574023982313472",
+                    "mentionsPositions": [
+                        217
+                    ],
+                    "embeds": [
+                        {
+                            "url": "https://twitter.com/TheBlock__/status/1675574023982313472"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x743b144836b291ac4d2873d6583ef4b1ae9f591f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kwu9+G15JiWRUz/jLLSDLLACM1ctW4lbE6anoWYPL7yjWSI6p5zu1sfxSjaJIc4pxLNvFvJAK9rUM8k8gSE9BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78869834,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0x743b144836b291ac4d2873d6583ef4b1ae9f591f"
+                    },
+                    "text": "While I did not anticipate such a resurgence for Bitcoin, pushed further by the SVB and US regional bank debacle, I feel like the current ETH/BTC level coming back to a yearly low once again give ETH superior expected returns and I look forward to the second half of 2023!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x97831d4a22742eff88bf0b5c7daf5aa83fd51227",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ehCj6Mh8LUX1VPb48LptnZeODN3OOPKBFJekYPAcAigdJ4FnTmMx6Oe+sLTz9/5Q22rJjuHxKcbbXToXDthODA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78909153,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1432,
+                        "hash": "0x3d831b59f46ec2373b4ad76106f8d593be8e3e16"
+                    },
+                    "text": "There was a lot of rioting and violence in small concentrated zones after the police killing of a boy last week. A lot of people online are trying to make it about race/immigration (as usual i guess) and there is a lot of misinformation (old videos, completely fake headlines like military coming in etc.)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x64b872e109105eeff02e7f737f95ccd69b7f8db5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "90zJwaMSzmtw4azMRWJOU5WvyfaiorbsiOWANv27utOMiOFI0JRCglZVaISvglTxqoRnKKwlQYOFr6APGpwUCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78909448,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0x64b872e109105eeff02e7f737f95ccd69b7f8db5"
+                    },
+                    "text": "What it's really about is young people from the 'cités' feel abandoned by the society/system and have been suffering from a long history of police abuse, this was a tipping point. \nWhile there has been a lot of destruction (mostly in their own neighborhoods which makes it fruitless) it's really not a bad as it seems.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc0b95fab0acd55c0c0f740096863372320d2d0fd",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "7bUSDB+zIt+HxHmIYsgu/WZ7C/eMgygVW2ilDWIYpbo+iWuB1J7nN2KQD2eZLOzRQJZH7h8Wg3XX9PImi2BMBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 78916023,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 602,
+                        "hash": "0x2a9f430466a96bb96f25a3e09fb2f19a90ad2d15"
+                    },
+                    "text": "Ok i see, thanks. I was trying the web version first which is why it made less sense to me :)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe5d95469b7eca2826a92b096a4386ddf95b6e51b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "MO2LTjBJtUagvA3RhzPMd4kXD0p2nBIvuV7j7+4uhMuSJX5VBz5lf6aP4WWX5abv7Uunqx25I6Br95YGCDjyBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79094670,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5964,
+                        "hash": "0xc27ad06cbe3d7ea9eca04b3448739fa860542989"
+                    },
+                    "text": "im wondering the same, really enjoyed The infinite machine but it might be overkill to read this one too?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x95140771b14844d3682065c2ad4d374892df2c4a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "QxKWGd0CYDcViO0o3LMJuI4q9HURXQBEoJqmrvrdcVl98ir4rmYkYSGJgiD1DZ0ssOHz7yUk3oH63JkKbueKCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79124696,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13999,
+                        "hash": "0xbf5894632bab7061e5d6a99ce202c72fec9a3fc6"
+                    },
+                    "text": "But i don’t think you can easily differentiate between solo stakers and staking services",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xff8faa9d884c71cf4e5f04a1f778597779887bee",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5Pr/xik9T0fF3iqnDcKz78ZBFMSvgeVohuC9J19Yn3EZtQtUCuC9VD4EFjmvXbg1Kf3n4cATLH+TKd513TNuCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79125090,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13596,
+                        "hash": "0x2ece04654965ff69837332353e76819e42bed4ac"
+                    },
+                    "text": "rip steve jobs, i know he wouldve loved farcaster",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/4YrK0Je.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xf4fb49afe08fe57f00eda866c8b183ff0a42b283",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wVWIR55LaYcpbEIZfcPEJcHLz29TS5ZO0gkPM5OUbTvrbMZrLt4SZ+kw4mzPd9FmV+sDsrn0f7K9ydeftzwKAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79130988,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 680,
+                        "hash": "0x549c7feda6344fabb526fa30fb9bbcc916363fb6"
+                    },
+                    "text": "Interesting, thanks for the link! \n\nbut wow v. sad if only 6.5% of solo staking... (although i doubt its this low, even they say 50% confidence)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x87e53d57a740f5cbfb38acbdd654e8dc49938c16",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "frg+rwGLhAB7nGN2jyBtnmppRFCpE3tj3w0fuYYoMVWSwYA6V7hJDj2mwIChFrep00wd9t7caMDa/zZGWRx7CQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79134297,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 451,
+                        "hash": "0xa2cf87e83ee373bb1fe88087f77f011903da9aad"
+                    },
+                    "text": "Payday!\nOr otherwise probably endless bullying from zuck lol",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe173730cb16c9a78a12d601a68d4f0d6cc02bada",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NXrzkCUlQrFNUY95iQlSc6c7m/9DTmOdutVmeHh4xi0oATyfcDXwkSZIFkr+ped1X1UPyIry0puP2mq5qpapDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79295415,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2042,
+                        "hash": "0xa2faacb03b43284e9122020b8859cde17cef289c"
+                    },
+                    "text": "New channels i would enjoy / use:\nOutdoors/hiking, current city/location channel, finance/trading, music",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc884c38f5efc8763e0413fc9166e5711b921c8a2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "LkyqQnnxqXz7vh8ZGE6BGwzCK90gN/z8cVbT7tr55KIf1nfZ0ZYHI6N7+8FaF4lTtqDpd97TioT2ivLTRgPtDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79396135,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "I’ve seen a lot of similar takes regarding threads/twitter, what they seem to forget is that twitter is already losing ad money and has no clear path to profit\n\nan outcome where it doesn’t regain marketshare means it dies at the moment\n\nhttps://twitter.com/basedbeffjezos/status/1677804622466150400",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://twitter.com/basedbeffjezos/status/1677804622466150400"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xd40e9bb20846476fae26a55a99bcb730028423c8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1Wi2mqR41iSrkPjid1+V8Sc6IwIzc+wVUDO/0RK7AwqnwEysVeysmrvW6F+YlyHYfC6tfCYhCauo9hKm7JMHBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79397624,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1285,
+                        "hash": "0xe20ccc1ceee43f5590e6d151d2cf98be09894977"
+                    },
+                    "text": "The infinite machine",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xd7f18dc02cfde3e48232beda4e69fcebaad97264",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "OP+PsrWWGbRafXunvIIIfuMiASabc/0AJ0LSNxyF2VQAhdSjxG8EGPUzxOjU9eYnKjEj6bfxp5XsOLR/U5WnCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 79687849,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0xf2bc49e1a7d8ba185823df0ed7108a1b9e28ce8d"
+                    },
+                    "text": "A nice lil feature would be the possibility to reorder them please !",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x052674a8f96dd47c68f773d9a7657927484b3889",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hdZwWRtqGkjNF+0FC6L35kYrxBKuvNbRDfsex7iN8O6UGPpzYIVklbBj7cz9+GOy8Ax7s/B+1fqdvpXiLoQ+Bw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 81889103,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 8079,
+                        "hash": "0xe51f209df986fc64882245f7e735cf9c5fb5c898"
+                    },
+                    "text": "Where is this? Singapore?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xcc32469c0af1f6dbaa3a27af16720ee484da03e6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "quzqgjM8kGxCxBnrrPOPOJZdYCHacBPidBQjY+YdPFTOpWVAFJGfeTViRj9Pjn9Qu7ax+WzBDbG9cmwAhGk0AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 81889120,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0xcc32469c0af1f6dbaa3a27af16720ee484da03e6"
+                    },
+                    "text": "Looks amazing !!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x20d069a20a04d69f5c940f307b11c3b4a030f04d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "R3nVZjhZ+AQF+LooGwoJxstO5WJjInJDNii+5hHdvikuqocqR1aZDiyTg7UoAQEZs0ud8OgzNfKVz5YasBqmBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 13806,
+                "timestamp": 81946754,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "sVc3XyB38xZxzraBpdQKJb77uTw="
+                }
+            },
+            "hash": "0xe23ce4b1001b4f1428884e1fbb0ccf09ce39561e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "gx/j1cukH1tuHp+w6oEunxBHxmqFcVq6yITUj4BIXcJA9t5GaLPmugNqaUyekLx5enHtXkMl4ejoWnoaRrp+DA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 81946872,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x917ef0a90d63030e6aa37d51d7e6ece440ace537",
+                    "text": "",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/qWokQHC.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xab4053114d757184cf5b31c7bc100430a1302139",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zHEv5EmFlqme23aXiIN4BzdOxqQI7vfhlExlP6gGXHyaaZgqZp0VBTww4KQKBOuOpxiQVLF/FObJ0xF9hSLwAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82021571,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 11866,
+                        "hash": "0xca82d3402ba245fe19e80ef1b6279e5739b9b5be"
+                    },
+                    "text": "Yes!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x55e28b72225ad539a74a152199ae7b1e912e9859",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "io/BhnJty64QCUzdU4q7WLSUHdY+JgbQzddV25wtSwNFk6d6hsbt+fZ1DGi2qAUegVAfobgeaue4WXfo+BzaDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82121094,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 239,
+                        "hash": "0xf21ed50a4196f0a90ca8a6dac94bde807984123a"
+                    },
+                    "text": "amazing! would love to know more about your experience integrating Turnkey and ZeroDev please!!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x63a9a10402d3d0c27af1ab9c229d9370d348814a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Ucq02GPQqt5EBfp6VZKGApE1U5to8Tcp682BvHJVXlAaM0NfD2IAeZeBJ+c3jeYlV/Fbg5nsvfbHrMMEhU1CDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82234937,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x917ef0a90d63030e6aa37d51d7e6ece440ace537",
+                    "text": "Generative Art in Island!",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/QHjgbIo.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x712c902995d868a8024f77dc72c75b1495f3a076",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "DAmTJS8arL3QWvAnikCKGwLJnG5O5+H+jmzCP8Z9hkO1fd92DiIhOOz4jRO2rCNSj1qhZyhlMEaiRg9g/y82Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82235033,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 5964,
+                        "hash": "0xbb2559d991634e32d678c7aed302ac96cccc2808"
+                    },
+                    "text": "milady",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf613a589feb85cd013502ec21ba9a966a82c007c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "I+f8vxLpyomhOnjCxxQ0zYY4xIM/CyiG/utOKTXbQGoYcf7VQXEHdD251TN402Sx8tXyVL1GGEbf8XlyT+sLBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82235139,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        3
+                    ],
+                    "parentCastId": {
+                        "fid": 13806,
+                        "hash": "0x712c902995d868a8024f77dc72c75b1495f3a076"
+                    },
+                    "text": "Hmmm how do you do it when you want to crosspost in Travel + Art channels?! :) ",
+                    "mentionsPositions": [
+                        79
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xaff0b1d0c46811793c5f621f0be6aa4338f4ab36",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "QpwNdkdbmyIBbjMTXmrEf9Iepbs07r8PxEZLxhmaE0scLv+WhQMs+Bo9RLZJia68qu7CSPNrYsPj0W+Eg5t0Aw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82369805,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1657,
+                        "hash": "0x60f785d742a71f403bd55cb366921e079e2b1e4c"
+                    },
+                    "text": "Yes im visiting at the moment!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x62ef7e6cdf13c032140ba93240479ccef7416080",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "0c/NgnDncA2UlFovoGMk998TWNYFbOLkXDvXftntRo8YYksKMPREQwq+s3J8ZYdCLXsbgVtEs9DJRz5SQNH9DQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82384325,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 680,
+                        "hash": "0xdad3b635f1abbc289031ffdf8f2e3c00c0acd31f"
+                    },
+                    "text": "What is words3 ?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x63aa5d60abeff9f835eaea64a441fad95f8abd53",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HFwthVxFbB4zBth4DmndNRqZsRCZ4WuYwFYmwzvtKrigaknuW8LkOHW2T/rHc3UZtdg7i/2D5UKNQewboN9OCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82384479,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 680,
+                        "hash": "0xd426e2944c00fda2e56dd73fbcd851305e6f7fcc"
+                    },
+                    "text": "🙏",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf95276005850ae0cda239d7723c25be8bd1d43b9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "STCPgCi97kVympody12NDIclHeUpDuTl3gWoFFyaMRUmJUM0+Dowgkt+61pT6h+uaaBUg24YaBjiEOOZK7mEAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 82545219,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1657,
+                        "hash": "0x1a58af8b8261eedd8797c67effa4925c95051dbc"
+                    },
+                    "text": "I think fall is probably better, in winter there are periods where you barely get a few hours of sun every day",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x79d0b0cf4ff98f6d34e98dd27e65047c10ba9c6e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "YsQLxjs9c1TKVZME9g3ZEEgxxhA/qAozV3fcjy7GmjpXDOFetYZQrvEMPtGdSGW6WGeWVYMgwH7CDoA3xrjWAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 85050349,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4434,
+                        "hash": "0x2f425fa644e1437e33f33ddbbe018d5d988d24ab"
+                    },
+                    "text": "If I’m not inspired, ill usually get an old fashioned",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xa1fa406a79b87d8e1858d6afafcfde9a286109dd",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "uwbdJO9FW3qfoLw76rCWygU6rO/wYVlg3qSY6frPP45LLUjta6oqCE9NwOM6I9MPejj7q8M0Odaf1DJqVLIfDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 85051072,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4434,
+                        "hash": "0xae1f0eef8d9c181eed4053f8caca118a826262e0"
+                    },
+                    "text": "I like boulevardier, and overall drinks with whiskey or tequila/mezcal, but also just asking the barman to make me something interesting, i recently tried a New York Sour which was very nice!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x250c7079af3f17717d18c6cc2179916dab965d48",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "KCtoDuh78kvfezqT6+I7vL4sXzqFJJAfNuMFAge4qDuF3X3C7ZET++dzuYCQ5YXODgZ2ymiHbo0Fnie/K3hyCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 85051483,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4434,
+                        "hash": "0x2dba141f99f1bf3dd5bf5954c544278cc24d087d"
+                    },
+                    "text": "You add a tiny portion of red wine, unexpectedly goes well together",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xdd6d8d0c9bccea15a2012f74e8da8f435c1ecc2e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "/ec3YQWOHnnSvPEKQilIRCaNIHC/3gdlxnPZ9uVMUDiqwCqXLLnzOBddC0wGJ4HhiZZVHkphFHpByusvxVyaAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 88530925,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4407,
+                        "hash": "0x13f61fca764d2c48313cd811d97d97eb36570903"
+                    },
+                    "text": "What are some recent decisions at twitter that you like ?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xea9fcb1993c9407f3c6aee6e68ae33c42aef3530",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rmmHgJ3ntn07At95/tRweGUdLYKHuoldSuPDBmUQfri0P54iEQrO8gDxat/p15iyw8IDRzB09+KaO+5sbw2SDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13806,
+                "timestamp": 92170187,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        10841
+                    ],
+                    "parentCastId": {
+                        "fid": 10841,
+                        "hash": "0x455bb7896b4a5f79acc0ad6f67e1c8ea157248dc"
+                    },
+                    "text": "hi  i'd rather not discuss my own setup for reasons i'm sure you'll understand. what i can say is both are good products. maybe argent is easier to onboard non crypto natives than safe? but at the end of the day I feel like onboarding beginners to self-custody remains a challenge",
+                    "mentionsPositions": [
+                        3
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf3282eb5fc4afeca4381ef6a84d23b807ab83536",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iI0+3JkCGjngpfUjKW5pu3JvqK/6uyadus3hfOuNfc8s0KpN2Uop1rbM9Mu1h+4oJgCPFSY3J+z93mHPisSxAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 13806,
+                "timestamp": 92170482,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "jM/BoZF8cNqYcKTanVRZO5mZz6U="
+                }
+            },
+            "hash": "0x6839336c06297f4b761eb0065e4f7787cc35e05f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "tygKV+x0boFW+a/8YxQqYXu74eJ5SSnYHXuLsXCY7U84n0gmwCpQoXySL04VBIfpHAiqXMGMjmJH5/IqqyFsAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbc9b6a00d5cda12ad47be2ce18e88ddbfce971fd07a054c68c48adef1005549e"
+        }
+    ],
+    "nextPageToken": ""
+}

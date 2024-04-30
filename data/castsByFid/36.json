@@ -1,0 +1,77 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 36,
+                "timestamp": 69479001,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3017,
+                        "hash": "0x4c1d5dead8138664e9d24fdaeb80c3d0832836e9"
+                    },
+                    "text": "snoozed while former core team members are working on other 0xparc projects (infrastructure for crypto-native games and autonomous worlds - lattice and mud - opcraft and sky strife - and more). we're always thinking about when it might make sense to reboot though, likely on top of this new infra",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xe4c0a6897f884b3ff89eaccbdd0c28ab8d9e7026",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "x4o8+90npcIfuZw2szwi+6PzO5F4KboS/yhQSIZgW8MwwuLTEvmwpzpd/+c2qeBvExd1uuu6tgFOzcTDYT/iAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x291f3666284466ebfa9a7fd970d87ba5fbec65edd960a66dd8ecf92a3a2d98e6"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 36,
+                "timestamp": 91642256,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4606,
+                        "hash": "0x94e2cd61b553524f58bebee060578f02d49943fb"
+                    },
+                    "text": "1) PCDs are default private; NFTs are default public\n2) PCDs are default non-transferable; NFTs are default transferable\n3) PCDs are default free to issue and interact with; NFTs require wallets + gas + blockchain interaction by default\n4) PCDs can be made easy to make ZKPs about; NFTs are default hard to ZKP",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5f0af041f77578ebbf557567c00ee04d6cc3e7fe",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5LC005WZwohxsI6F2EnvHN92LVpAryJg4/t7910fr5MpDWawDLYuOEjKehOetfdocG1VuONkMsghIIavWSgxBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x291f3666284466ebfa9a7fd970d87ba5fbec65edd960a66dd8ecf92a3a2d98e6"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 36,
+                "timestamp": 91642321,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 36,
+                        "hash": "0x5f0af041f77578ebbf557567c00ee04d6cc3e7fe"
+                    },
+                    "text": "I say “default” here because there exist schemes to make each of these attributes possible/easier for both types of cryptographically-anchored data. But the defaults define a lot of what will happen in practice",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x70c182992f7c981ac1005c25bd8000d99f7aa622",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "AUILyxySwyftOEuGfHtoAo3ZZHDfyXx+0azMOfo12Nq1CSJr5G1jgZSpFAP6RTnzjumx/70TqKD2yBUYH3dwDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x291f3666284466ebfa9a7fd970d87ba5fbec65edd960a66dd8ecf92a3a2d98e6"
+        }
+    ],
+    "nextPageToken": ""
+}

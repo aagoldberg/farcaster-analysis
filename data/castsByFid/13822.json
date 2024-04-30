@@ -1,0 +1,66 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13822,
+                "timestamp": 97775649,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 285999,
+                        "hash": "0xc06314fafd5b072eb163ec43880ec61d9cc67f54"
+                    },
+                    "text": "Welcome to farcaster ser! 🥂",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3cda5fdedbd2293a9aad3315a2564d1e463ceec9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "r0cMlVX2HwBPbTUIRrS6F6Rm49CZ88x77uWdgEFWgPMoNUtBLaphTTwSH1vgKOQk89dk/HVoJp4x3XIJHxQEAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xe25aedb17abcc1513f536449a67a106a7e4ea0253c08dc89bb08552b4db1d1dc"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 13822,
+                "timestamp": 97989543,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "RXyUa0m5ybVESfJwspsWl1l8rjc="
+                }
+            },
+            "hash": "0xe6e4801f78a4d4c6bab64bf025a715af1bff198b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "t/n8EBj6fzJcgFWhbRRvDb0BRTzchfGpJfsuF1UeE9a3yPNzBRMX3UvVVuIozueJz3EYJVsonxWQQ0yuoduaCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xe25aedb17abcc1513f536449a67a106a7e4ea0253c08dc89bb08552b4db1d1dc"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 13822,
+                "timestamp": 98029270,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+                    "text": "If there’s two things I reco exploring at the moment… it’d be Ethscriptions & Nifty Island. \n\nHaving spent hours with both communities, the energy & product is undeniable 🌀\n\n-JG",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc84abf5e76dbf0bcb1a08906797467f63d04bb1e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "76QDZu7GEhy7WG9RDvlr5Io0UK6zC4hEkGwIVKUWxqX8bdCVxDTQ4U92q/RoR4uS9pSS8u9BS3vHYfj3/c95Bg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xe25aedb17abcc1513f536449a67a106a7e4ea0253c08dc89bb08552b4db1d1dc"
+        }
+    ],
+    "nextPageToken": ""
+}

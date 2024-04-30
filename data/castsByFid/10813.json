@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 10813,
+                "timestamp": 105009259,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4606,
+                        "hash": "0x9fe9182a7c05184024c6ef42e963e4a67584ee54"
+                    },
+                    "text": "Tokens could drive canonicalization through scarcity mechanisms? Feels like there's a UX problem there, only the token-brained really *want* this given current UX. I wonder if tokens could be incorporated into the universe itself, so they become part of a meta-textual process that still fits with the text.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6fdb8772304bd979b8f3d2a0bf94b479f09b5dbe",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "i379WRTvGj6o1U9qgRmfeRk+nqnJTEsMujkG+8Xiwo3SiN0K2vEThMguHnHRBSPPH3+JEjD+wkR1ya6Fcb7dCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xa57e50457a311542b6a46493b70ab8f5aa76634404108d3a551b4ecba4d32d43"
+        }
+    ],
+    "nextPageToken": ""
+}

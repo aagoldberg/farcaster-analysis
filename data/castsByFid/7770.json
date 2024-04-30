@@ -1,0 +1,51 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7770,
+                "timestamp": 68708751,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 9614,
+                        "hash": "0x7dd49fd2150868b4fcc11f31b35873882f62ac9f"
+                    },
+                    "text": "Good Morning!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5979bac2a16dc402bfc9d82c2b78805acea83120",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4VazUDSal1mi7l97BB/TFEniPMGPDD/xgFkc4UCQm/Pl7W/bgYKM3SzPGr3WoxF8puv9CgX3PMu04KkjunLECg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x98fb6106c4cf8408dd043abe3058a18cb449024ef39f82660e230d20a714c10f"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 7770,
+                "timestamp": 69492734,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://i.imgur.com/WCV4aIM.gif"
+                    ],
+                    "mentions": [],
+                    "text": "https://i.imgur.com/WCV4aIM.gif",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x56d93aee17ec502c77eccc00fdf597e34301b0cf",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qum5F5SwAgxLgrNOCajI80cfvVpano6qtrYwI7I+af8O1Jfi2BwSnJYlwxf6bwyfh/kfMHgAlmrtKqpQh7PNCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x98fb6106c4cf8408dd043abe3058a18cb449024ef39f82660e230d20a714c10f"
+        }
+    ],
+    "nextPageToken": ""
+}

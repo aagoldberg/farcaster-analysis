@@ -1,0 +1,723 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88042457,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "The magic you are looking for is in the work you are avoiding..\n\nGreat quote by Chris Williamson\n\nWords to live by in this season of my life",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6420fcf3e4143172d69b89acd3710c6dbb78f764",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "xosXn57VDhqgQrXK78dx4x0JQvCZwLf7KVZTiXtIOyWqxoirKc/8X3xMM37BFvYp2u2iKCac84Ckzm/wt3MvCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88042653,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "TIL (embarrassingly) that in Uniswap pairs, token0 and token1 does not correspond to how the pair is named 😂 \n\ne.g. for WETH-USDC pair, token0 is not WETH\n\nInstead, the token addresses are sorted by value -- addresses are technically values that can be compared\n\n(token0, token1) = A < B ? A, B : B, A",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xebf14ef36cecb4fe199d5c068e7b57d660b56828",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3ordeGcs1RHtyniSkieTvuWjMp1KOHCAXUlqCMktnYr55PjqcoK9JgxfufYyvnXuig4Mz/eR2QlwdfDVVXgeBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88059512,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3621,
+                        "hash": "0x85e31c297cfc55430810321c85c278e82b64ef91"
+                    },
+                    "text": "Haha yes the former. \n\nTaking a Solidity bootcamp with Rareskills\n\nWill be sharing more interesting (embarrassing) facts that I learn along the way 😅",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x72d84a0ca5f5d732e27204d482e0a2bf3b952383",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "oyOSEEwTqLCkaW3B4xKCteFw39+jjWvSQWjm8G00/HCKAIptddtSG+dXXJ3f3srBkuL/SAkBWJAgM1GZ8tlKCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88219278,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Learnt something interesting about Merkle trees recently  \n\nWhen Proof E is submitted, how does the contract know whether to hash right (Hash E-F) or hash left (Hash F-E)?  \n\nThe contract only knows:\n1) Relevant proofs (Proof F, Hash G-H, Hash A-D)\n2) Merkle root\n\nTurns out it's quite elegant!",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/HUN8oi6.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xd9939dbbd88b56c73430ee33b9aa05f3685821c7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "y9T+ITlJbSNytCmiqiqBTmt29IabaDIQgn1GzjDDmK1aMaoFT548Pkp0tQvnceDiNTmkJcj7gpcZhewbmv8MDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 21475,
+                "timestamp": 88219369,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "yXDzWnxLNsZIMBmrUtcmcxYeWME="
+                }
+            },
+            "hash": "0x7775e1ace5bbae5c5656a7a438607d1c3f8e5af2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VCsMUtTewS/6aU20rbW9oxIwoM9Y3cYTSVxlj7gR/0UACxSi+5NqORhNxMmLP+GrQMP/zhNGWknuLfoBuZM7CA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88219421,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0xd9939dbbd88b56c73430ee33b9aa05f3685821c7"
+                    },
+                    "text": "Proofs (bytes32) also represent a decimal number which can be compared\n\nWhen the tree was constructed, proofs are pre-sorted by value. So E < F\n\nSo when the contract verifies the proof, it also sorts by value and then knows whether to hash left or right. \n\nPretty neat!",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/tpZqjR4.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xfe2174397f39706c0b1da70d933f39f1c7b58cf0",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "J47zQCGT/llnDGU4u8d0AzkJgIktjdb/GUCfrE8aVgtVrOmFhf8O2AZIhQaKRs5al4Y9HxEtcNnuLBAuf7OVAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88481542,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "@cursor_ai\n  IDE has been a game changer for me when it comes to audit tools. 🛠️\n\nI had trouble understanding this code from a project with little/no documentation. Here's the code: 👇\n\nCan u guess? hint: related to Uni V3",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/ogLb0Fj.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x7266f65809ce7d9814d7de373635be5822c87747",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "EPBiU34W+C7ZOocbgNW5mqH9LB0t1Bfkn0hktSXR2Pf89jmlu9DWyKdUcmDC/JCzdjk9rvNnnS5kIBBrrZX7BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88481566,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x7266f65809ce7d9814d7de373635be5822c87747"
+                    },
+                    "text": "So, I decided to pop it into the in-built AI chat just to see if it could help me make sense of it..\n\nAnd voila, it not only understood the code completely but also explained it so clearly 🤯\n\nSaved me quite a bit of time and effort!",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/1bR6KqB.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x860a628b952177c9c0c671335172322ca4436817",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "+5j9VmskH8Mry3MqRR02lpXhRA098iZB4wPfZps9a6Yao/jhcX7PtM38Tk5g0nJj6n8BDiUdEUqFJQr2SvP7AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 88481585,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x860a628b952177c9c0c671335172322ca4436817"
+                    },
+                    "text": "I also use the tool to \n- get a quick understanding of a large codebase, \n- explain assembly code and, \n- decipher strange syntax\n\nAll in all, a very useful sidekick in my auditing process\n\nTry it yourself!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x20da3b02e2cbe417ccbe0f0f65016b95bc41c3a6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HxW0w9Sa5VPt/Xek98mudWpJ5lcE38dNV4r4RjSZ0ZIe6m09w7VUEP3hT3r44XqmNs+uCi3/sUD5DK34OxprAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97864332,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Learning Yul/Assembly has given me a deeper understanding of the EVM\n\nEver wondered how Events are emitted under the hood? \n\nHow many max arguments?\nHow indexed vs non-indexed args are handled?\nAnonymous events?\nGas cost?\n\n/🧵",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc9e73141362c236cecfd99133359f8519f68866a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "x9nTEHRFY0BpTX5VcXDrZvXVDXnADnL1hCPskfKVxobnWARxLzyQUneUee8uJJUubANeEZUcGOdal4vfsYj9AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97864357,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0xc9e73141362c236cecfd99133359f8519f68866a"
+                    },
+                    "text": "1/ \n\nEvents are emitted using the evm opcodes:\n\nLOG1 LOG2 LOG3 LOG4\n\nLOG4 takes four topics, each representing a potential indexed arg \n\nBUT.. due to the need to use one of the topics for the event selector, THREE indexed args is the practical limit",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/Alg5DGo.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x30971fb90b5270551ab58258980857b22cfa0cc1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VhrL9lrJeYZU8upeLMXKZQMJ2qMgbRkkXqZatCIVU9nT/p/CD4cRXj17O+uu4cQ24uHlouxG9Er9vZCZ3QwxDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97864377,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x30971fb90b5270551ab58258980857b22cfa0cc1"
+                    },
+                    "text": "2/ \nWait.. what is an event selector? \n\nSomewhat similar to function selectors..\n\nIt is the keccak256 hash of the event name and argument types",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/NfpBSfS.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe3eb5497924bea62b34856a2b8741ccab3a4464f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "V7v0xa+97xFxT7KdrsjTVTHt+Jrmo9cum5jUJBlrNlNPebTgWiyWLUOST/REul2Cwu8kGRm5cf9F+bhp6tt8AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97864400,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0xe3eb5497924bea62b34856a2b8741ccab3a4464f"
+                    },
+                    "text": "3/ \nCould you do without an event selector and fit an extra indexed argument in?\n\nTechnically yes, achieved through anonymous events\n\nBut these events are then rendered useless since offchain methods like subgraphs can't identify/sort for the event",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/CyLEYcE.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xa6cf23da740099f48fb8cd3a954dacd865809aab",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IsVmrL4wwuHdnMYkYm2sIq10qzPnl29mWstveYIwKsi4rzcHt4h3qNFnWzH0vwRbd35WOnYVe9KKgyV0ANiMAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97864427,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0xa6cf23da740099f48fb8cd3a954dacd865809aab"
+                    },
+                    "text": "4/ \nWhat about non-indexed arguments? What's the max number of such args?\n\nThese are first stored in memory, then returned using \"offset\" and \"size\" in the LOG opcode\n\nSo if you passed in too many arguments, you will hit the stack limit... From my own testing, it was around 13 arguments",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/xUQDzgp.png"
+                        },
+                        {
+                            "url": "https://i.imgur.com/MvkFmHf.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe1cfc6df591680ffdeaf28bb7546208dd4e91274",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "x7wj2jf8IZgcML7bG8Z01SpqVDl9CLmcmofdj4i3L4QLggPMxfxttkKUnvwM/JazeypzQleHiMEBoqybWR9nBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97864436,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0xe1cfc6df591680ffdeaf28bb7546208dd4e91274"
+                    },
+                    "text": "5/ Gas costs\n375 : minimum per event\n+\n375 x number of  indexed args\n+\n8 x number of 32 byte word (non-indexed arg)\n+\nmemory expansion cost (for storing in memory)",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf534f50c3ac10eac65fdb584af1a04cf1f8efdf3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "fN301eA3XlxNimWw9axVqzjADJk62Tq116NHwClLjM1Iz7zBQ/p4wZfv71peMV8crSMhXL4UyrxpKvC1IQK/Ag==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 97900512,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Chisel Tip: Use `!memdump` to peek into the current state of a contract's memory\n\nSuper helpful when debugging assembly blocks",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/Ch2XQrv.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x7b579b2c672f78eba7409c4e2095c8fb3cce9329",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "abjxE5eEgakloh2KfHnIW3b7WfYr6OYy+4wwPO8ysB9lEB2WpNxDaR3UI6anw7/rETMVYSX4fP7YbFS9+x6KAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 98183123,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Did you know?\n\nThat ERC20 and 721 both have the same transferFrom() function selector?\n\ntransferFrom(address,address,uint256)\n\nWhat could go wrong? 🤷🏼‍♂️",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8aff98d0ab907e4f458a751fcf92ba30cb45f720",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "4iLTQEoYCiFwB3RGfx+C5Xz8kPPApKJ/ahtOMTiublwssuXYVLfdNQPcF/dG7kCZ8sGbBRtw5f0d4FiNiSBRBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 98183175,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x8aff98d0ab907e4f458a751fcf92ba30cb45f720"
+                    },
+                    "text": "- Contest finding where asset to be transferred could be confused:\n\ngithub.com/code-423n4/202…\n\n- ERC404",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/2qSH02L.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x0a23960dcaec0baf6c7c688f0d7e66f21db8dda5",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NGv1d2B/X/uBgBF1E0rc29AsRoUDG8sKbYIzDjnuKSf6amTrzK1C5cjCuJwAroZ44J638NgrBnCv3NCNHadaBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 99048730,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Which costs more gas? Why?\n\nHint: difference is at least 40% more",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/eYt6v5p.png"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x7d33476d64b1a2ec3fc7b171502ac869ef6f992c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "BPznwPizNLLJ09VSAVjaoGu2QKT0aDHXEyJs9hdpQ0unJOWAj3bjKw+GO5aWCZdbF6iOY5Ny7yXhSbGdlXflDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358470,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
+                    "text": "Dencun upgrade hits mainnet in a few days time 📣\n\nAmong the ugprades include EIP 6780: changes to SELFDESTRUCT \n\nIs it going to be deprecated? TLDR no\n\nWhat are the security implications? \n\nRead more to find out 👇",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x0d5828bb27d2166006854f57f321a7030d07e37d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wyouzYk9VlAyJYVH+RzdevSnpb01JHHiP4v+dIN+vFEbEHwLOVGy3iRNI6QA1egEtxZSK3mrul/KliUDWEYWBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358494,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x0d5828bb27d2166006854f57f321a7030d07e37d"
+                    },
+                    "text": "First, a quick summary about why ppl are calling for its deprecation:\n\nInitially it was meant to encourage state cleanup\n\nUnfortunately, few good etherean citizens who actually cared to do this... just deploy and forget 💀",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9a5706aaaad98532495852efbc251ef4103ff6ba",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "A7UIAK6Ja5bhaB2ieiPuF3tIbavBoWWp+ZVfkq5r57NWEVdp5OqIreU2/9MYCFKmMDOHbzk2ntSMLzSLF33mDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358533,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x9a5706aaaad98532495852efbc251ef4103ff6ba"
+                    },
+                    "text": "AND there were problems introduced by SELFDESTRUCT:\n\n1. Gas cost to delete is the same regardless of the amount of data\n\n2. Devastating hacks. E.g. Partiy multi-sig hack",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x3dbd4f252264aaf106b8113c5387f1f59d766cd9",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "RzY1rJYxGixxb5IXJY9XR03G6r3f0TC7A6JNaMecU7yCwbOMKmfAkZdc75WFjU0R8A0bhJzDkg7Y7hSXqS7qAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358543,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x3dbd4f252264aaf106b8113c5387f1f59d766cd9"
+                    },
+                    "text": "3. Security concerns once Verkle trees are used.. TLDR no way to map an account to its storage slots so deletion is impossible + CREATE2 would allow access to state of previously deleted contract",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x044ea983730c073851aa0a2d7b694593cb220f86",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ruub1c0i1i/P6LIrnJrjVYYeKC7oqT9fBePYw+R6twEJ4HKgXEVyQAIMXj7RXVMmkp2JqQOL7aOhsfk7XzZYDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358562,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x044ea983730c073851aa0a2d7b694593cb220f86"
+                    },
+                    "text": "So, will SELFDESTRUCT be deprecated after Dencun? \n\nNo. But some significant changes in the direction of future full deprecation..",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x6cea584195ddb79fa778229daf9833dde9dca099",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "OB37hcPxvqXUvBD2Dbw1h6wy3c3np1MELesvgRLQW/UkTFlcQ88eT0aYAiZQ/9m9gW7+gBh7xhtX/srHoSczDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358590,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x6cea584195ddb79fa778229daf9833dde9dca099"
+                    },
+                    "text": "What are the changes?\n\nFirst question to ask is if selfdestruct is being used in the constructor or not:\n\nIf yes, then there are NO changes; same behaviour as before\n\nIf no, then these are the changes:",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8253c7e83d01409e13848676f8ddd8b6fdd12a8b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "+2EelCIijgUn9x5k1G7SDKBSp22ULALlT9xDRAgu5Tmramccavepg/XlGCqBclNmCv3LzQIHMhmYx63y4oQhAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358629,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x8253c7e83d01409e13848676f8ddd8b6fdd12a8b"
+                    },
+                    "text": "1. Contract data is NOT deleted\n2. If you selfdestruct with target as the same contract, then no net change in balances, no burning of ETH",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/2ZIElQF.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x7056ec76e52f90929f73ba84c9c524a2464b4f5d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "nR7fDr8IpS2CSXVCu9PVhDcDH9Q7bhltX8nNVCXlBQev87ugyIOv9jA9ElJigkaOpbMUti3A3OIx/6d2LkR6Aw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358647,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x7056ec76e52f90929f73ba84c9c524a2464b4f5d"
+                    },
+                    "text": "So... CTF hacks, Ethernaut puzzles to do stuff in the constructor, then use selfdestruct to send ether will still work, no problemo 👌\n\nBut contracts that rely on selfdestruct to send funds or upgradeability (really shouldn't be doing this?) will face issues 🚨",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x48498edb8098e2be5cb2448c9db4338654d68cde",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "mgk2MjH8J3Bi9c/d5Cu5X6rze5/tQoFFyTXedN40dfoWQkV0oxJr6i5617IiYGOj1sXj0obFt325+kvdrcdDBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358679,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x48498edb8098e2be5cb2448c9db4338654d68cde"
+                    },
+                    "text": "What are the security implications? \n\n1. Protocols that rely on using CREATE2 to redeploy a contract at the same address after destroying it (to make it upgradeable) will no longer be able to do so\n\n2. Any functionality that expects to burn ETH using selfdestruct(address(this)) will not work anymore",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/fjyLb2O.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x9598a314f4b32b9b4bb8b512147d83e443f9027f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JVYztc/7wrJhQk4G1YHsJ/0j35k9n2QNRVq3qRAzTIuCknqVyMITL9N2I+Qbd2R9zsPjtF/O3cEXvoDPR1tvBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 21475,
+                "timestamp": 100358719,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 21475,
+                        "hash": "0x9598a314f4b32b9b4bb8b512147d83e443f9027f"
+                    },
+                    "text": "Hope I provided a quick and dirty summary of the changes and what you can look out for next time you see selfdestruct in a codebase 🦒\n\nRead more about EIP 6780 here: https://eips.ethereum.org/EIPS/eip-6780",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://eips.ethereum.org/EIPS/eip-6780"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x2bd023bca1d061148388a4090f6ce0216affd6ff",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "t0+uawDtqElgN0lJzSe2Is5tsin8oOIlfzTyBvEo/menjUyCOtBznmtdVIF1yiMm2b8lektyov9se1C8W6UGBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x6d6308d362a13b6fcde4499330291840d4c7ec5b6b114e0acd3fe3e747af335d"
+        }
+    ],
+    "nextPageToken": ""
+}

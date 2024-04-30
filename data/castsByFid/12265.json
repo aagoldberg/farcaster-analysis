@@ -1,0 +1,1549 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89164703,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Gm! Been on here for a minute without a post. So here we go",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xb7507ea28997d10b3b202ff1b1e4b2f961acd6cc",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "of7AVEM5HM2SOROvXTIh6LUqQt+tzqu9k5Bm8//Xv575ZSfyIUqBaZwQxSLUwpx1KzMKjxFbgqgedyQIyfLnCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 12265,
+                "timestamp": 89288821,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "IvtKppXIHm4Kkm2zpV62axTPnM4="
+                }
+            },
+            "hash": "0xf2cce5d7586098145060394f9814997c4a581122",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hdqM0rx1h6WPeg4MQsdLMklqCWhG2DUwye/l9zOkxA4kPT2UiFpyfZ2hX7Ey97Rl+7EiHi5sqy1V+cgPlxRgCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89288877,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0xdf9b7d26c8fc806b1ae6273684556761ff02d422",
+                    "text": "Just discovered ERC 6900 proposal and the concept of smart account modules. However i still don’t understand what Safe implementation proposes Vs Etherspot. Can someone ELI5?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfc3509003bdc678810f7693dc55330a80bd3e053",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "iUGJQ3rqb5O1vNFeaxFvZXGFDgPoJui7T7EJI4VboQYbkltqwQzilvXXFCzI5aVtyRY0E1VbgspDFwUT8DPQDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89294592,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7848,
+                        "hash": "0xed21dc288717b5e9233fbeea036ac2a2e03cc841"
+                    },
+                    "text": "Thanks for the reply. Looks like the response was cut off after the word ‘custom’. So if users can add or remove different modules, how will this affect the use of the smart account with another vendor?",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9f053b3fe848a18c12e8b8b6fe983b2312a8974f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "dTSMPu5PCTWqGxJSFKseeUoJ6krv6MBaE5I6XS0Z37AYq1iTWFb7F1cEF6brA9MwbmalOk7kXUcKy3OqNJQOBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 12265,
+                "timestamp": 89294863,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "cYJ74nm8y6ZYZv5eutx/wz7uncE="
+                }
+            },
+            "hash": "0x5bb523baeaf16ef81131ed22f30b90db67dbd09d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "gFjZyWvXUq5vUuWtdLUrP4aXj+UGEDD9bSKHpHOq7zarO3TbDjaH+PN89o5jYH1Nh5bcess+i9Z89cM2hCwFBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89294887,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7848,
+                        "hash": "0x369df7a232e99c153fe025563794e74a6ce694ba"
+                    },
+                    "text": "Ohh my. Just posted my response and saw your full post 😂",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x74b5e87ef50ab98f56bb17428fb5197540a6a7cd",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "+46u7n71VCXwHA5nZa3S4r0o+ych4lfv+AhHzjLtBsJTY0G+nANauUpgu4lnTu25D2Jp4pocYCYbFQPpLKfRDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89301429,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 7247,
+                        "hash": "0x16f4e9f597488510786ae422b5346e6c74da75d6"
+                    },
+                    "text": "Awesome! Thanks for this",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xea66a441920b7d69de23fd1253bc6de417fc384d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Yw3XfBr1OqAZzCaQIQFRpxWTZW4aNsd6Vsg2gbdf6qPVrcGqTfJIgYcfYlcBCC8AmFcV3Y7p58QdSTbIO1mTCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89304912,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://www.apple.com",
+                    "text": "Full behind the scenes for Apple’s event shot entirely on the iPhone 15 https://x.com/ananayarora/status/1719285711348842612?s=46",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://x.com/ananayarora/status/1719285711348842612?s=46"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xa906b53e1a1a7aaa265e9e1096e835e0c047e4a1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ITAX3vPqVsoceqMcx0dmwhj5TQVvh1ynrV5Oaq96M/v7YT1Wmkik4bdZxOqqk+D/jnaOipA1GJKLQJWLzZBZCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89306262,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0xdf9b7d26c8fc806b1ae6273684556761ff02d422",
+                    "text": "Congratulations to the Celestia team on their mainnet launch https://blog.celestia.org/celestia-mainnet-is-live/",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://blog.celestia.org/celestia-mainnet-is-live/"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x226271c9178c0973797e7371635be8ce55cd92dc",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "aiDlYdPLrAMjFW8vhEUoAbReoDc5fo7buxojHu9FwlnzwKtem2ExCvH6SVg1yBHeegLx6O3RXNGtYACTPEUcDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 89385997,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2348,
+                        "hash": "0x71eb05ef8007fd6b0ce060a032144133ed54ae76"
+                    },
+                    "text": "This is amazing!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x7d7a444ad3a561b0759f5be4342835ef633475ff",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "08T9Hd8GEaCehOE1Reyvc4Xs9Kk3h/ZCZ0oOBgBVQdirFF/YaJYem+1q3+wkptAhwO5OsLhWGNXeYH48lUcCAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 90015821,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:1/erc721:0xdf9b7d26c8fc806b1ae6273684556761ff02d422",
+                    "text": "I am using Dawn AI, and you can too if you use any of my referral codes: \n\ndw-8e9fc2, \n\ndw-cee565, \n\ndw-346bf8, \n\ndw-88bc98, \n\ndw-c4c0d8, \n\ndw-df2757",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xdacdc84f455fc5437cb0aab496d82fd2eb3ddd32",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "+zvHlxF9jAqvJmwyvxVtZynPq1RUnG/pU8qtHXw1yO7Y8KUJJRsY/7qGcjRGKK2XXMoDhOW+r2lgJKE5ucUaCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 90340441,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 193146,
+                        "hash": "0xc372dbece1e7e9e6c5009073372978b4bf8ef07d"
+                    },
+                    "text": "Out of codes",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8b1424b9096d4945d5d3e470e814b4f0e07c1800",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qWxXvvWPpVJPJO5gAX80Kacxr8beQJ9jSdE0o6bC6xP7XpXKHUpt8nUyl+1I5BgtyBBK+nlE9DQoDKt8m4UZDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 90874354,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://onchainsummer.xyz",
+                    "text": "I just signed up for early access to @BuilderFi!\n\nYou can jump the queue too by using my referral link:\n https://form.zootools.co/go/FiWQu6gi2lHXsJaskHgA?ref=9mlJMXZMG9UQWn40YbuB&utm_source=twitterShare&utm_medium=organic",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://form.zootools.co/go/FiWQu6gi2lHXsJaskHgA?ref=9mlJMXZMG9UQWn40YbuB&utm_source=twitterShare&utm_medium=organic"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x15c8f0ccf6b0641b7853f7cc6f497ff31b4bc96e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "gEKeObyu/atH5vdrO3X8XYkV+8IcktkuXTrBPhPU2hNAY4jkWkDVqnol2fShYZcNu2366l2IZpfzA1O+etrpDw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 92964102,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+                    "text": "🌈🌈🌈\n\nI just had 17141 Rainbow Points dropped into my wallet — plus an extra 5 Points as a bonus for migrating my MetaMask wallet into Rainbow 🦊 🔫\n\nEverybody has at least 100 points waiting for them, but you might have more! Claim your drop: https://rainbow.me/points?ref=RFTJ47\n\n🌈🌈🌈",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://rainbow.me/points?ref=RFTJ47"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xf7020aab480219be2dbf712219688badd80c689b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wI5Z88WJiIsCwzwuwlZs6fDa1j2EYvCsT6vKAEIlPfQXujMrs0lkXbn4oo2dkL6f7UAgmrVyHIhVjegnRvr0AQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 101740000,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Very impressive project from the team at Light\n\nhttps://waitlist.light.so/?referral=NM9iLVLk3e77",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://waitlist.light.so/?referral=NM9iLVLk3e77"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xf000548cfa023ddabaebc65c8b893a4d11b91806",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JZMP9nneKLudg4vLTW7f5EGcmvxXDYoVl6HEwpVqZnSXpqgs/wPYhkk0OSHRLMxs87EcQExXUE9RCYRD0y6JBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102016923,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 222789,
+                        "hash": "0xa862fb9756c5f954f0db93c77e3654af44f72b9b"
+                    },
+                    "text": "This is fantastic! Thanks for putting it together.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x5c7af6f8e3a50af94e383202fe3200ed55cf2c87",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "AeUwfoHATGCJU+2nIT+5NrbYkBbha3W6kW8rAPGqs9/92u9j2wbBaOko+6Gt7Tm5U+AqeUFB4q8nwy78/Zk3AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102118726,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 322178,
+                        "hash": "0xd32f9deceb83590264f982885b3c84e0bd93cbd4"
+                    },
+                    "text": "200 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfbb05ad3f1b61158beb87c3bc26d6f16ccd2b3b8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "IpiNzR5VXnmiCvtFIXta7CpudzF//rAienyUcdvwNnwMX91oEdG5Zkj9Vecl1kEArnsssBvtMNxf1v/bUmFqCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102143803,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        388831
+                    ],
+                    "parentCastId": {
+                        "fid": 56,
+                        "hash": "0xf455ac38c18dcf9af29a2b5089330bd251cd292c"
+                    },
+                    "text": "early caster\n\n request $4.84",
+                    "mentionsPositions": [
+                        14
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4f9c61d86f46d95ccc781636a8ff3d03d1bd856b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "L7Fi/4JRkk0nPLQseEPiZJkkUPkPEdyf7iPM2rGLfHDmGhLouaR64Aa05Fuv+jUbNv6WfQn91leUvUG6PKivCg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 12265,
+                "timestamp": 102144862,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "TgVmZzht81j9A/QT14SubkXNxZ4="
+                }
+            },
+            "hash": "0x8a6a4f8535539836b4296aecfd714a28c8279d45",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "FvhJppcl/viWc0CkWskK3DkvJlfebg7I/C2U1lTwDCcmor5/6+RE1lx7QTKX0UUj7xDlZkVaUIGXvBYyEwZvBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102190430,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        413936
+                    ],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x8f0055447ffae257e9025b781643127ca604baaa",
+                    "text": "A warm Farcaster welcome to !",
+                    "mentionsPositions": [
+                        28
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8f5f6ea99f7d563332ef08aecb62aa12d9009d48",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "zF83YYYySSUOL1TQpiqKFabX+nsqetpL6vDVwkgmQ3HIzW1fg+NG1kt5aOIUsAmt55jWYx2TmQK/fybKlCBYBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102310607,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4036,
+                        "hash": "0x883136f07819a7299de4f048e940bc2dcda3bfb7"
+                    },
+                    "text": "Thanks for all you do Sassal!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x568fc610345808941acb59f7c5ab94223da3cc1f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "5HLJ3gNlECWltH7nmv7bHJbR6tHWycPTq2kKm7vpL3mRjcCUdAJsBAKM0Vb7pAEpF1xSlr2raA1+xsMpIvy6BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102311303,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "I just got roasted. Click the frame to get your wallet roasted.",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://roastcaster.xyz/share/12265"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x3bb51083ae8b48e33e3ee48192c8f20f2460db93",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "otLgyeIdrpgecq0yLs1XJE41KRv/qzrC1DbpSBa11g36aQ82Gro9GAZ+fOmKxY06GJID74hwIXJJUspa7DYrDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102311481,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 211272,
+                        "hash": "0x465244ab37176ae83aab0451f271d853817a1fb1"
+                    },
+                    "text": "😂 400 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x77b6a02a303cfe52ab91ae59b4db33458c06517b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "wHx5d9XQnl4UIWv4PtQd38jLJQ1mzPfURthbG9ZIfoaP2GNlf/UGsA1CiEu3cy7f7gmHS4uR8wx2CudhVP8mDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102311896,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "I just subscribed to 🎩 DEGEN NEWSLETTER 🎩 on /paragraph! Check it out:",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://paragraph.xyz/@degennews/52?referrer=0xffc5bb3ce21ebaf25648dec737ea96a2c1c38bae"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xa07e102e01e7ca30515c98e138201d4f8a51f469",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "U66ouB2a/0dXaLPNqzv2bZ8wKGh+sLrr7QPVsavdVD+g6Ejphw1NlpzeECzyZemXj9afjfhwLwtBI/jzx7DzDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102333394,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 278655,
+                        "hash": "0x1a608c0eae83cea996dd078e2c05cdba3837ad91"
+                    },
+                    "text": "Great stuff 10 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8fc6f56ed59c48e0daf1c2bdafbb16f395c3cfe7",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Jvtdx6N4g30hPsUQEDeAXf9hrUC8KSH5Wbs/wS5I+n7UFk/wzsVHXsQQuvUF+WMsX2Xlav4lChA0gKp4b7LLBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102337951,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 193328,
+                        "hash": "0x50580ac0d13572c852b2849eaef0315c4a9e4641"
+                    },
+                    "text": "They got me!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9324acb2b5dbbb47fe0a7cbe6655c30b45812422",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "3p2kIsHmueRGZ6QxLLlVHM8192X3WN6wo1FecAzbviZYzAUGgTIK5r7ixlA0Bc69X/8cmnchcUQlMALftHl9BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102338017,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 13833,
+                        "hash": "0x48f785b8f39a31b53bbee2152f2c844a1cd8e685"
+                    },
+                    "text": "Definitely feels dark",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xf0ec278e4fe41e95687d5e94123c8b8fda92045a",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "PX0Khd+6gvQuNbcHFglHAtn2nwjmTYyNm8H5bm5X3vFHa3FIDZ3pLcU+psKe7r1tEqPm+E/q6d6NfgXquH0wBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102377226,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "🦄🦄🦄",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 324,
+                                "hash": "0x98a8199379c72604c3256b241847a7a49ad3fbd7"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x3fad433b59f5e8d9a1a172353c3ed992630ad849",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Aig4YWbP33Ufq3YuyixRe2JQrg+hkUd96AFc5z68cnQarVqbfKSjSdyP4gf7tNjEw7qj21NI5Ge9hJ+JrLTAAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102395808,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "🤣🤣 too real",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 12,
+                                "hash": "0x30ab38ffcc8dcf9a67fec55365006f0cbea7c45a"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x246e22c81ec1a138c49b5b3bad6ca1d960156a3c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "jduFj2vuCysvU9QM29WGWDO9ZdRZc8w2wKbem8rAZc2N7+u1RKPYcMIpq6VwhBUKfDtiDRrNrxMFeonr35JhDQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102397074,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "I'm taking $onchain pill",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://castforprescription.vercel.app"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x9534ec3ce83c448dbce6ccf6a656e6057e686400",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "xCgffwvnfqSwDSnB9oMVnu9aw3O0fe2ruumzMJT6ChAROeeK3SMfaQ+z6PyKah0xi79P4ImcDsNlmPV1rA/hAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102446635,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/higher",
+                    "text": "↑",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x54201bc79e3727f91f3077fd2bb18cd5df162a81",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "EtMxVCfFLAlT79JQRZVEXRzrhY7tXyCu1TpBM7HFys6X2yOaYaLN1XSdgQxzR82WWWK+94rIHhYmyNuz+aeaAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102447971,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/ogs",
+                    "text": "🔵",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x18176eb92a87189b6cde2b2e25d2384f3644239f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "1DLysReQXa2GjUqHuHrCtl28xTsa09dn3ZzuiOz5DvGRnm7OcVcWYdRsjgpyQt1mqufnL9BQ3af5GS/cA+wqCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102455677,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/wearesoearly",
+                    "text": "Crazy",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 20565,
+                                "hash": "0xb0719be463e937de5fbe2c27d0904313b421a7d3"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x74b5a9242cd620f358d05630856a1bfb89529b7b",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "isqqB5T1f8Fc0n3DrYcqZTdVTnnIVgqJA78c493v3wKaR4Lyd5lUTgninZWJnWic/H/wOM7VUKMfxdULvdA+BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102455780,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/replyguys",
+                    "text": "Study this",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 1941,
+                                "hash": "0x647fb2250f608949faf1e4bd93e114dbdfc52387"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x41d14c629031241765dd8d19d55413f8d2c6b88d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "9GdGo5zsgHODkwWQKSlC3HYzz4RvL2px8bigzfNIzm7a5Ai2tZ+YwuAIxWZAqoJ02Bz91m4Zf1kHUpugmXKNAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102455928,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4036,
+                        "hash": "0xddc5f5182d2b0fa8bd1069445088ee942f615e7e"
+                    },
+                    "text": "30 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x574e40398894742a418e1a1932c32a4cdaec7e42",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "rN8cUCe1L2G6LSCZNbvHDHlgwADOP7yIpC4oRPtF2Pz7G0pzH3kZhH5nVDrKczIowjOxdUBfgMZymEnQo1IUAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102471213,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 323398,
+                        "hash": "0x72fbbea8009f24bca599685073c179f9d245c8ce"
+                    },
+                    "text": "40 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x63c63123c71f4c41627cbd380f6a679b7e8a184e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "vCHZzvf5PgVUe3PKC1zdm9LJRQ7mJNufpm4skrpqQfnio7KODAKt9fqPVdjf862NuFP9KMGwsI1RpSwXW5dmCA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102494297,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        4036
+                    ],
+                    "parentUrl": "https://warpcast.com/~/channel/replyguys",
+                    "text": "Total agree with  here",
+                    "mentionsPositions": [
+                        17
+                    ],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 4036,
+                                "hash": "0x1b245f40cbb8453673df3dcc24db02f285c0f504"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0xc44002a703236eaee7cbdf874fd2626b5839de9c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ivXYS0PdOELVf7mTxbnuaOpl+zHmpIfy1uKIs4UoSKf4BGb0nOz6GTabXcFVPtgc4e9FmTBIt+e+zMn3//WJAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102494552,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 196339,
+                        "hash": "0xae3a1d142c0717241271da5d352e88b278834481"
+                    },
+                    "text": "Based! 40 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x44bd267a5ec1fff3c96f0fae52833090646ce944",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "369WzpZ2IcnT1VdK6Pjk0Zmg09NjLOF4dcAwytirFAlHLjztntXbV+TGdRgbIwdBpLKp9pmDmG0YoSUPXWtoBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102494836,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/replyguys",
+                    "text": "Sendit",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 10810,
+                                "hash": "0x43f87d7789d7ef887aba37fe4eb98d3cff2c0567"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x323209a0d0efb7dc131abdda5daa0bb6fb3e192e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "0eXWnIp0G8hLStOf+TX02t7sHTcxvwBdel5LI8Wp+fwCu1dC1tTdocAkJSIQbGfSSE3Ea4EKUE50qP1vfVAwCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102515273,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/replyguys",
+                    "text": "Higher",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 206,
+                                "hash": "0x515a9fc52c8a643364288c87d34dd3ada64f953e"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0x64e3708b36eb340e303c77c209e1c4125afd78eb",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "HwsCzFZ/X+o1qB4VY2xqGY8+HDFM7ows3oZjWdyI9o+mFOzY2zyi1N6Y+m7g6D+ry8Is3u/gu3GLxVwZpAoKAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102522425,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+                    "text": "Boom! 💥",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "castId": {
+                                "fid": 20591,
+                                "hash": "0x6da08ab84f7c8be8f755a43d47495811bed18e76"
+                            }
+                        }
+                    ]
+                }
+            },
+            "hash": "0xcacef7064b60dfcc90ba3475e6c2c34fa185bec1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "mvcuGXHOELDVCkBaO1FQx4dAWiavCvm4uc1QlXJo3oUFJNeePvZAmburv1bQepky772FyLncaokNsYpy1btZCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102522454,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 20591,
+                        "hash": "0x6da08ab84f7c8be8f755a43d47495811bed18e76"
+                    },
+                    "text": "50 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xfdf18f93f3d7459f67102c881af61fb27033cd34",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ddnEP+w8a3R6jKWQroLZnE6AhoEsoW4su6k9gIPCqr8ktVMINOdluO9ypgATKG1BjQRtXJHht3tNcwUwwMKlBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102542806,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 345206,
+                        "hash": "0xa02826ca0b2b1a6ee5e8cad1b9963eee90d1f4e4"
+                    },
+                    "text": "9th wonder 50 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x075526383086728b3e852970c62712fbdd509427",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "LP7OMF6ARm7bXoGE1tKtPsVPz0QG5w6GvSCwJ3uUc5LEae8sEzXSaogZ9Wy3sDl7427pgFkSrAVN921GSuOsCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102584965,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 2201,
+                        "hash": "0xf7a4a47d5bbcf4f66c8af4e130f04ed297eab260"
+                    },
+                    "text": "Kudos 40 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x306677be4a05ccb778121c55694cc661fb6500ff",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "O68iwlgLjLIU8cmVZkGHGxEBUYdkoWrPUNY/FpCNOZ0g4ld/ZuoBo8C/BQBxLXvWdRLMDPH7mhrLsIELYLVIAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 102998045,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4627,
+                        "hash": "0x757dfbc969415932d58da2be42407cc41284534a"
+                    },
+                    "text": "Here",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/AfPNT4o.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x742dd140a562cd6fd08dee93d56fad55700234a6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Zow3ZRJxZ5yJPRwaLLi6BAd0W6WaO9EHQB6uwl/DucqNPQVLUwpqEg9+DeZqgcqeVUBQMmN5fvpr1v5OMajDCw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 103213003,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4627,
+                        "hash": "0xd4d47f1f3a0abf2f1daf09ff0ba44e8ddb7462cb"
+                    },
+                    "text": "HODL!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x954aa1390a93af09a489cd14ce241f36318cc658",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "VA4tF84M6mlB4p9SZE5t8SGmU3O7NsIkxbsUSmLuClda8n4dQ9lQi2Z1Vw7H8TgoKjIj/PZPNI/kNWbrKB5KBQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 103280411,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/higher",
+                    "text": "Higher for longer!",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x1bee650e821965b2bc52d08569f0eb7f9893da6e",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "MBAJAGx9OOibzNQr1BdbmJ9lFqBXjVx2RWIY42TO6b8rCVio77kPphG+2MdKMo7m1hMQFhqW/1PZPASV+67PBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 103283811,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Uber is here",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/qmeqn6n.jpg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe3361293695d6cc1166b82facbce68fa5d025eb2",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "jha+HPFKXWyYkxterQR0b5ETXXgY2v2GhoWlCcjX5RjruBVNj1SE14PeOgt2H7J/h9rJympM/+OKWMo5E/lPBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104145312,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        262134,
+                        343261
+                    ],
+                    "parentUrl": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+                    "text": "Just bought  token on ",
+                    "mentionsPositions": [
+                        12,
+                        22
+                    ],
+                    "embeds": [
+                        {
+                            "url": "https://drakula.app/user/0xamol?invite=FqLRpC"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x00c4eceecf3419c0c65a2496d33495f06e25c572",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "TZW/QSERVS6l36j8BtCOyb8MCi2S0E80IXN9MW70Zkq7R/hdyQi2NP6Psqho81KYOPlJ4dwpjaZPBB9mI2Y5AA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104151947,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 19129,
+                        "hash": "0x199f1001d10822b2eba25a672617a788db19d0c3"
+                    },
+                    "text": "Awesome",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x00baa7b2a91599261d228ffb09e13132c7f877f8",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "hBvtpVIx310DwKGLwGpBbQ/3DFUpNeHMhYtqwOeUxGKW6QzISsWcbTl3X/shEyCToM7tOtZQWKXZNOkk92n6BA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104155310,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        492621
+                    ],
+                    "text": "I'm ready to play  - the new game from /alltimehigh coming next week",
+                    "mentionsPositions": [
+                        18
+                    ],
+                    "embeds": [
+                        {
+                            "url": "https://ath-frame-game.vercel.app/api/nft-preview"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x5874a8f6f075b0ec927346a49a17a95e7f79d0fc",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "Tenvln7GboQV8tL4yMYXtfAD49SQD4uVJIsp6NtmfMtLvKcePGOYljEeWMb5Hu96H0jnON8GAyBPZ7z9V0WxBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104159565,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Just the way we like it. Lets go!: https://drakula.app/post/ce4e12ee-0a33-42fc-b0bc-ec6e3b4c224f?invite=FqLRpC",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://vz-629bcc17-285.b-cdn.net/2a130336-3768-453b-b924-bb0c80fe9bd6/play_720p.mp4"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xb56617b6c65c01efe39aad8c61c9d1554cfaa02f",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "gPVQllFv13ZLZA2r8DWErIUN16H0Jj5MXHkTR+yiunj0oFJ7rB7e9UJiaegORptXNBf/fe559KmXl/WQUBiHAw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x879e4ff4b0769c074f350df3ee6a25f74297b61d328fc866e60135eb786ad826"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104182268,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        10636
+                    ],
+                    "text": "🎉 Let's earn together! Download  via https://jam.so?referrer=ZqlMB4 or use code ZqlMB4 to sign up. We both get points! 🚀",
+                    "mentionsPositions": [
+                        35
+                    ],
+                    "embeds": []
+                }
+            },
+            "hash": "0xff00cc91d75622c8d3f21acb6d0d41c6c9bf7b0d",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "kRsHNFZ5BXympgL7uCMHAc5wWILWeIu4Wwuzf6efR8Z595+3vzeRKxVfkek4C+bcdRPXHf0sI5xhGqOgsPSdAg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x087dd97885472d15efd0a8efd665b88016b66e192c82f438e1ecb7f418fc0f05"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104182450,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "From meme to an ecosystem. All ‘overnight’ 😱",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/skY67qe.jpeg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x8e4da3bc203f9c1ab5e3e393e26aab99bb215271",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "+CfV6EVx6zGWsKUojbKVOCYru7af0DPYBRzNcuCLiI4gyI7GOkDW46k/BZ14YZ84xazKSSIn75qs4nhuzBKBAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x087dd97885472d15efd0a8efd665b88016b66e192c82f438e1ecb7f418fc0f05"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104183832,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3046,
+                        "hash": "0xceaa060ad85dc0e39f18c3b344a8551e859f1371"
+                    },
+                    "text": "Awesome 20 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x9d10dd989b0c6975585db61ad97c7dbac50d0392",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "jyOCq0xoC0pIrN47Nf8pZtybaDLW4G5DaGSnPCyi61lC9ieNnJgLeeiG87zDUkzZjahhWAXE3VcLXrhbarX4Ag==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104184157,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 19129,
+                        "hash": "0x88673f7821bcf9a93bf4f28229b1ff3ed409eec3"
+                    },
+                    "text": "How do i get an invite? Performed all actions",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x59717b64ce2e385510f08412e2d2b17260786e9c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "YvajN59x3Oo52bVAgHr2T5ISqUaLFoPp2NjkV2Ih+aHYVcl9t+DkjeOu79oKAMD2ehm6wjdx+dZGJaZzq5oYAQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104184459,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 4036,
+                        "hash": "0x03fc58b3d2cc66302444c88df85e311905143c28"
+                    },
+                    "text": "20 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x4fcce0fd9ffa6fe40c0442170ff871f3eb205a80",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "sqMvyRdMkG8v10eY+VnzPeSMuv8dw+QmayF1VYv8b+J8lYLWp0HQirVtz9pcXU/j0DfI3xuHYNR3DK2RV68dBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104185452,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Providing liquidity for meme tokens is definitely an undervalued alpha move",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://i.imgur.com/XmYekwY.jpeg"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xf012dbe611dd3847aa85ae3357dd3fef04c07284",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "NGT5f1LX77gRrZVLAS00X2f3Nf0gu+XkAQOmMculPGoZHV6Bj3lYNADhk4n01633v0TbvppaRGVcvgjIH1sLBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x087dd97885472d15efd0a8efd665b88016b66e192c82f438e1ecb7f418fc0f05"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_REMOVE",
+                "fid": 12265,
+                "timestamp": 104186914,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castRemoveBody": {
+                    "targetHash": "7SV1Sp+Sp+ui94M4aKeaebyL9E4="
+                }
+            },
+            "hash": "0x1282d9e05b5054c8d48a6b37ddca55075443976c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "pbZX7qljYD4MjEHeh6kGq3MtajMv2xl2yhJJE2VbN7hcLJyRxxTpm47rfSt2jaTlTxKLcfR1H+aoIw/oq2hKBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104193233,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentUrl": "https://warpcast.com/~/channel/alltimehigh",
+                    "text": "$ATH preparing for the next ATH",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://drakula.app/post/f6d6d6ed-b145-413d-ac9d-91be8c9e8d2c?invite=FqLRpC"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe85193ced3c7ac5f8db032240a06633ccf7f50f3",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "58ZzNZHNLJlFN/LlYq4W1BNqsdyf6MhkBWR8u5tl02OjXW9HnmrtLc4ppQlHrhgCE7prS7kFTYL6bfqJ4l5BAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104193272,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "text": "Check out my onframe Noun⌐◨-◨ based on my Farcaster ID!",
+                    "mentionsPositions": [],
+                    "embeds": [
+                        {
+                            "url": "https://frm.lol/bignouns/12265"
+                        }
+                    ]
+                }
+            },
+            "hash": "0x1af8a5484139264c38e041736b375d2a042c76db",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "WO+ffPKAiavqxBdXU3zAYzXQysyyfJqb+ZKXQZQDMKpljhjUhWCmq1nvOc1Ghh+fcT+CYG+V0jwAOExnbj14BQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104445453,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 20384,
+                        "hash": "0x8590d6251ab7575cfcc0cd72cda95a03b6afbd51"
+                    },
+                    "text": "Great work! 60 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x448ad082334ff354733a7c4930f1b898be0b2c83",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "R3MUecA5fD9yxxkOa6DiRbyLCYs7tW/4Cudq30h2djDYMcxQE7VApiae3S0u4Q4S28zn9VFA8+AnZ1A8qdxtCQ==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104779470,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 411897,
+                        "hash": "0x51be2418d3db3baf57d97c0dbfa03842eab4f329"
+                    },
+                    "text": "60 $DEGEN",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xdc6429af0dc15d22ae9c562b0085b0ea04c50ead",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "bqBsZtpnpDvvvGaPfnt61Ooj5S7wq45b9JAl8ruHPuS94or3APEKek+S2RtLAQ/bt82Paoh/Pj41nNDfaVbYBA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12265,
+                "timestamp": 104783627,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3046,
+                        "hash": "0x916a17a29065ee271b80b101d38ff93e93230621"
+                    },
+                    "text": "Same here. NFT + ATH holder",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x87d21a4384c00c44f481e0faa024d18329f9d3e1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "I31OXpB9UASSmC4hQ1YXLqBe5vI5g8s7qyzZtyVXz9+sUDd9eoGnAHeek54otnXsCtUCJXUvYWQFonT/BTFTDg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xbd8a52f01b8016b07c14a10a143a0523883aa65bdc0e23c1d72357a909a51a1a"
+        }
+    ],
+    "nextPageToken": ""
+}

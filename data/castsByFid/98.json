@@ -1,0 +1,33 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 98,
+                "timestamp": 99001959,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [
+                        19661
+                    ],
+                    "text": "Announcing Packs\n\nA new primitive by  that enables great onchain and offchain experiences\n\nhttps://ethglobal.com/packs/denver",
+                    "mentionsPositions": [
+                        37
+                    ],
+                    "embeds": [
+                        {
+                            "url": "https://ethglobal.com/packs/denver"
+                        }
+                    ]
+                }
+            },
+            "hash": "0xe64cc340886ce360b0cf89cac524fcd9517d7431",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "JHg6mlJB8gPLPFYhFr1l6bRZ5+3y09ZNqpsHFtukxtXU+rVxQhjL1I1tD7mAaCFvel3gdDkapKw7HtSFtbGuAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xc57b5d211e1c9d33c499c8d25138f29a1a92e43e1fad55dee2495580ac5ae66a"
+        }
+    ],
+    "nextPageToken": ""
+}

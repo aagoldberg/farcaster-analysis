@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 11938,
+                "timestamp": 71799903,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "samcoffey"
+                }
+            },
+            "hash": "0x2cf891873c4e48afaf739429560c786ab72bacd1",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "ff5+TA2ISV3aBxrt7SQhfIp19GG4IhPKONqG674+FxcEL5MpO7yGyaAZbr5w8AkW35cMKf0Ntex6pFCA+L4KBw==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xdee993b790f1e99793f2ef9dd7a6e04e1c0242427b00d15f65932e1d41826fdb"
+        }
+    ],
+    "nextPageToken": ""
+}

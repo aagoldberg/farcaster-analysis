@@ -1,0 +1,55 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12293,
+                "timestamp": 72521746,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [
+                        "https://apps.apple.com/us/app/friends-share-photos-music/id1552579302"
+                    ],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1606,
+                        "hash": "0x98d4fa88bb374ef513c9e5fb281af8d1b0b92be9"
+                    },
+                    "text": "This was Path for us back in the day. We’ve been experimenting with Friends, which was started by a former OG Instagram engineer. \n\nhttps://apps.apple.com/us/app/friends-share-photos-music/id1552579302",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x63159397b72df4207204444559a2c3ec889462f6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "s5+Pt/EN17/Jv0Cd7L8jVj9d5S+kN6lWLOfEdpXJmzIpXk+MqKP+XuUpXbG/rmsWNlZqVV7ZSY2b39iuC7y3Dg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x94edf21d375baa0c56c86af9eb71a42478ad7c60bff4619733a5525d7dbda78d"
+        },
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 12293,
+                "timestamp": 72522081,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 1606,
+                        "hash": "0xf2236822e9fb8a696be21ea70c305a3a742f817e"
+                    },
+                    "text": "Fewer features. No ads. No recommendations. No data selling (you can pay)…just post photos or Live Photos. As you add Friends they don’t get access to all past photos, but those you share going forward. I like that it’s simple and private.",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0xc0421a9b389bdf7804e9ae1ef243263cd84418c6",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "b9FlymKnJlYzRaz1HJk9Ya8g55CC017whyO94VO9JePigW9gGadZdmkvnGQzS19S4vOk6/mvOCBgYJgDNHluBg==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x94edf21d375baa0c56c86af9eb71a42478ad7c60bff4619733a5525d7dbda78d"
+        }
+    ],
+    "nextPageToken": ""
+}

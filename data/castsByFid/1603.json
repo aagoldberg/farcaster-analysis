@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_CAST_ADD",
+                "fid": 1603,
+                "timestamp": 52978389,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "castAddBody": {
+                    "embedsDeprecated": [],
+                    "mentions": [],
+                    "parentCastId": {
+                        "fid": 3,
+                        "hash": "0x660b3a3ea2c21f81cb21207ef0b11e0f0c78a88c"
+                    },
+                    "text": "The founders Nate and Aaron were in ethereum ecosystem ~2017",
+                    "mentionsPositions": [],
+                    "embeds": []
+                }
+            },
+            "hash": "0x8e2faea3d1f7bd9783b103ee53213d93e2f066bd",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "9LsV0GYVnpI1XvckMdQuJXiPLE9GFta51lOyK66xGv3iTpWTCX4LFPpByz0PeTIdt0CaHNo47gIhBoXGYDVcDA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0xc4bec626b01995dc17682475349229263e79734608f3241abf342dd66873c376"
+        }
+    ],
+    "nextPageToken": ""
+}

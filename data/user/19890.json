@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "data": {
+                "type": "MESSAGE_TYPE_USER_DATA_ADD",
+                "fid": 19890,
+                "timestamp": 85005109,
+                "network": "FARCASTER_NETWORK_MAINNET",
+                "userDataBody": {
+                    "type": "USER_DATA_TYPE_USERNAME",
+                    "value": "harkl"
+                }
+            },
+            "hash": "0xffbec12a3e63ff3e9f62f04452d49196687e215c",
+            "hashScheme": "HASH_SCHEME_BLAKE3",
+            "signature": "qxECO5x31rVSc2bISrHsyxAaTLGHJVQU8ReSqzpKCzniAMfHIeG07Y5b98PrRq3tvs4TUdwuqqHWUUS99KZdAA==",
+            "signatureScheme": "SIGNATURE_SCHEME_ED25519",
+            "signer": "0x310e382702b95e01fcadee56071335438c52350025aaf0f4cfd0a72aa8ebbc07"
+        }
+    ],
+    "nextPageToken": ""
+}
